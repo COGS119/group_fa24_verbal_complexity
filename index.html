@@ -1,58 +1,66 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>Verbal Complexity Experiment</title>
+    <script src="https://unpkg.com/jspsych@8.0.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@2.0.0"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-survey-text@2.0.0"></script>
+    <link href="https://unpkg.com/jspsych@8.0.2/css/jspsych.css" rel="stylesheet" type="text/css" />
+    <script src="https://unpkg.com/@jspsych/plugin-preload@2.0.0"></script>
+  </head>
+  <body></body>
+  <script>
+    // initialize jsPsych
+    var jsPsych = initJsPsych({
+      on_error: function(error) {
+        console.error('Error during experiment:', error);  // log errors in console
+      },
+      on_finish: function() {
+        jsPsych.data.displayData();
+      }
+    });
 
-<head>
-  <title>My experiment</title>
-  <script src="https://unpkg.com/jspsych@8.0.0"></script>
-  <script src="https://unpkg.com/@jspsych/plugin-survey-text@2.0.0"></script>
-  <link href="https://unpkg.com/jspsych@8.0.0/css/jspsych.css" rel="stylesheet" type="text/css" />
-</head>
+    // create timeline
+    var timeline = [];
 
-<body></body>
-<script>
+    // preload images
+    let imagePaths = [];
+    for (let i = 1; i < 81; i++) {
+      imagePaths.push('images/' + i + '.jpg');
+    };
+    var preload = {
+      type: jsPsychPreload,
+      images: imagePaths,
+      on_error: function(error) {
+        console.error('Error loading images:', error);  // log image loading errors
+      }
+    };
+    timeline.push(preload);
+    
+    // welcome, introduction message
+    var welcome = {
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: "Welcome to the experiment. Press any key to begin."
+    };
+    timeline.push(welcome);
 
-  /* initialize jsPsych */
-  var jsPsych = initJsPsych({
-  on_finish: function() {
-    jsPsych.data.displayData();
-  }
-});
-
-  /* create timeline */
-  var timeline = [];
-
-  /* create stimulus list */
-  // IDEA: each element in the array will be a dictionary so that we can concurrently store information about the correctness of the response
-  // MAIN TO DO: How can we expand this systematically to encompass all stimuli?
-
-  //create an example stimulus
-  // what kind of image characteristics might we want to store? (just a placeholder here)
-  stimulus_item = {
-    image_name: "stimuli/1.jpg",
-    image_characteristic: "XXX"
-  }
-
-  // here's how we can construct a simple description trial
-  // OTHER TO DOs: what else do we need to add to the trial procedure? What other information should we store? How can we turn this into a complete experiment timeline?
-  var trial = {
+    // basic trial
+      var trial = {
         type: jsPsychSurveyText,
         preamble: "<p>Describe what you see on the screen.<\p>",
-        //check out the plugin to understand how we are using the question parameters below
-        questions: [{prompt: '<img src='+stimulus_item["image_name"]+' style="width:300px;height:300px;">',rows:5, columns:50,name:"image_description", required: true}],
-        data: {image_characteristic: stimulus_item['image_characteristic']},
-        //extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
+        // ADD THE DIFFERENT IMAGES HERE, THIS IS JUST A PLACEHOLDER
+        questions: [{prompt: '<img src="images/1.jpg" width="500" height="400">',rows:5, columns:50,name:"image_description", required: true}],
+        
+        // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
         on_finish: function (data) {
           data.text_response = data.response["image_description"];
           console.log(data)
         }
       }
+    timeline.push(trial);
 
-  timeline.push(trial);
+    // start the experiment
+    jsPsych.run(timeline);
 
-
-  /* start the experiment */
-  jsPsych.run(timeline);
-
-</script>
-
+  </script>
 </html>
