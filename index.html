@@ -1,66 +1,122 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <title>Verbal Complexity Experiment</title>
     <script src="https://unpkg.com/jspsych@8.0.2"></script>
     <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@2.0.0"></script>
     <script src="https://unpkg.com/@jspsych/plugin-survey-text@2.0.0"></script>
-    <link href="https://unpkg.com/jspsych@8.0.2/css/jspsych.css" rel="stylesheet" type="text/css" />
+    <link
+      href="https://unpkg.com/jspsych@8.0.2/css/jspsych.css"
+      rel="stylesheet"
+      type="text/css"
+    />
     <script src="https://unpkg.com/@jspsych/plugin-preload@2.0.0"></script>
   </head>
   <body></body>
   <script>
     // initialize jsPsych
     var jsPsych = initJsPsych({
-      on_error: function(error) {
-        console.error('Error during experiment:', error);  // log errors in console
+      on_error: function (error) {
+        console.error("Error during experiment:", error); // log errors in console
       },
-      on_finish: function() {
+      on_finish: function () {
         jsPsych.data.displayData();
-      }
+      },
     });
 
     // create timeline
     var timeline = [];
 
-    // preload images
-    let imagePaths = [];
+    // create a list of stimuli, each associated with an image file path and complexity level
+    let all_stimuli = [];
     for (let i = 1; i < 81; i++) {
-      imagePaths.push('stimuli/' + i + '.jpg');
-    };
+      all_stimuli.push({ complexity: i, path: "stimuli/" + i + ".jpg" });
+    }
+
+    // preload images
     var preload = {
       type: jsPsychPreload,
-      images: imagePaths,
-      on_error: function(error) {
-        console.error('Error loading images:', error);  // log image loading errors
-      }
+      images: all_stimuli.map((item) => item.path),
+      on_error: function (error) {
+        console.error("Error loading images:", error); // log image loading errors
+      },
     };
     timeline.push(preload);
-    
+
+    // distribute the stimuli across complexity levels
+    var easiest = [];
+    var easy = [];
+    var hard = [];
+    var hardest = [];
+    for (let i = 1; i <= 80; i++) {
+      var level = Math.floor(i / 20);
+      var label;
+      switch (level) {
+        case 0:
+          easiest.push(all_stimuli[i]);
+          break;
+        case 1:
+          easy.push(all_stimuli[i]);
+          break;
+        case 2:
+          hard.push(all_stimuli[i]);
+          break;
+        case 3:
+          hardest.push(all_stimuli[i]);
+          break;
+      }
+    }
+    var all_levels = [easiest, easy, hard, hardest];
+
+    // select a subset of images, evenly distributed across complexity levels
+    var trial_stimuli = [];
+    var trials_per_level = 5;
+    for (let level = 0; level < all_levels.length; level++) {
+      var sample_indices = jsPsych.randomization.sampleWithoutReplacement(
+        all_levels[level].map((_, index) => index),
+        trials_per_level,
+      );
+      var current_level_selection = sample_indices.map(
+        (index) => all_levels[level][index],
+      );
+      trial_stimuli = trial_stimuli.concat(current_level_selection);
+    }
+
+    // log all stimuli to the console for double-checking
+    console.log(trial_stimuli);
+
     // welcome, introduction message
     var welcome = {
       type: jsPsychHtmlKeyboardResponse,
-      stimulus: "Welcome to the experiment. Your task is simple: Just describe what you see on the screen. On each trial, you will see an unfamiliar shape; your goal should be to describe the shape so that a person could draw something similar based on your description. Your description can be just a few words or up to 200 if you feel that is necessary. Press any key to begin."
+      stimulus:
+        "Welcome to the experiment. Your task is simple: Just describe what you see on the screen. On each trial, you will see an unfamiliar shape; your goal should be to describe the shape so that a person could draw something similar based on your description. Your description can be just a few words or up to 200 if you feel that is necessary. Press any key to begin.",
     };
     timeline.push(welcome);
 
     // basic trial
-      var trial = {
-        type: jsPsychSurveyText,
-        preamble: "<p>Describe what you see on the screen.<\p>",
-        // ADD THE DIFFERENT IMAGES HERE, THIS IS JUST A PLACEHOLDER
-        questions: [{prompt: '<img src="stimuli/1.jpg" width="500" height="400">',rows:5, columns:50,name:"image_description", required: true}],
-        
-        // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
-        on_finish: function (data) {
-          data.text_response = data.response["image_description"];
-          console.log(data)
-        }
-      }
+    var trial = {
+      type: jsPsychSurveyText,
+      preamble: "<p>Describe what you see on the screen.<\p>",
+      // ADD THE DIFFERENT IMAGES HERE, THIS IS JUST A PLACEHOLDER
+      questions: [
+        {
+          prompt: '<img src="stimuli/1.jpg" width="500" height="400">',
+          rows: 5,
+          columns: 50,
+          name: "image_description",
+          required: true,
+        },
+      ],
+
+      // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
+      on_finish: function (data) {
+        data.text_response = data.response["image_description"];
+        console.log(data);
+      },
+    };
     timeline.push(trial);
 
     // start the experiment
     jsPsych.run(timeline);
-
   </script>
 </html>
