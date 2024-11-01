@@ -11,6 +11,7 @@
       type="text/css"
     />
     <script src="https://unpkg.com/@jspsych/plugin-preload@2.0.0"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-fullscreen@1.2.1"></script>
   </head>
   <body></body>
   <script>
@@ -85,6 +86,13 @@
     // log all stimuli to the console for double-checking
     console.log(trial_stimuli);
 
+    // fullscreen 
+    var fullscreen_Mode = {
+      type: jsPsychFullscreen,
+      fullscreen_mode: true
+    }
+    timeline.push(fullscreen_Mode);
+    
     // welcome, introduction message
     var welcome = {
       type: jsPsychHtmlKeyboardResponse,
@@ -94,27 +102,62 @@
     timeline.push(welcome);
 
     // basic trial
-    var trial = {
-      type: jsPsychSurveyText,
-      preamble: "<p>Describe what you see on the screen.<\p>",
-      // ADD THE DIFFERENT IMAGES HERE, THIS IS JUST A PLACEHOLDER
-      questions: [
-        {
-          prompt: '<img src="stimuli/1.jpg" width="500" height="400">',
-          rows: 5,
-          columns: 50,
-          name: "image_description",
-          required: true,
-        },
-      ],
-
-      // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
-      on_finish: function (data) {
-        data.text_response = data.response["image_description"];
-        console.log(data);
-      },
-    };
+      var trial = {
+        type: jsPsychSurveyText,
+        preamble: "<p>Describe what you see on the screen.<\p>",
+        // ADD THE DIFFERENT IMAGES HERE, THIS IS JUST A PLACEHOLDER
+        questions: [
+          {
+            prompt: '<img src="stimuli/1.jpg" width="500" height="400">',
+            rows: 5, 
+            columns: 50,
+            name: "image_description", 
+            required: true
+          }
+        ],
+        
+        // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
+        on_finish: function (data) {
+          data.text_response = data.response["image_description"];
+          console.log(data)
+        }
+      }
     timeline.push(trial);
+
+    // loop to create trials 
+    for (let i = 0; i < trial_stimuli.length; i++) {
+
+      // store path of stimuli
+      var path = trial_stimuli[i].path;
+
+      // trial created and data is stored
+      var test = {
+        type: jsPsychSurveyText,
+        preamble: "<p>Describe what you see on the screen.<\p>",
+        questions: [
+          { 
+            prompt: '<img src = ' + path + ' width = "500" height = "400">', 
+            rows: 5, 
+            columns: 50,
+            name: "image_description", 
+            required: true
+          }
+        ],
+
+        on_finish: function (data) {
+          data.text_response = data.response["image_description"];
+          console.log(data)
+        }
+      }
+      timeline.push(test);
+    }
+
+    // exit fullscreen
+    var exit_fullscreen = {
+      type: jsPsychFullscreen,
+      fullscreen_mode: false
+    }
+    timeline.push(exit_fullscreen);
 
     // start the experiment
     jsPsych.run(timeline);
