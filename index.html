@@ -104,22 +104,23 @@
     // basic trial
       var trial = {
         type: jsPsychSurveyText,
-        preamble: "<p>Describe what you see on the screen.<\p>",
+        preamble: "<p>We will begin with a practice trial. Please describe what you see on the screen.<\p>",
         // ADD THE DIFFERENT IMAGES HERE, THIS IS JUST A PLACEHOLDER
         questions: [
           {
-            prompt: '<img src="stimuli/1.jpg" width="500" height="400">',
+            prompt: '<img src="practice_stimulus/square.png" width="500" height="400">',
             rows: 5, 
             columns: 50,
             name: "image_description", 
             required: true
           }
         ],
+        post_trial_gap: 500,
         
         // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
         on_finish: function (data) {
           data.text_response = data.response["image_description"];
-          console.log(data)
+          console.log(data);
         }
       }
     timeline.push(trial);
@@ -143,10 +144,19 @@
             required: true
           }
         ],
+        post_trial_gap: 500,
 
         on_finish: function (data) {
           data.text_response = data.response["image_description"];
-          console.log(data)
+          console.log(data);
+
+          split_response = data.text_response.split(" ");
+          length_response = split_response.length;
+          console.log(length_response);
+
+          jsPsych.data.addProperties({
+            word_count: length_response
+          });
         }
       }
       timeline.push(test);
