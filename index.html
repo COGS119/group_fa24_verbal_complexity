@@ -70,7 +70,7 @@
     var all_levels = [easiest, easy, hard, hardest];
 
     // select a subset of images, evenly distributed across complexity levels
-    var trial_stimuli = [];
+    var trial_stimuli_ordered = [];
     var trials_per_level = 5;
     for (let level = 0; level < all_levels.length; level++) {
       var sample_indices = jsPsych.randomization.sampleWithoutReplacement(
@@ -80,19 +80,24 @@
       var current_level_selection = sample_indices.map(
         (index) => all_levels[level][index],
       );
-      trial_stimuli = trial_stimuli.concat(current_level_selection);
+      trial_stimuli_ordered = trial_stimuli_ordered.concat(
+        current_level_selection,
+      );
     }
+
+    // randomly order the stimuli to avoid any order effects
+    var trial_stimuli = jsPsych.randomization.repeat(trial_stimuli_ordered, 1);
 
     // log all stimuli to the console for double-checking
     console.log(trial_stimuli);
 
-    // fullscreen 
+    // fullscreen
     var fullscreen_Mode = {
       type: jsPsychFullscreen,
-      fullscreen_mode: true
-    }
+      fullscreen_mode: true,
+    };
     timeline.push(fullscreen_Mode);
-    
+
     // welcome, introduction message
     var welcome = {
       type: jsPsychHtmlKeyboardResponse,
@@ -102,32 +107,38 @@
     timeline.push(welcome);
 
     // basic trial
-      var trial = {
-        type: jsPsychSurveyText,
-        preamble: "<p>We will begin with a practice trial. Please describe what you see on the screen.<\p>",
-        // ADD THE DIFFERENT IMAGES HERE, THIS IS JUST A PLACEHOLDER
-        questions: [
-          {
-            prompt: '<img src="practice_stimulus/square.png" width="500" height="400">',
-            rows: 5, 
-            columns: 50,
-            name: "image_description", 
-            required: true
-          }
-        ],
-        post_trial_gap: 500,
-        
-        // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
-        on_finish: function (data) {
-          data.text_response = data.response["image_description"];
-          console.log(data);
+    var trial = {
+      type: jsPsychSurveyText,
+      preamble: "<p>We will begin with a practice trial. Please describe what you see on the screen.<\p>",
+      questions: [
+        {
+          prompt: '<img src="practice_stimulus/square.png" width="500" height="400">',
+          rows: 5,
+          columns: 50,
+          name: "image_description",
+          required: true
         }
+      ],
+      post_trial_gap: 500,
+
+      // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
+      on_finish: function (data) {
+        data.condition = "practice";
+        data.image_path = path;
+        data.text_response = data.response["image_description"];
+
+        split_response = data.text_response.split(" ");
+        length_response = split_response.length;
+        data.word_count = length_response
+
+        console.log(data);
       }
+    }
+
     timeline.push(trial);
 
-    // loop to create trials 
+    // loop to create trials
     for (let i = 0; i < trial_stimuli.length; i++) {
-
       // store path of stimuli
       var path = trial_stimuli[i].path;
 
@@ -136,27 +147,27 @@
         type: jsPsychSurveyText,
         preamble: "<p>Describe what you see on the screen.<\p>",
         questions: [
-          { 
-            prompt: '<img src = ' + path + ' width = "500" height = "400">', 
-            rows: 5, 
+          {
+            prompt: "<img src = " + path + ' width = "500" height = "400">',
+            rows: 5,
             columns: 50,
-            name: "image_description", 
-            required: true
-          }
+            name: "image_description",
+            required: true,
+          },
         ],
         post_trial_gap: 500,
 
         on_finish: function (data) {
+          data.condition = "study";
+          data.complexity = trial_stimuli[i].complexity;
+          data.image_path = path;
           data.text_response = data.response["image_description"];
-          console.log(data);
 
           split_response = data.text_response.split(" ");
           length_response = split_response.length;
-          console.log(length_response);
+          data.word_count = length_response
 
-          jsPsych.data.addProperties({
-            word_count: length_response
-          });
+          console.log(data);
         }
       }
       timeline.push(test);
@@ -165,8 +176,8 @@
     // exit fullscreen
     var exit_fullscreen = {
       type: jsPsychFullscreen,
-      fullscreen_mode: false
-    }
+      fullscreen_mode: false,
+    };
     timeline.push(exit_fullscreen);
 
     // start the experiment
