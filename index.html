@@ -106,6 +106,14 @@
     };
     timeline.push(welcome);
 
+    // add the participant ID element
+    var participant_id_entry = {
+      type: jsPsychSurveyText,
+      questions: [{prompt: "Please enter your participant ID (e.g. p1):", name:"participant_id"}]
+    };
+
+    timeline.push(participant_id_entry);
+
     // basic trial
     var trial = {
       type: jsPsychSurveyText,
