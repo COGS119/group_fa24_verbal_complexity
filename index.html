@@ -186,7 +186,7 @@
       on_finish: function (data) {
         data.condition = "study";
         data.complexity = trial_stimuli[i].complexity;
-        data.image_path = path;
+        data.image_path = trial_stimuli[i].path;
         data.text_response = data.response["image_description"];
 
         split_response = data.text_response.split(" ");

@@ -1,0 +1,1 @@
+This folder contains 160 shape images. For all shapes, their skeletal complexity and number of sides are included in the "stimuli_properties.csv" file.
