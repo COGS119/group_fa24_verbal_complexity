@@ -100,9 +100,6 @@
   // randomly order the stimuli to avoid any order effects
   var trial_stimuli = jsPsych.randomization.repeat(trial_stimuli_ordered, 1);
 
-  // log all stimuli to the console for double-checking
-  console.log(trial_stimuli);
-
   // fullscreen
   var fullscreen_Mode = {
     type: jsPsychFullscreen,
@@ -122,7 +119,6 @@
     type: jsPsychSurveyText,
     questions: [{ prompt: "Please enter your participant ID (e.g. p1):", name: "participant_id" }],
     on_finish: function (data) {
-      console.log(data.response);
       jsPsych.data.addProperties({
         participant: data.response.participant_id,
       });
@@ -144,19 +140,6 @@
       }
     ],
     post_trial_gap: 500,
-
-    // extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
-    on_finish: function (data) {
-      data.condition = "practice";
-      data.image_path = path;
-      data.text_response = data.response["image_description"];
-
-      split_response = data.text_response.split(" ");
-      length_response = split_response.length;
-      data.word_count = length_response
-
-      console.log(data);
-    }
   }
 
   timeline.push(trial);
@@ -190,8 +173,6 @@
         split_response = data.text_response.split(" ");
         length_response = split_response.length;
         data.word_count = length_response
-
-        console.log(data);
       }
     }
     timeline.push(test);
