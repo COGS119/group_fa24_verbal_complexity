@@ -11,6 +11,7 @@
   <script src="https://unpkg.com/@jspsych/plugin-fullscreen@1.2.1"></script>
   <!-- This is for data storage - please be sure to keep this script in all future updates to the code!! -->
   <script src="https://unpkg.com/@jspsych-contrib/plugin-pipe"></script>
+  <script src="stimuli_properties.js"></script>
 </head>
 
 <body></body>
@@ -38,15 +39,25 @@
         random_id: random_id,
       });
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
-  
 
   // create timeline
   var timeline = [];
 
-  // create a list of stimuli, each associated with an image file path and complexity level
+  // load the stimuli properties
+  console.log(stimuli_properties);
+
+  // create a list of stimuli, each associated with an image file path and properties data
   let all_stimuli = [];
   for (let i = 1; i < 81; i++) {
-    all_stimuli.push({ complexity: i, path: "stimuli/" + i + ".jpg" });
+    // stimuli_properties.js is zero-indexed, so subtract 1 from i
+    var surprisal = stimuli_properties[i - 1].surprisal;
+    var n_sides = stimuli_properties[i - 1].n_sides;
+    all_stimuli.push({
+      shape: i,
+      path: "stimuli/" + i + ".jpg",
+      surprisal: surprisal,
+      n_sides: n_sides
+    });
   }
 
   // preload images
@@ -186,8 +197,10 @@
 
       on_finish: function (data) {
         data.condition = "study";
-        data.complexity = trial_stimuli[i].complexity;
+        data.shape = trial_stimuli[i].shape;
         data.image_path = trial_stimuli[i].path;
+        data.surprisal = trial_stimuli[i].surprisal;
+        data.n_sides = trial_stimuli[i].n_sides;
         data.text_response = data.response["image_description"];
 
         split_response = data.text_response.split(" ");
