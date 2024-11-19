@@ -45,7 +45,7 @@
 
   // create a list of stimuli, each associated with an image file path and complexity level
   let all_stimuli = [];
-  for (let i = 1; i < 81; i++) {
+  for (let i = 1; i < 161; i++) {
     all_stimuli.push({ complexity: i, path: "stimuli/" + i + ".jpg" });
   }
 
@@ -64,8 +64,8 @@
   var easy = [];
   var hard = [];
   var hardest = [];
-  for (let i = 1; i <= 80; i++) {
-    var level = Math.floor(i / 20);
+  for (let i = 1; i <= 160; i++) {
+    var level = Math.floor(i / 40);
     var label;
     switch (level) {
       case 0:
