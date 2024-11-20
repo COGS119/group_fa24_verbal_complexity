@@ -85,16 +85,11 @@
   var trial_stimuli_ordered = [];
   var trials_per_level = 5;
   for (let level = 0; level < all_levels.length; level++) {
-    var sample_indices = jsPsych.randomization.sampleWithoutReplacement(
-      all_levels[level].map((_, index) => index),
+    var current_level_selection = jsPsych.randomization.sampleWithoutReplacement(
+      all_levels[level],
       trials_per_level,
     );
-    var current_level_selection = sample_indices.map(
-      (index) => all_levels[level][index],
-    );
-    trial_stimuli_ordered = trial_stimuli_ordered.concat(
-      current_level_selection,
-    );
+    trial_stimuli_ordered = trial_stimuli_ordered.concat(current_level_selection);
   }
 
   // randomly order the stimuli to avoid any order effects
