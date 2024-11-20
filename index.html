@@ -178,6 +178,26 @@
     timeline.push(test);
   }
 
+  // participant survey feedback   
+  var feedback_survey = {
+    type: jsPsychSurveyText,
+    preamble: "<p>Now we will conduct a small survey to receive some feedback on the experiment. Please answer the following questions.<\p>",
+    questions: [
+      {prompt: "What do you think this experiment was about?"},
+      {prompt: "Did you encounter any technical issues during the experiment?"},
+      {prompt: "Were the instructions clear and easy to understand?"},
+      {prompt: "Are there any ways we can improve this experiment for the future?"}
+    ]
+  }
+  timeline.push(feedback_survey);
+  
+  // final debrief message
+  var debrief = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: '<p style="width:900px;">Congratulations! You have completed the visual complexity experiment. You received visual stimuli of varying complexity and was asked to describe them. We are collecting data to show the relationship between complex objects and events in the real world and their representations in the mind. We want to know if there is an inverted U-shaped relationship between the two, meaning the length of the descriptions of the stimuli would increase as their complexity increases, hit a plateau point of maximum of description length where they would then begin the decrease as the stimuli gets increasingly complex still. Thanks for participating!</p>',
+  };
+  timeline.push(debrief);
+
   // exit fullscreen
   var exit_fullscreen = {
     type: jsPsychFullscreen,
