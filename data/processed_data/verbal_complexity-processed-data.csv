@@ -1,0 +1,1067 @@
+trial_type,trial_index,trial_number,plugin_version,time_elapsed,random_id,participant,rt,stimulus,response,condition,shape,image_path,surprisal,n_sides,text_response,word_count,practice_response
+survey-text,5,1,2.0.0,44917,p3a712ar8yz,camel,11079,NA,"{""image_description"":""jagged edges on corners of a rectangle\n""}",study,63,stimuli/63.jpg,6749.45,15,"jagged edges on corners of a rectangle
+",7,"a square
+"
+survey-text,6,2,2.0.0,74606,p3a712ar8yz,camel,29174,NA,"{""image_description"":""a series of lines forming a warped image; jutting out sections similar to rectangle shapes\n""}",study,108,stimuli/108.jpg,7046.82,24,"a series of lines forming a warped image; jutting out sections similar to rectangle shapes
+",15,"a square
+"
+survey-text,7,3,2.0.0,108423,p3a712ar8yz,camel,33304,NA,"{""image_description"":""a base rectangle in the center with other lines jutting out, forming a trapezoid on the left and a triangular shape to the top right\n""}",study,96,stimuli/96.jpg,6946.2,22,"a base rectangle in the center with other lines jutting out, forming a trapezoid on the left and a triangular shape to the top right
+",25,"a square
+"
+survey-text,8,4,2.0.0,123216,p3a712ar8yz,camel,14279,NA,"{""image_description"":""a long trapezoidal figure, with at triangle at the bottom""}",study,19,stimuli/19.jpg,6604.19,6,"a long trapezoidal figure, with at triangle at the bottom",10,"a square
+"
+survey-text,9,5,2.0.0,131404,p3a712ar8yz,camel,7684,NA,"{""image_description"":""a rectangle with a bent edge top right""}",study,11,stimuli/11.jpg,6580.42,5,a rectangle with a bent edge top right,8,"a square
+"
+survey-text,10,6,2.0.0,143782,p3a712ar8yz,camel,11867,NA,"{""image_description"":""sort of like an arrow head, warped rectangle on the left section""}",study,46,stimuli/46.jpg,6754.16,12,"sort of like an arrow head, warped rectangle on the left section",12,"a square
+"
+survey-text,11,7,2.0.0,170629,p3a712ar8yz,camel,26288,NA,"{""image_description"":""flower edges jutting out in a way on the left side of the shape. right bottom like a bow tie""}",study,144,stimuli/144.jpg,7102.03,31,flower edges jutting out in a way on the left side of the shape. right bottom like a bow tie,20,"a square
+"
+survey-text,12,8,2.0.0,188800,p3a712ar8yz,camel,17650,NA,"{""image_description"":""looks like a cartoon-like head shape, mouth left side jutting out""}",study,60,stimuli/60.jpg,6764.54,14,"looks like a cartoon-like head shape, mouth left side jutting out",11,"a square
+"
+survey-text,13,9,2.0.0,196658,p3a712ar8yz,camel,7345,NA,"{""image_description"":""rectangle with some bent lines""}",study,35,stimuli/35.jpg,6698.42,9,rectangle with some bent lines,5,"a square
+"
+survey-text,14,10,2.0.0,215492,p3a712ar8yz,camel,18317,NA,"{""image_description"":""amalgamation of shapes warped at every corner of the base shape; triangle, rectangle""}",study,129,stimuli/129.jpg,7041.77,28,"amalgamation of shapes warped at every corner of the base shape; triangle, rectangle",13,"a square
+"
+survey-text,15,11,2.0.0,248205,p3a712ar8yz,camel,32198,NA,"{""image_description"":""even more amalgamation, several triangles forming on the left side, rectangular 'leg' right side, witch hat on the top""}",study,142,stimuli/142.jpg,7115.27,31,"even more amalgamation, several triangles forming on the left side, rectangular 'leg' right side, witch hat on the top",19,"a square
+"
+survey-text,16,12,2.0.0,273551,p3a712ar8yz,camel,24836,NA,"{""image_description"":""a house-like shape on the top, with a warped middle part, leading to a square and triangle shapes jutting out""}",study,134,stimuli/134.jpg,7048.98,29,"a house-like shape on the top, with a warped middle part, leading to a square and triangle shapes jutting out",20,"a square
+"
+survey-text,17,13,2.0.0,288932,p3a712ar8yz,camel,14866,NA,"{""image_description"":""trapezoid""}",study,10,stimuli/10.jpg,6545.43,4,trapezoid,1,"a square
+"
+survey-text,18,14,2.0.0,312517,p3a712ar8yz,camel,23072,NA,"{""image_description"":""two jutting triangles forming two separate legs, with a square body and a misshapen rectangular arm""}",study,143,stimuli/143.jpg,6915.69,31,"two jutting triangles forming two separate legs, with a square body and a misshapen rectangular arm",16,"a square
+"
+survey-text,19,15,2.0.0,328387,p3a712ar8yz,camel,15355,NA,"{""image_description"":""a base square with right side edges forming a triangle and a house-top""}",study,68,stimuli/68.jpg,6783.11,16,a base square with right side edges forming a triangle and a house-top,13,"a square
+"
+survey-text,20,16,2.0.0,360195,p3a712ar8yz,camel,31299,NA,"{""image_description"":""several triangles forming jutting out from the center""}",study,81,stimuli/81.jpg,6817.86,19,several triangles forming jutting out from the center,8,"a square
+"
+survey-text,21,17,2.0.0,392558,p3a712ar8yz,camel,31844,NA,"{""image_description"":""two rectangular shapes, one larger on the left, smaller on the right, with a candle flame coming out of the top""}",study,95,stimuli/95.jpg,6926.4,21,"two rectangular shapes, one larger on the left, smaller on the right, with a candle flame coming out of the top",21,"a square
+"
+survey-text,22,18,2.0.0,411092,p3a712ar8yz,camel,18027,NA,"{""image_description"":""a warped s from a top down view""}",study,42,stimuli/42.jpg,6766.43,11,a warped s from a top down view,8,"a square
+"
+survey-text,23,19,2.0.0,461215,p3a712ar8yz,camel,49606,NA,"{""image_description"":""septagon with a top right peaking out""}",study,24,stimuli/24.jpg,6629.99,7,septagon with a top right peaking out,7,"a square
+"
+survey-text,24,20,2.0.0,481661,p3a712ar8yz,camel,19887,NA,"{""image_description"":""like a medieval shaped helmet with a top edge coming at the top of the helm""}",study,102,stimuli/102.jpg,6857.23,23,like a medieval shaped helmet with a top edge coming at the top of the helm,16,"a square
+"
+survey-text,5,1,2.0.0,52714,p3br6yhq8tv,rhino,16735,NA,"{""image_description"":""top of a scythe""}",study,39,stimuli/39.jpg,6609.47,10,top of a scythe,4,black square
+survey-text,6,2,2.0.0,76003,p3br6yhq8tv,rhino,22784,NA,"{""image_description"":""a leaf with the top left portion ripped off""}",study,106,stimuli/106.jpg,6901.59,24,a leaf with the top left portion ripped off,9,black square
+survey-text,7,3,2.0.0,130600,p3br6yhq8tv,rhino,54090,NA,"{""image_description"":""upside down trapezoid with a triangle taken off the top\n""}",study,30,stimuli/30.jpg,6632.49,8,"upside down trapezoid with a triangle taken off the top
+",10,black square
+survey-text,8,4,2.0.0,155032,p3br6yhq8tv,rhino,23929,NA,"{""image_description"":""a maple lead pointed to the left""}",study,45,stimuli/45.jpg,6703.14,11,a maple lead pointed to the left,7,black square
+survey-text,9,5,2.0.0,260307,p3br6yhq8tv,rhino,104755,NA,"{""image_description"":""a triangle at the top of the shape pointed to the right, and then the top of a square, and then something sharp pointed to the right and the bottom left corner is a right angle, as you trace back up to the triangle there is a little ledge that hangs off that points to the left""}",study,138,stimuli/138.jpg,7120.54,30,"a triangle at the top of the shape pointed to the right, and then the top of a square, and then something sharp pointed to the right and the bottom left corner is a right angle, as you trace back up to the triangle there is a little ledge that hangs off that points to the left",57,black square
+survey-text,10,6,2.0.0,290590,p3br6yhq8tv,rhino,29766,NA,"{""image_description"":""the top of a wrench facing to the left with a triangle on top pointing to the upper right corner""}",study,102,stimuli/102.jpg,6857.23,23,the top of a wrench facing to the left with a triangle on top pointing to the upper right corner,20,black square
+survey-text,11,7,2.0.0,323575,p3br6yhq8tv,rhino,32472,NA,"{""image_description"":""it looks like a glove with four fingers ""}",study,128,stimuli/128.jpg,7090.6,28,it looks like a glove with four fingers,9,black square
+survey-text,12,8,2.0.0,415856,p3br6yhq8tv,rhino,91771,NA,"{""image_description"":""this looks like the top of a hand sanitizer with two  pointy corners hanging off of it""}",study,73,stimuli/73.jpg,6798.06,17,this looks like the top of a hand sanitizer with two  pointy corners hanging off of it,18,black square
+survey-text,13,9,2.0.0,452061,p3br6yhq8tv,rhino,35699,NA,"{""image_description"":""a simple drawing of a fox facing to the right and a right triangle looking to the left""}",study,83,stimuli/83.jpg,6903.38,19,a simple drawing of a fox facing to the right and a right triangle looking to the left,18,black square
+survey-text,14,10,2.0.0,468594,p3br6yhq8tv,rhino,16023,NA,"{""image_description"":""this looks like a bonzai tree""}",study,135,stimuli/135.jpg,7034.4,29,this looks like a bonzai tree,6,black square
+survey-text,15,11,2.0.0,497395,p3br6yhq8tv,rhino,28297,NA,"{""image_description"":""this looks like a very simplified version of sonic the hedgehog if his face was a square, he is also looking to the left""}",study,72,stimuli/72.jpg,6817.14,17,"this looks like a very simplified version of sonic the hedgehog if his face was a square, he is also looking to the left",24,black square
+survey-text,16,12,2.0.0,529249,p3br6yhq8tv,rhino,31352,NA,"{""image_description"":""this is a triangle where the top is pointing to the bottom left corner""}",study,5,stimuli/5.jpg,6522.84,3,this is a triangle where the top is pointing to the bottom left corner,14,black square
+survey-text,17,13,2.0.0,595971,p3br6yhq8tv,rhino,66207,NA,"{""image_description"":""this looks like the top of a volcano pointing to the top right and then there is a sharp corner facing up  and then as you trace back towards the volcano there is a little divot ""}",study,57,stimuli/57.jpg,6789.16,14,this looks like the top of a volcano pointing to the top right and then there is a sharp corner facing up  and then as you trace back towards the volcano there is a little divot,38,black square
+survey-text,18,14,2.0.0,630007,p3br6yhq8tv,rhino,33530,NA,"{""image_description"":""this is a badly drawn hexagon with a sharp corner on the top left that turns it into a septagon""}",study,24,stimuli/24.jpg,6629.99,7,this is a badly drawn hexagon with a sharp corner on the top left that turns it into a septagon,20,black square
+survey-text,19,15,2.0.0,653407,p3br6yhq8tv,rhino,22896,NA,"{""image_description"":""trapezoid with the top shorter side pointed towards the right""}",study,12,stimuli/12.jpg,6544.99,5,trapezoid with the top shorter side pointed towards the right,10,black square
+survey-text,20,16,2.0.0,715663,p3br6yhq8tv,rhino,61746,NA,"{""image_description"":""this looks like a pair of jeans and on the bottom left there is a right triangle, going up the left pant leg there is a triangle that points to the left and then a rectangle that also points to the left""}",study,130,stimuli/130.jpg,7037.09,28,"this looks like a pair of jeans and on the bottom left there is a right triangle, going up the left pant leg there is a triangle that points to the left and then a rectangle that also points to the left",42,black square
+survey-text,21,17,2.0.0,771900,p3br6yhq8tv,rhino,55725,NA,"{""image_description"":""if you squint really hard it looks like a goat head on the left and then when you go to the right its a rectangle with a bumpy top with a sharp corner on the bottom right""}",study,100,stimuli/100.jpg,6897.69,22,if you squint really hard it looks like a goat head on the left and then when you go to the right its a rectangle with a bumpy top with a sharp corner on the bottom right,37,black square
+survey-text,22,18,2.0.0,807717,p3br6yhq8tv,rhino,35300,NA,"{""image_description"":""this looks like a spaceship to me ""}",study,107,stimuli/107.jpg,6920.13,24,this looks like a spaceship to me,8,black square
+survey-text,23,19,2.0.0,879164,p3br6yhq8tv,rhino,70943,NA,"{""image_description"":""this looks like the outline of the side profile of someone with a flat top like guile from street fighter, a big nose, and a pointy chin, and the left is a rectangle with a pointy bottom left corner""}",study,79,stimuli/79.jpg,6796.42,18,"this looks like the outline of the side profile of someone with a flat top like guile from street fighter, a big nose, and a pointy chin, and the left is a rectangle with a pointy bottom left corner",39,black square
+survey-text,24,20,2.0.0,969037,p3br6yhq8tv,rhino,89370,NA,"{""image_description"":""the top looks like a rabbit and the rest of the body is really weird, like the bottom right of the body is a square, and the left side of the body has a pointy back portion and a rectangle sticking up out the back""}",study,150,stimuli/150.jpg,7209.25,32,"the top looks like a rabbit and the rest of the body is really weird, like the bottom right of the body is a square, and the left side of the body has a pointy back portion and a rectangle sticking up out the back",45,black square
+survey-text,5,1,2.0.0,41411,p46l58enxpu,hyena,6097,NA,"{""image_description"":""triangle""}",study,4,stimuli/4.jpg,6515.23,3,triangle,1,"square
+"
+survey-text,6,2,2.0.0,57365,p46l58enxpu,hyena,15438,NA,"{""image_description"":""triangle square arrow""}",study,37,stimuli/37.jpg,6725.55,10,triangle square arrow,3,"square
+"
+survey-text,7,3,2.0.0,69269,p46l58enxpu,hyena,11366,NA,"{""image_description"":""origami""}",study,127,stimuli/127.jpg,7055.1,28,origami,1,"square
+"
+survey-text,8,4,2.0.0,97034,p46l58enxpu,hyena,27210,NA,"{""image_description"":""11-sided shape with two rigid triangles with no base\n""}",study,40,stimuli/40.jpg,6690.54,10,"11-sided shape with two rigid triangles with no base
+",9,"square
+"
+survey-text,9,5,2.0.0,135631,p46l58enxpu,hyena,38060,NA,"{""image_description"":""arrow with 8 sides and a concave pointer""}",study,43,stimuli/43.jpg,6685.72,11,arrow with 8 sides and a concave pointer,8,"square
+"
+survey-text,10,6,2.0.0,149843,p46l58enxpu,hyena,13668,NA,"{""image_description"":""deformed airplane""}",study,78,stimuli/78.jpg,6840.04,18,deformed airplane,2,"square
+"
+survey-text,11,7,2.0.0,156349,p46l58enxpu,hyena,5974,NA,"{""image_description"":""pokemon ""}",study,136,stimuli/136.jpg,7007.06,30,pokemon,2,"square
+"
+survey-text,12,8,2.0.0,177050,p46l58enxpu,hyena,20147,NA,"{""image_description"":""perhaps a rabbit""}",study,152,stimuli/152.jpg,7144.83,33,perhaps a rabbit,3,"square
+"
+survey-text,13,9,2.0.0,216182,p46l58enxpu,hyena,38611,NA,"{""image_description"":""bowtie with the left side a little smaller ""}",study,23,stimuli/23.jpg,6577.38,7,bowtie with the left side a little smaller,9,"square
+"
+survey-text,14,10,2.0.0,241319,p46l58enxpu,hyena,24590,NA,"{""image_description"":""left side looks like a windmill with two triangles ""}",study,153,stimuli/153.jpg,7262.77,33,left side looks like a windmill with two triangles,10,"square
+"
+survey-text,15,11,2.0.0,255710,p46l58enxpu,hyena,13861,NA,"{""image_description"":""funny looking hawk""}",study,66,stimuli/66.jpg,6801.34,16,funny looking hawk,3,"square
+"
+survey-text,16,12,2.0.0,289765,p46l58enxpu,hyena,33520,NA,"{""image_description"":""a bird with a really big wing bigger than its body""}",study,80,stimuli/80.jpg,6806.13,18,a bird with a really big wing bigger than its body,11,"square
+"
+survey-text,17,13,2.0.0,308395,p46l58enxpu,hyena,18097,NA,"{""image_description"":""dinosaur with wings standing on a triangle""}",study,115,stimuli/115.jpg,6963.36,25,dinosaur with wings standing on a triangle,7,"square
+"
+survey-text,18,14,2.0.0,332476,p46l58enxpu,hyena,23542,NA,"{""image_description"":""cool looking motorcycle helment""}",study,124,stimuli/124.jpg,6991.53,27,cool looking motorcycle helment,4,"square
+"
+survey-text,19,15,2.0.0,351951,p46l58enxpu,hyena,18940,NA,"{""image_description"":""slanted rectangle""}",study,10,stimuli/10.jpg,6545.43,4,slanted rectangle,2,"square
+"
+survey-text,20,16,2.0.0,379587,p46l58enxpu,hyena,27103,NA,"{""image_description"":""grand canyon""}",study,91,stimuli/91.jpg,6985.65,21,grand canyon,2,"square
+"
+survey-text,21,17,2.0.0,392060,p46l58enxpu,hyena,11933,NA,"{""image_description"":""motorcycle""}",study,119,stimuli/119.jpg,7073.52,26,motorcycle,1,"square
+"
+survey-text,22,18,2.0.0,409363,p46l58enxpu,hyena,16782,NA,"{""image_description"":""bird with no wings""}",study,65,stimuli/65.jpg,6894.67,15,bird with no wings,4,"square
+"
+survey-text,23,19,2.0.0,424234,p46l58enxpu,hyena,14341,NA,"{""image_description"":""bird with its beak facing the left. ""}",study,116,stimuli/116.jpg,7061.19,26,bird with its beak facing the left.,8,"square
+"
+survey-text,24,20,2.0.0,458566,p46l58enxpu,hyena,33804,NA,"{""image_description"":""a boulder with a crab hand on its left side""}",study,113,stimuli/113.jpg,6936.3,25,a boulder with a crab hand on its left side,10,"square
+"
+survey-text,5,1,2.0.0,100053,p606235arax,tiger,46701,NA,"{""image_description"":""irregular, closed polygon""}",study,69,stimuli/69.jpg,6809.38,16,"irregular, closed polygon",3,"a square box with black frame
+"
+survey-text,6,2,2.0.0,147925,p606235arax,tiger,47359,NA,"{""image_description"":""irregular, closed polygon, without any symmetric clue""}",study,74,stimuli/74.jpg,6769.21,17,"irregular, closed polygon, without any symmetric clue",7,"a square box with black frame
+"
+survey-text,7,3,2.0.0,251303,p606235arax,tiger,102873,NA,"{""image_description"":""It has sharp corners and consists of straight lines with close loop""}",study,19,stimuli/19.jpg,6604.19,6,It has sharp corners and consists of straight lines with close loop,12,"a square box with black frame
+"
+survey-text,8,4,2.0.0,303426,p606235arax,tiger,51617,NA,"{""image_description"":""some abstract closed loop shape""}",study,127,stimuli/127.jpg,7055.1,28,some abstract closed loop shape,5,"a square box with black frame
+"
+survey-text,9,5,2.0.0,352653,p606235arax,tiger,48719,NA,"{""image_description"":""some closed loop which looks like mountain""}",study,34,stimuli/34.jpg,6639.63,9,some closed loop which looks like mountain,7,"a square box with black frame
+"
+survey-text,10,6,2.0.0,381904,p606235arax,tiger,28746,NA,"{""image_description"":"" quadrilateral with irregular side lengths and angles""}",study,6,stimuli/6.jpg,6547.97,4,quadrilateral with irregular side lengths and angles,8,"a square box with black frame
+"
+survey-text,11,7,2.0.0,410541,p606235arax,tiger,28131,NA,"{""image_description"":""some abstract shape with no idea what it is but a closed loop""}",study,84,stimuli/84.jpg,6959.66,19,some abstract shape with no idea what it is but a closed loop,13,"a square box with black frame
+"
+survey-text,12,8,2.0.0,425330,p606235arax,tiger,14285,NA,"{""image_description"":""some abstract shape with closed loop""}",study,141,stimuli/141.jpg,7037.04,31,some abstract shape with closed loop,6,"a square box with black frame
+"
+survey-text,13,9,2.0.0,426995,p606235arax,tiger,1160,NA,"{""image_description"":""some abstract shape with closed loop""}",study,98,stimuli/98.jpg,6906.48,22,some abstract shape with closed loop,6,"a square box with black frame
+"
+survey-text,14,10,2.0.0,428477,p606235arax,tiger,973,NA,"{""image_description"":""some abstract shape with closed loop""}",study,102,stimuli/102.jpg,6857.23,23,some abstract shape with closed loop,6,"a square box with black frame
+"
+survey-text,15,11,2.0.0,430021,p606235arax,tiger,1041,NA,"{""image_description"":""some abstract shape with closed loop""}",study,123,stimuli/123.jpg,7035.3,27,some abstract shape with closed loop,6,"a square box with black frame
+"
+survey-text,16,12,2.0.0,432083,p606235arax,tiger,1550,NA,"{""image_description"":""some abstract shape with closed loop""}",study,70,stimuli/70.jpg,6790.01,16,some abstract shape with closed loop,6,"a square box with black frame
+"
+survey-text,17,13,2.0.0,450431,p606235arax,tiger,17828,NA,"{""image_description"":""some abstract shape with closed loop. wihtout any parallel line or regular shape""}",study,40,stimuli/40.jpg,6690.54,10,some abstract shape with closed loop. wihtout any parallel line or regular shape,13,"a square box with black frame
+"
+survey-text,18,14,2.0.0,453224,p606235arax,tiger,2289,NA,"{""image_description"":""some abstract shape with closed loop. wihtout any parallel line or regular shape""}",study,75,stimuli/75.jpg,6817.48,17,some abstract shape with closed loop. wihtout any parallel line or regular shape,13,"a square box with black frame
+"
+survey-text,19,15,2.0.0,455458,p606235arax,tiger,1726,NA,"{""image_description"":""some abstract shape with closed loop. wihtout any parallel line or regular shape""}",study,27,stimuli/27.jpg,6627.84,8,some abstract shape with closed loop. wihtout any parallel line or regular shape,13,"a square box with black frame
+"
+survey-text,20,16,2.0.0,456860,p606235arax,tiger,898,NA,"{""image_description"":""some abstract shape with closed loop. wihtout any parallel line or regular shape""}",study,91,stimuli/91.jpg,6985.65,21,some abstract shape with closed loop. wihtout any parallel line or regular shape,13,"a square box with black frame
+"
+survey-text,21,17,2.0.0,458733,p606235arax,tiger,1364,NA,"{""image_description"":""some abstract shape with closed loop. wihtout any parallel line or regular shape""}",study,144,stimuli/144.jpg,7102.03,31,some abstract shape with closed loop. wihtout any parallel line or regular shape,13,"a square box with black frame
+"
+survey-text,22,18,2.0.0,460266,p606235arax,tiger,1026,NA,"{""image_description"":""some abstract shape with closed loop. wihtout any parallel line or regular shape""}",study,73,stimuli/73.jpg,6798.06,17,some abstract shape with closed loop. wihtout any parallel line or regular shape,13,"a square box with black frame
+"
+survey-text,23,19,2.0.0,482762,p606235arax,tiger,21991,NA,"{""image_description"":""some abstract shape with closed loop. wihtout any parallel line or regular shape. Even with more angles""}",study,151,stimuli/151.jpg,7245.76,33,some abstract shape with closed loop. wihtout any parallel line or regular shape. Even with more angles,17,"a square box with black frame
+"
+survey-text,24,20,2.0.0,491261,p606235arax,tiger,7994,NA,"{""image_description"":""some abstract shape with closed loop. ""}",study,93,stimuli/93.jpg,6903.36,21,some abstract shape with closed loop.,7,"a square box with black frame
+"
+survey-text,5,1,2.0.0,30492,p6e6la2do44,penguin,16629,NA,"{""image_description"":""diagonal square with a bump in the top right""}",study,35,stimuli/35.jpg,6698.42,9,diagonal square with a bump in the top right,9,"square
+"
+survey-text,6,2,2.0.0,64418,p6e6la2do44,penguin,33419,NA,"{""image_description"":""some sort of rhino with a horn in the middle of its body and really thin back legs""}",study,126,stimuli/126.jpg,7003.01,28,some sort of rhino with a horn in the middle of its body and really thin back legs,18,"square
+"
+survey-text,7,3,2.0.0,82079,p6e6la2do44,penguin,17156,NA,"{""image_description"":""tilted parallelogram\n""}",study,7,stimuli/7.jpg,6558.43,4,"tilted parallelogram
+",2,"square
+"
+survey-text,8,4,2.0.0,98868,p6e6la2do44,penguin,16283,NA,"{""image_description"":""a bird about to fly from a rock\n""}",study,138,stimuli/138.jpg,7120.54,30,"a bird about to fly from a rock
+",8,"square
+"
+survey-text,9,5,2.0.0,114001,p6e6la2do44,penguin,14627,NA,"{""image_description"":""a lobster with a stick for a head""}",study,150,stimuli/150.jpg,7209.25,32,a lobster with a stick for a head,8,"square
+"
+survey-text,10,6,2.0.0,128388,p6e6la2do44,penguin,13882,NA,"{""image_description"":""a bird in flight with a big throat and long tail""}",study,116,stimuli/116.jpg,7061.19,26,a bird in flight with a big throat and long tail,11,"square
+"
+survey-text,11,7,2.0.0,147106,p6e6la2do44,penguin,18214,NA,"{""image_description"":""a duck with a bump in its chest\n""}",study,71,stimuli/71.jpg,6779.96,17,"a duck with a bump in its chest
+",8,"square
+"
+survey-text,12,8,2.0.0,215819,p6e6la2do44,penguin,68205,NA,"{""image_description"":""like a sideways goblin head""}",study,56,stimuli/56.jpg,6726.19,14,like a sideways goblin head,5,"square
+"
+survey-text,13,9,2.0.0,225580,p6e6la2do44,penguin,9244,NA,"{""image_description"":""a falcon swooping down on prey""}",study,114,stimuli/114.jpg,7105.53,25,a falcon swooping down on prey,6,"square
+"
+survey-text,14,10,2.0.0,241562,p6e6la2do44,penguin,15475,NA,"{""image_description"":""a claw hand streached open""}",study,102,stimuli/102.jpg,6857.23,23,a claw hand streached open,5,"square
+"
+survey-text,15,11,2.0.0,247948,p6e6la2do44,penguin,5879,NA,"{""image_description"":""a camel""}",study,156,stimuli/156.jpg,7199.99,34,a camel,2,"square
+"
+survey-text,16,12,2.0.0,259155,p6e6la2do44,penguin,10690,NA,"{""image_description"":""misshapen hexagon""}",study,18,stimuli/18.jpg,6619.38,6,misshapen hexagon,2,"square
+"
+survey-text,17,13,2.0.0,271039,p6e6la2do44,penguin,11378,NA,"{""image_description"":""a slim vertical fish""}",study,51,stimuli/51.jpg,6793.84,13,a slim vertical fish,4,"square
+"
+survey-text,18,14,2.0.0,304649,p6e6la2do44,penguin,33106,NA,"{""image_description"":""like a weirder stick figure person""}",study,112,stimuli/112.jpg,6989.4,25,like a weirder stick figure person,6,"square
+"
+survey-text,19,15,2.0.0,310730,p6e6la2do44,penguin,5577,NA,"{""image_description"":""a boat""}",study,70,stimuli/70.jpg,6790.01,16,a boat,2,"square
+"
+survey-text,20,16,2.0.0,319551,p6e6la2do44,penguin,8313,NA,"{""image_description"":""trapezoid tilted""}",study,9,stimuli/9.jpg,6544.29,4,trapezoid tilted,2,"square
+"
+survey-text,21,17,2.0.0,349414,p6e6la2do44,penguin,29359,NA,"{""image_description"":""head and beak of a pterodactyl""}",study,39,stimuli/39.jpg,6609.47,10,head and beak of a pterodactyl,6,"square
+"
+survey-text,22,18,2.0.0,366916,p6e6la2do44,penguin,16995,NA,"{""image_description"":""i dont even know how to describe this one""}",study,97,stimuli/97.jpg,7048.4,22,i dont even know how to describe this one,9,"square
+"
+survey-text,23,19,2.0.0,617075,p6e6la2do44,penguin,249654,NA,"{""image_description"":""like a warped plane""}",study,146,stimuli/146.jpg,7116.7,32,like a warped plane,4,"square
+"
+survey-text,24,20,2.0.0,625526,p6e6la2do44,penguin,7943,NA,"{""image_description"":""a bug crawling""}",study,52,stimuli/52.jpg,6699.28,13,a bug crawling,3,"square
+"
+survey-text,5,1,2.0.0,204995,p7lf0e11ebd,llama,180339,NA,"{""image_description"":""start drawing a triangle with no bottom line, then from the corner right point of the triangle draw a straight line slanted down for like 2 seconds then a little point sticking out, then draw a slanted right line going up into a less slanted line and then draw a horizontal line to the left then a triangle which goes into a straight line then another right slanted line that goes up into a weird little point then start going to thee left, draw an upward line then another triangle with no bottom into a downward left slanted line into another straightmline into a rectangle connected to the original triangle you drew in the beginning""}",study,93,stimuli/93.jpg,6903.36,21,"start drawing a triangle with no bottom line, then from the corner right point of the triangle draw a straight line slanted down for like 2 seconds then a little point sticking out, then draw a slanted right line going up into a less slanted line and then draw a horizontal line to the left then a triangle which goes into a straight line then another right slanted line that goes up into a weird little point then start going to thee left, draw an upward line then another triangle with no bottom into a downward left slanted line into another straightmline into a rectangle connected to the original triangle you drew in the beginning",115,"square
+"
+survey-text,6,2,2.0.0,209516,p7lf0e11ebd,llama,4010,NA,"{""image_description"":""triangle\n""}",study,4,stimuli/4.jpg,6515.23,3,"triangle
+",1,"square
+"
+survey-text,7,3,2.0.0,286972,p7lf0e11ebd,llama,76941,NA,"{""image_description"":""draw a straight horizontal line then half a square, then a straight vertical line, that goes into a right up slant line, into this curve that leads to a triangular point that goes down into a square shape which reconnects with the horizontal line\n""}",study,47,stimuli/47.jpg,6715.11,12,"draw a straight horizontal line then half a square, then a straight vertical line, that goes into a right up slant line, into this curve that leads to a triangular point that goes down into a square shape which reconnects with the horizontal line
+",44,"square
+"
+survey-text,8,4,2.0.0,563599,p7lf0e11ebd,llama,276103,NA,"{""image_description"":""it's a thin shape so, it starts with an incomplete square and into another incomplete square, like a jigsaw. then it is curved and then into a triangle and another bigger rectangle ""}",study,112,stimuli/112.jpg,6989.4,25,"it's a thin shape so, it starts with an incomplete square and into another incomplete square, like a jigsaw. then it is curved and then into a triangle and another bigger rectangle",33,"square
+"
+survey-text,9,5,2.0.0,742808,p7lf0e11ebd,llama,178688,NA,"{""image_description"":""a straight right slanted line, then from the top draw a slanted line going down then a straight line then another vertical straight line then a right slanted down straight line then a sharo point, then draw what looks like the bottom of a knife blade but with a knick in it and then a square ""}",study,80,stimuli/80.jpg,6806.13,18,"a straight right slanted line, then from the top draw a slanted line going down then a straight line then another vertical straight line then a right slanted down straight line then a sharo point, then draw what looks like the bottom of a knife blade but with a knick in it and then a square",57,"square
+"
+survey-text,10,6,2.0.0,766534,p7lf0e11ebd,llama,23216,NA,"{""image_description"":""draw a sharp triangle point and the bottom is a rectangle to the right""}",study,25,stimuli/25.jpg,6595.51,7,draw a sharp triangle point and the bottom is a rectangle to the right,14,"square
+"
+survey-text,11,7,2.0.0,2229364,p7lf0e11ebd,llama,491738,NA,"{""image_description"":""start with a morphed rectangle at the bottom then at the top right corner into a triangle then a very boxy whale then connect back to rectangle""}",study,125,stimuli/125.jpg,7031.31,27,start with a morphed rectangle at the bottom then at the top right corner into a triangle then a very boxy whale then connect back to rectangle,27,"square
+"
+survey-text,12,8,2.0.0,2285740,p7lf0e11ebd,llama,55864,NA,"{""image_description"":""its a square shape but the right side is super jagged and jiggly but sharp""}",study,40,stimuli/40.jpg,6690.54,10,its a square shape but the right side is super jagged and jiggly but sharp,15,"square
+"
+survey-text,13,9,2.0.0,2675746,p7lf0e11ebd,llama,359357,NA,"{""image_description"":""It looks like a blocky mouse""}",study,103,stimuli/103.jpg,6915.47,23,It looks like a blocky mouse,6,"square
+"
+survey-text,14,10,2.0.0,2699642,p7lf0e11ebd,llama,23381,NA,"{""image_description"":""It is a horse with a big rearing its front legs""}",study,120,stimuli/120.jpg,7075.54,26,It is a horse with a big rearing its front legs,11,"square
+"
+survey-text,15,11,2.0.0,3129115,p7lf0e11ebd,llama,428958,NA,"{""image_description"":""a triangle but the tip is pointed down and then into the shape of a gun""}",study,78,stimuli/78.jpg,6840.04,18,a triangle but the tip is pointed down and then into the shape of a gun,16,"square
+"
+survey-text,16,12,2.0.0,3135671,p7lf0e11ebd,llama,6043,NA,"{""image_description"":""another triangle""}",study,3,stimuli/3.jpg,6526.68,3,another triangle,2,"square
+"
+survey-text,17,13,2.0.0,3164315,p7lf0e11ebd,llama,28132,NA,"{""image_description"":""a dragon head that is blocky""}",study,135,stimuli/135.jpg,7034.4,29,a dragon head that is blocky,6,"square
+"
+survey-text,18,14,2.0.0,4047028,p7lf0e11ebd,llama,882192,NA,"{""image_description"":""a crocodile with two shard tooth and a sharp ear looking to the left with a neck""}",study,117,stimuli/117.jpg,7067.33,26,a crocodile with two shard tooth and a sharp ear looking to the left with a neck,17,"square
+"
+survey-text,19,15,2.0.0,4109749,p7lf0e11ebd,llama,62203,NA,"{""image_description"":""looks like a triceratops""}",study,57,stimuli/57.jpg,6789.16,14,looks like a triceratops,4,"square
+"
+survey-text,20,16,2.0.0,4242860,p7lf0e11ebd,llama,132601,NA,"{""image_description"":""draw a top left corner then a sharp triangle on the right then the tip of a sword then draw another triangle connected to it and then connect it to the square""}",study,46,stimuli/46.jpg,6754.16,12,draw a top left corner then a sharp triangle on the right then the tip of a sword then draw another triangle connected to it and then connect it to the square,32,"square
+"
+survey-text,21,17,2.0.0,4347126,p7lf0e11ebd,llama,103751,NA,"{""image_description"":""it looks like a sock puppet with two eyes sticking out at the top but it is blocky\n""}",study,152,stimuli/152.jpg,7144.83,33,"it looks like a sock puppet with two eyes sticking out at the top but it is blocky
+",18,"square
+"
+survey-text,22,18,2.0.0,4370434,p7lf0e11ebd,llama,22793,NA,"{""image_description"":""a triangle but slim and the point is downturned to the left, it is not symmetrical\n""}",study,2,stimuli/2.jpg,6550.44,3,"a triangle but slim and the point is downturned to the left, it is not symmetrical
+",16,"square
+"
+survey-text,23,19,2.0.0,4384863,p7lf0e11ebd,llama,13920,NA,"{""image_description"":""a turtle head with wings""}",study,156,stimuli/156.jpg,7199.99,34,a turtle head with wings,5,"square
+"
+survey-text,24,20,2.0.0,4400031,p7lf0e11ebd,llama,14656,NA,"{""image_description"":""it looks like the sphinx but blocky ""}",study,148,stimuli/148.jpg,7141.91,32,it looks like the sphinx but blocky,8,"square
+"
+survey-text,5,1,2.0.0,131540,p7zs0h0auf4,seal,90325,NA,"{""image_description"":""a 5 sided polygon with the right two sides having the shortest lines and the left side and bottom side having the longest lines. the top line connects the right and the left side""}",study,11,stimuli/11.jpg,6580.42,5,a 5 sided polygon with the right two sides having the shortest lines and the left side and bottom side having the longest lines. the top line connects the right and the left side,34,a square with a black line
+survey-text,6,2,2.0.0,296496,p7zs0h0auf4,seal,164452,NA,"{""image_description"":""a five sided polygon with the top line being the longest, then it has a straight line down then a short line perpendicular to the previous line, then another perpendicular line, then the final line connects to the top line""}",study,13,stimuli/13.jpg,6577.27,5,"a five sided polygon with the top line being the longest, then it has a straight line down then a short line perpendicular to the previous line, then another perpendicular line, then the final line connects to the top line",40,a square with a black line
+survey-text,7,3,2.0.0,341400,p7zs0h0auf4,seal,44400,NA,"{""image_description"":""a four sided polygon that looks like a rectangle with two triangles added to the left and the bottom""}",study,7,stimuli/7.jpg,6558.43,4,a four sided polygon that looks like a rectangle with two triangles added to the left and the bottom,19,a square with a black line
+survey-text,8,4,2.0.0,353192,p7zs0h0auf4,seal,11289,NA,"{""image_description"":""a unicorn with straight lines""}",study,155,stimuli/155.jpg,7171.51,33,a unicorn with straight lines,5,a square with a black line
+survey-text,9,5,2.0.0,370756,p7zs0h0auf4,seal,17060,NA,"{""image_description"":""a spider with 6 legs with straight lines""}",study,123,stimuli/123.jpg,7035.3,27,a spider with 6 legs with straight lines,8,a square with a black line
+survey-text,10,6,2.0.0,393056,p7zs0h0auf4,seal,21797,NA,"{""image_description"":""a profile of a man with a big nose all with straight lines""}",study,44,stimuli/44.jpg,6692.06,11,a profile of a man with a big nose all with straight lines,13,a square with a black line
+survey-text,11,7,2.0.0,452215,p7zs0h0auf4,seal,58655,NA,"{""image_description"":""a straight edged polygon with three ridges""}",study,52,stimuli/52.jpg,6699.28,13,a straight edged polygon with three ridges,7,a square with a black line
+survey-text,12,8,2.0.0,483924,p7zs0h0auf4,seal,31207,NA,"{""image_description"":""a gear with three notches""}",study,94,stimuli/94.jpg,6965.94,21,a gear with three notches,5,a square with a black line
+survey-text,13,9,2.0.0,533414,p7zs0h0auf4,seal,48987,NA,"{""image_description"":""a crab with two pinchers and a tail""}",study,63,stimuli/63.jpg,6749.45,15,a crab with two pinchers and a tail,8,a square with a black line
+survey-text,14,10,2.0.0,579136,p7zs0h0auf4,seal,45219,NA,"{""image_description"":""a praying mantis ""}",study,121,stimuli/121.jpg,6999.52,27,a praying mantis,4,a square with a black line
+survey-text,15,11,2.0.0,588725,p7zs0h0auf4,seal,9086,NA,"{""image_description"":""a boat with a sail""}",study,80,stimuli/80.jpg,6806.13,18,a boat with a sail,5,a square with a black line
+survey-text,16,12,2.0.0,609879,p7zs0h0auf4,seal,20651,NA,"{""image_description"":""a profile with the mouth open""}",study,90,stimuli/90.jpg,6873.09,20,a profile with the mouth open,6,a square with a black line
+survey-text,17,13,2.0.0,654497,p7zs0h0auf4,seal,44115,NA,"{""image_description"":""magneto from x-men's helmet ""}",study,140,stimuli/140.jpg,7121.36,30,magneto from x-men's helmet,5,a square with a black line
+survey-text,18,14,2.0.0,663927,p7zs0h0auf4,seal,8927,NA,"{""image_description"":""a bolded letter E""}",study,40,stimuli/40.jpg,6690.54,10,a bolded letter E,4,a square with a black line
+survey-text,19,15,2.0.0,693649,p7zs0h0auf4,seal,29219,NA,"{""image_description"":""a sharp weapon ""}",study,85,stimuli/85.jpg,6831.41,19,a sharp weapon,4,a square with a black line
+survey-text,20,16,2.0.0,748493,p7zs0h0auf4,seal,54340,NA,"{""image_description"":""a rectangle with three protruding sharp sides""}",study,89,stimuli/89.jpg,6850.88,20,a rectangle with three protruding sharp sides,7,a square with a black line
+survey-text,21,17,2.0.0,777880,p7zs0h0auf4,seal,28885,NA,"{""image_description"":""sharp objects""}",study,105,stimuli/105.jpg,7003.86,23,sharp objects,2,a square with a black line
+survey-text,22,18,2.0.0,892403,p7zs0h0auf4,seal,114024,NA,"{""image_description"":""a sharp sided ice cream cone""}",study,33,stimuli/33.jpg,6635.57,9,a sharp sided ice cream cone,6,a square with a black line
+survey-text,23,19,2.0.0,906809,p7zs0h0auf4,seal,13904,NA,"{""image_description"":""the hot fish from finding nemo""}",study,141,stimuli/141.jpg,7037.04,31,the hot fish from finding nemo,6,a square with a black line
+survey-text,24,20,2.0.0,926060,p7zs0h0auf4,seal,18748,NA,"{""image_description"":""a dog with a big head and small tail""}",study,57,stimuli/57.jpg,6789.16,14,a dog with a big head and small tail,9,a square with a black line
+survey-text,5,1,2.0.0,268519,p9yuyd38xtl,leopard,22156,NA,"{""image_description"":""trapezoid\n""}",study,18,stimuli/18.jpg,6619.38,6,"trapezoid
+",1,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,6,2,2.0.0,294845,p9yuyd38xtl,leopard,25822,NA,"{""image_description"":""square with pointy legs and a trapezoid head\n""}",study,143,stimuli/143.jpg,6915.69,31,"square with pointy legs and a trapezoid head
+",8,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,7,3,2.0.0,312599,p9yuyd38xtl,leopard,17251,NA,"{""image_description"":""someone spilling a puddle of liquid on the floor""}",study,150,stimuli/150.jpg,7209.25,32,someone spilling a puddle of liquid on the floor,9,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,8,4,2.0.0,329526,p9yuyd38xtl,leopard,16425,NA,"{""image_description"":""a circle that is not perfectly drawn ""}",study,24,stimuli/24.jpg,6629.99,7,a circle that is not perfectly drawn,8,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,9,5,2.0.0,368184,p9yuyd38xtl,leopard,38154,NA,"{""image_description"":""rectangle with random trapezoids surrounding it\n""}",study,110,stimuli/110.jpg,6951.51,24,"rectangle with random trapezoids surrounding it
+",6,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,10,6,2.0.0,384335,p9yuyd38xtl,leopard,15648,NA,"{""image_description"":""a leaf ""}",study,37,stimuli/37.jpg,6725.55,10,a leaf,3,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,11,7,2.0.0,393383,p9yuyd38xtl,leopard,8545,NA,"{""image_description"":""a crab claw \n""}",study,118,stimuli/118.jpg,7003.15,26,"a crab claw 
+",4,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,12,8,2.0.0,403702,p9yuyd38xtl,leopard,9818,NA,"{""image_description"":""a traingle with three equal sides ""}",study,5,stimuli/5.jpg,6522.84,3,a traingle with three equal sides,7,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,13,9,2.0.0,436305,p9yuyd38xtl,leopard,32087,NA,"{""image_description"":""a greater than sign with a bumb on top of it \n""}",study,103,stimuli/103.jpg,6915.47,23,"a greater than sign with a bumb on top of it 
+",12,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,14,10,2.0.0,500703,p9yuyd38xtl,leopard,63896,NA,"{""image_description"":""a fish with spikey back ""}",study,132,stimuli/132.jpg,7051.12,29,a fish with spikey back,6,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,15,11,2.0.0,529787,p9yuyd38xtl,leopard,28583,NA,"{""image_description"":""an L shape rectangle with the bottom being more narrower \n""}",study,58,stimuli/58.jpg,6794.84,14,"an L shape rectangle with the bottom being more narrower 
+",11,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,16,12,2.0.0,567824,p9yuyd38xtl,leopard,37524,NA,"{""image_description"":""spikes on a badly drawn rectangle ""}",study,74,stimuli/74.jpg,6769.21,17,spikes on a badly drawn rectangle,7,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,17,13,2.0.0,581295,p9yuyd38xtl,leopard,12969,NA,"{""image_description"":""square with some intends inside it""}",study,34,stimuli/34.jpg,6639.63,9,square with some intends inside it,6,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,18,14,2.0.0,668313,p9yuyd38xtl,leopard,86517,NA,"{""image_description"":""Fish with an anchor under it""}",study,108,stimuli/108.jpg,7046.82,24,Fish with an anchor under it,6,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,19,15,2.0.0,757638,p9yuyd38xtl,leopard,88824,NA,"{""image_description"":""Some state like arkansas or kansas""}",study,47,stimuli/47.jpg,6715.11,12,Some state like arkansas or kansas,6,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,20,16,2.0.0,782717,p9yuyd38xtl,leopard,24574,NA,"{""image_description"":""helmet with a spike on top ""}",study,156,stimuli/156.jpg,7199.99,34,helmet with a spike on top,7,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,21,17,2.0.0,788981,p9yuyd38xtl,leopard,5761,NA,"{""image_description"":""a comb""}",study,59,stimuli/59.jpg,6820.36,14,a comb,2,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,22,18,2.0.0,804223,p9yuyd38xtl,leopard,14740,NA,"{""image_description"":""a an arrow with the base being the thicker part ""}",study,54,stimuli/54.jpg,6708.13,13,a an arrow with the base being the thicker part,11,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,23,19,2.0.0,826633,p9yuyd38xtl,leopard,21908,NA,"{""image_description"":""lightning bolt with random other shapes ""}",study,141,stimuli/141.jpg,7037.04,31,lightning bolt with random other shapes,7,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,24,20,2.0.0,845658,p9yuyd38xtl,leopard,18523,NA,"{""image_description"":""multiple trapezoids combined""}",study,116,stimuli/116.jpg,7061.19,26,multiple trapezoids combined,3,"A square, which is 4 lines starting left to right then up then left then down "
+survey-text,5,1,2.0.0,37000,pajlm381n7g,hedgehog,11452,NA,"{""image_description"":""dinosaur gone wrong""}",study,113,stimuli/113.jpg,6936.3,25,dinosaur gone wrong,3,square
+survey-text,6,2,2.0.0,49832,pajlm381n7g,hedgehog,12316,NA,"{""image_description"":""the front of a train""}",study,116,stimuli/116.jpg,7061.19,26,the front of a train,5,square
+survey-text,7,3,2.0.0,63179,pajlm381n7g,hedgehog,12835,NA,"{""image_description"":""the really ugly fish at the bottom of the sea""}",study,149,stimuli/149.jpg,7198.55,32,the really ugly fish at the bottom of the sea,10,square
+survey-text,8,4,2.0.0,81042,pajlm381n7g,hedgehog,17342,NA,"{""image_description"":""a bird with a lot of wings""}",study,128,stimuli/128.jpg,7090.6,28,a bird with a lot of wings,7,square
+survey-text,9,5,2.0.0,135375,pajlm381n7g,hedgehog,53818,NA,"{""image_description"":""just something really with a lot of spkies all around""}",study,132,stimuli/132.jpg,7051.12,29,just something really with a lot of spkies all around,10,square
+survey-text,10,6,2.0.0,144874,pajlm381n7g,hedgehog,8984,NA,"{""image_description"":""an airplane""}",study,45,stimuli/45.jpg,6703.14,11,an airplane,2,square
+survey-text,11,7,2.0.0,180377,pajlm381n7g,hedgehog,34988,NA,"{""image_description"":""a shape with two main shapes, one with six sides and one with 8 sides\n""}",study,64,stimuli/64.jpg,6822.22,15,"a shape with two main shapes, one with six sides and one with 8 sides
+",15,square
+survey-text,12,8,2.0.0,196416,pajlm381n7g,hedgehog,15521,NA,"{""image_description"":""a dog digging a hole into the ground""}",study,150,stimuli/150.jpg,7209.25,32,a dog digging a hole into the ground,8,square
+survey-text,13,9,2.0.0,211973,pajlm381n7g,hedgehog,15042,NA,"{""image_description"":""a boat with the sail crooked""}",study,71,stimuli/71.jpg,6779.96,17,a boat with the sail crooked,6,square
+survey-text,14,10,2.0.0,231860,pajlm381n7g,hedgehog,19369,NA,"{""image_description"":""a microscope that's melting""}",study,73,stimuli/73.jpg,6798.06,17,a microscope that's melting,4,square
+survey-text,15,11,2.0.0,241158,pajlm381n7g,hedgehog,8778,NA,"{""image_description"":""an almost triangle""}",study,39,stimuli/39.jpg,6609.47,10,an almost triangle,3,square
+survey-text,16,12,2.0.0,252218,pajlm381n7g,hedgehog,10548,NA,"{""image_description"":""a wannabe octagon""}",study,29,stimuli/29.jpg,6694.47,8,a wannabe octagon,3,square
+survey-text,17,13,2.0.0,284541,pajlm381n7g,hedgehog,31815,NA,"{""image_description"":""something with three sharp sides""}",study,52,stimuli/52.jpg,6699.28,13,something with three sharp sides,5,square
+survey-text,18,14,2.0.0,306297,pajlm381n7g,hedgehog,21239,NA,"{""image_description"":""an almost iso""}",study,17,stimuli/17.jpg,6592.16,6,an almost iso,3,square
+survey-text,19,15,2.0.0,335726,pajlm381n7g,hedgehog,28913,NA,"{""image_description"":""a midget raising his leg weirdly""}",study,89,stimuli/89.jpg,6850.88,20,a midget raising his leg weirdly,6,square
+survey-text,20,16,2.0.0,347727,pajlm381n7g,hedgehog,11482,NA,"{""image_description"":""a wannabe square""}",study,10,stimuli/10.jpg,6545.43,4,a wannabe square,3,square
+survey-text,21,17,2.0.0,378614,pajlm381n7g,hedgehog,30371,NA,"{""image_description"":""a hairdryer with a weird handle""}",study,36,stimuli/36.jpg,6694.49,10,a hairdryer with a weird handle,6,square
+survey-text,22,18,2.0.0,392866,pajlm381n7g,hedgehog,13748,NA,"{""image_description"":""a captain reading a book really close to their face""}",study,91,stimuli/91.jpg,6985.65,21,a captain reading a book really close to their face,10,square
+survey-text,23,19,2.0.0,439294,pajlm381n7g,hedgehog,45914,NA,"{""image_description"":""a rocket ship starting to blast off""}",study,100,stimuli/100.jpg,6897.69,22,a rocket ship starting to blast off,7,square
+survey-text,24,20,2.0.0,507857,pajlm381n7g,hedgehog,68059,NA,"{""image_description"":""something looking back at it's spikes\n""}",study,129,stimuli/129.jpg,7041.77,28,"something looking back at it's spikes
+",6,square
+survey-text,5,1,2.0.0,103232,pb8moe74w22,badger,48014,NA,"{""image_description"":""a distorted rectangle""}",study,26,stimuli/26.jpg,6669.01,8,a distorted rectangle,3,"four lines
+"
+survey-text,6,2,2.0.0,111598,pb8moe74w22,badger,7861,NA,"{""image_description"":""a distorted triangle""}",study,16,stimuli/16.jpg,6566.56,6,a distorted triangle,3,"four lines
+"
+survey-text,7,3,2.0.0,125616,pb8moe74w22,badger,13513,NA,"{""image_description"":""a weird x that has different branches\n""}",study,103,stimuli/103.jpg,6915.47,23,"a weird x that has different branches
+",7,"four lines
+"
+survey-text,8,4,2.0.0,188132,pb8moe74w22,badger,62010,NA,"{""image_description"":""a pokemon""}",study,139,stimuli/139.jpg,7164.58,30,a pokemon,2,"four lines
+"
+survey-text,9,5,2.0.0,243483,pb8moe74w22,badger,54846,NA,"{""image_description"":""4 different lines of different sizes connected to each other""}",study,12,stimuli/12.jpg,6544.99,5,4 different lines of different sizes connected to each other,10,"four lines
+"
+survey-text,10,6,2.0.0,312067,pb8moe74w22,badger,68079,NA,"{""image_description"":""a cat\n\n""}",study,150,stimuli/150.jpg,7209.25,32,"a cat
+
+",2,"four lines
+"
+survey-text,11,7,2.0.0,367667,pb8moe74w22,badger,55098,NA,"{""image_description"":""a star fish""}",study,153,stimuli/153.jpg,7262.77,33,a star fish,3,"four lines
+"
+survey-text,12,8,2.0.0,377168,pb8moe74w22,badger,8995,NA,"{""image_description"":""a piece of paper\n""}",study,22,stimuli/22.jpg,6593.16,7,"a piece of paper
+",4,"four lines
+"
+survey-text,13,9,2.0.0,491649,pb8moe74w22,badger,113979,NA,"{""image_description"":""grass\n""}",study,55,stimuli/55.jpg,6800,13,"grass
+",1,"four lines
+"
+survey-text,14,10,2.0.0,500402,pb8moe74w22,badger,8249,NA,"{""image_description"":""a map""}",study,107,stimuli/107.jpg,6920.13,24,a map,2,"four lines
+"
+survey-text,15,11,2.0.0,561318,pb8moe74w22,badger,60412,NA,"{""image_description"":""it's like the letter N combine with the letter u position in the side position""}",study,65,stimuli/65.jpg,6894.67,15,it's like the letter N combine with the letter u position in the side position,15,"four lines
+"
+survey-text,16,12,2.0.0,868756,pb8moe74w22,badger,306938,NA,"{""image_description"":""a sort of animal that has two lengs one short and one long leng. And its head is shape like a comb""}",study,131,stimuli/131.jpg,7030.26,29,a sort of animal that has two lengs one short and one long leng. And its head is shape like a comb,22,"four lines
+"
+survey-text,17,13,2.0.0,913905,pb8moe74w22,badger,44643,NA,"{""image_description"":""a triangle""}",study,5,stimuli/5.jpg,6522.84,3,a triangle,2,"four lines
+"
+survey-text,18,14,2.0.0,949055,pb8moe74w22,badger,34646,NA,"{""image_description"":""person drawn with triangles""}",study,145,stimuli/145.jpg,7185.33,31,person drawn with triangles,4,"four lines
+"
+survey-text,19,15,2.0.0,1156671,pb8moe74w22,badger,207115,NA,"{""image_description"":""a crooked rectangle that has pointing triangles in the bottom two corners and a big pointing triangle in the right side""}",study,77,stimuli/77.jpg,6870.06,18,a crooked rectangle that has pointing triangles in the bottom two corners and a big pointing triangle in the right side,21,"four lines
+"
+survey-text,20,16,2.0.0,1378857,pb8moe74w22,badger,221685,NA,"{""image_description"":""a bunch of figures on top of each other.""}",study,60,stimuli/60.jpg,6764.54,14,a bunch of figures on top of each other.,9,"four lines
+"
+survey-text,21,17,2.0.0,1407457,pb8moe74w22,badger,28096,NA,"{""image_description"":""5 different traingles given the shape of something like a tree\n""}",study,81,stimuli/81.jpg,6817.86,19,"5 different traingles given the shape of something like a tree
+",11,"four lines
+"
+survey-text,22,18,2.0.0,1419239,pb8moe74w22,badger,11278,NA,"{""image_description"":""it looks kinda like a distorted urn""}",study,95,stimuli/95.jpg,6926.4,21,it looks kinda like a distorted urn,7,"four lines
+"
+survey-text,23,19,2.0.0,3527188,pb8moe74w22,badger,392938,NA,"{""image_description"":""a polygon with sharp angles""}",study,79,stimuli/79.jpg,6796.42,18,a polygon with sharp angles,5,"four lines
+"
+survey-text,24,20,2.0.0,10214103,pb8moe74w22,badger,2261126,NA,"{""image_description"":""i see a bunch of geometric connected that kinda show a figure of a hammer""}",study,99,stimuli/99.jpg,6861.47,22,i see a bunch of geometric connected that kinda show a figure of a hammer,15,"four lines
+"
+survey-text,5,1,2.0.0,37500,pc1tlsf3rh5,2341,6600,NA,"{""image_description"":""organic shape""}",study,112,stimuli/112.jpg,6989.4,25,organic shape,2,"square
+"
+survey-text,6,2,2.0.0,44092,pc1tlsf3rh5,2341,6088,NA,"{""image_description"":""triangle tilted\n""}",study,4,stimuli/4.jpg,6515.23,3,"triangle tilted
+",2,"square
+"
+survey-text,7,3,2.0.0,49961,pc1tlsf3rh5,2341,5366,NA,"{""image_description"":""organic shape""}",study,108,stimuli/108.jpg,7046.82,24,organic shape,2,"square
+"
+survey-text,8,4,2.0.0,54300,pc1tlsf3rh5,2341,3836,NA,"{""image_description"":""organic shape""}",study,138,stimuli/138.jpg,7120.54,30,organic shape,2,"square
+"
+survey-text,9,5,2.0.0,60420,pc1tlsf3rh5,2341,5616,NA,"{""image_description"":""organic shape ""}",study,101,stimuli/101.jpg,6963.9,23,organic shape,3,"square
+"
+survey-text,10,6,2.0.0,71183,pc1tlsf3rh5,2341,10260,NA,"{""image_description"":""rombus""}",study,8,stimuli/8.jpg,6564.91,4,rombus,1,"square
+"
+survey-text,11,7,2.0.0,75892,pc1tlsf3rh5,2341,4206,NA,"{""image_description"":""organic shape""}",study,106,stimuli/106.jpg,6901.59,24,organic shape,2,"square
+"
+survey-text,12,8,2.0.0,81844,pc1tlsf3rh5,2341,5449,NA,"{""image_description"":""organic shape ""}",study,131,stimuli/131.jpg,7030.26,29,organic shape,3,"square
+"
+survey-text,13,9,2.0.0,96791,pc1tlsf3rh5,2341,14444,NA,"{""image_description"":""square and triangle ""}",study,15,stimuli/15.jpg,6585.63,5,square and triangle,4,"square
+"
+survey-text,14,10,2.0.0,101233,pc1tlsf3rh5,2341,3940,NA,"{""image_description"":""organic shape ""}",study,80,stimuli/80.jpg,6806.13,18,organic shape,3,"square
+"
+survey-text,15,11,2.0.0,107953,pc1tlsf3rh5,2341,6217,NA,"{""image_description"":""organic shape ""}",study,160,stimuli/160.jpg,7132.53,34,organic shape,3,"square
+"
+survey-text,16,12,2.0.0,113170,pc1tlsf3rh5,2341,4714,NA,"{""image_description"":""organic shape ""}",study,73,stimuli/73.jpg,6798.06,17,organic shape,3,"square
+"
+survey-text,17,13,2.0.0,118051,pc1tlsf3rh5,2341,4377,NA,"{""image_description"":""organic shape ""}",study,39,stimuli/39.jpg,6609.47,10,organic shape,3,"square
+"
+survey-text,18,14,2.0.0,123147,pc1tlsf3rh5,2341,4594,NA,"{""image_description"":""organic shape ""}",study,57,stimuli/57.jpg,6789.16,14,organic shape,3,"square
+"
+survey-text,19,15,2.0.0,129376,pc1tlsf3rh5,2341,5726,NA,"{""image_description"":""organic shape ""}",study,116,stimuli/116.jpg,7061.19,26,organic shape,3,"square
+"
+survey-text,20,16,2.0.0,136691,pc1tlsf3rh5,2341,6812,NA,"{""image_description"":""organic shape""}",study,150,stimuli/150.jpg,7209.25,32,organic shape,2,"square
+"
+survey-text,21,17,2.0.0,149560,pc1tlsf3rh5,2341,12366,NA,"{""image_description"":""rectangle and triangles ""}",study,13,stimuli/13.jpg,6577.27,5,rectangle and triangles,4,"square
+"
+survey-text,22,18,2.0.0,155077,pc1tlsf3rh5,2341,5014,NA,"{""image_description"":""organic shape""}",study,58,stimuli/58.jpg,6794.84,14,organic shape,2,"square
+"
+survey-text,23,19,2.0.0,160479,pc1tlsf3rh5,2341,4898,NA,"{""image_description"":""organic shape ""}",study,154,stimuli/154.jpg,7155.07,33,organic shape,3,"square
+"
+survey-text,24,20,2.0.0,166527,pc1tlsf3rh5,2341,5547,NA,"{""image_description"":""organic shape ""}",study,52,stimuli/52.jpg,6699.28,13,organic shape,3,"square
+"
+survey-text,5,1,2.0.0,78677,pcv0gpxj8dz,squirrel,61129,NA,"{""image_description"":""Rectangle that morphs into sharp edges to the right and become more triangular. Similar to a face with a sharp jawline and a pointy bang.""}",study,38,stimuli/38.jpg,6702.45,10,Rectangle that morphs into sharp edges to the right and become more triangular. Similar to a face with a sharp jawline and a pointy bang.,25,"Square
+"
+survey-text,6,2,2.0.0,82795,pcv0gpxj8dz,squirrel,3613,NA,"{""image_description"":""Trapezoid\n""}",study,9,stimuli/9.jpg,6544.29,4,"Trapezoid
+",1,"Square
+"
+survey-text,7,3,2.0.0,106012,pcv0gpxj8dz,squirrel,22714,NA,"{""image_description"":""A triangular headed person waving hi who is stretching his legs out ""}",study,147,stimuli/147.jpg,7182.98,32,A triangular headed person waving hi who is stretching his legs out,13,"Square
+"
+survey-text,8,4,2.0.0,140495,pcv0gpxj8dz,squirrel,33979,NA,"{""image_description"":""A person striking a pose with his arms stretched out and facing down with his legs close together.""}",study,145,stimuli/145.jpg,7185.33,31,A person striking a pose with his arms stretched out and facing down with his legs close together.,18,"Square
+"
+survey-text,9,5,2.0.0,194820,pcv0gpxj8dz,squirrel,53831,NA,"{""image_description"":""A large shape that narrows down to the middle with a short hand on the left and a long hand on the right. The shape resembles a person with a slanted head and hairline.""}",study,61,stimuli/61.jpg,6864.98,15,A large shape that narrows down to the middle with a short hand on the left and a long hand on the right. The shape resembles a person with a slanted head and hairline.,34,"Square
+"
+survey-text,10,6,2.0.0,221952,pcv0gpxj8dz,squirrel,26629,NA,"{""image_description"":""A flying cannon with the top shape as wings and the left side being a large opening for the mouth and the bottom being the wheels or base.""}",study,109,stimuli/109.jpg,6984.61,24,A flying cannon with the top shape as wings and the left side being a large opening for the mouth and the bottom being the wheels or base.,28,"Square
+"
+survey-text,11,7,2.0.0,247583,pcv0gpxj8dz,squirrel,25128,NA,"{""image_description"":""A ship; with the top shape being the flag and the stretched base to the bottom being the pole, with the shape at the bottom as a base of the boat.""}",study,80,stimuli/80.jpg,6806.13,18,"A ship; with the top shape being the flag and the stretched base to the bottom being the pole, with the shape at the bottom as a base of the boat.",31,"Square
+"
+survey-text,12,8,2.0.0,274185,pcv0gpxj8dz,squirrel,26097,NA,"{""image_description"":""Similar to Florida, a slanted shape that has a jagged end on the right side.""}",study,50,stimuli/50.jpg,6725.34,12,"Similar to Florida, a slanted shape that has a jagged end on the right side.",15,"Square
+"
+survey-text,13,9,2.0.0,281934,pcv0gpxj8dz,squirrel,7246,NA,"{""image_description"":""A parallelogram; rhombus\n""}",study,8,stimuli/8.jpg,6564.91,4,"A parallelogram; rhombus
+",3,"Square
+"
+survey-text,14,10,2.0.0,360200,pcv0gpxj8dz,squirrel,77764,NA,"{""image_description"":""A crown shape with three points, left being a sharp edge, middle being a tomahawk shape with a jagged end, and a rounded edge that may resemble a handle""}",study,37,stimuli/37.jpg,6725.55,10,"A crown shape with three points, left being a sharp edge, middle being a tomahawk shape with a jagged end, and a rounded edge that may resemble a handle",29,"Square
+"
+survey-text,15,11,2.0.0,410834,pcv0gpxj8dz,squirrel,50131,NA,"{""image_description"":""A random shape that has morphed in all sides that has more straight lines on the bottom and more jagged lines on the top.""}",study,96,stimuli/96.jpg,6946.2,22,A random shape that has morphed in all sides that has more straight lines on the bottom and more jagged lines on the top.,24,"Square
+"
+survey-text,16,12,2.0.0,439751,pcv0gpxj8dz,squirrel,28413,NA,"{""image_description"":""Pacman with a sharp nose and a straight back of his head ""}",study,43,stimuli/43.jpg,6685.72,11,Pacman with a sharp nose and a straight back of his head,13,"Square
+"
+survey-text,17,13,2.0.0,482550,pcv0gpxj8dz,squirrel,42295,NA,"{""image_description"":""A crab claw on the left of the shape, and a large formation of the right side and a trapezoid base.""}",study,113,stimuli/113.jpg,6936.3,25,"A crab claw on the left of the shape, and a large formation of the right side and a trapezoid base.",21,"Square
+"
+survey-text,18,14,2.0.0,496418,pcv0gpxj8dz,squirrel,13364,NA,"{""image_description"":""A porcupine yelling to the left""}",study,132,stimuli/132.jpg,7051.12,29,A porcupine yelling to the left,6,"Square
+"
+survey-text,19,15,2.0.0,533465,pcv0gpxj8dz,squirrel,36545,NA,"{""image_description"":""A dragon with it's pointy beak and head at the top left, with his wing behind him on the left side, and it's body with a dip in it's base and his foot on the bottom.""}",study,159,stimuli/159.jpg,7148.24,34,"A dragon with it's pointy beak and head at the top left, with his wing behind him on the left side, and it's body with a dip in it's base and his foot on the bottom.",36,"Square
+"
+survey-text,20,16,2.0.0,546368,pcv0gpxj8dz,squirrel,12399,NA,"{""image_description"":""A parallelogram or rhombus""}",study,10,stimuli/10.jpg,6545.43,4,A parallelogram or rhombus,4,"Square
+"
+survey-text,21,17,2.0.0,644866,pcv0gpxj8dz,squirrel,97997,NA,"{""image_description"":""Aardvark with two wings\n""}",study,104,stimuli/104.jpg,6941.74,23,"Aardvark with two wings
+",4,"Square
+"
+survey-text,22,18,2.0.0,653016,pcv0gpxj8dz,squirrel,7645,NA,"{""image_description"":""Unicorn with a large fuzzy tail""}",study,57,stimuli/57.jpg,6789.16,14,Unicorn with a large fuzzy tail,6,"Square
+"
+survey-text,23,19,2.0.0,684433,pcv0gpxj8dz,squirrel,30913,NA,"{""image_description"":""Squirrel and a fuzzy tail\n""}",study,160,stimuli/160.jpg,7132.53,34,"Squirrel and a fuzzy tail
+",5,"Square
+"
+survey-text,24,20,2.0.0,695451,pcv0gpxj8dz,squirrel,10514,NA,"{""image_description"":""Guy laughing with a square nose wearing a hat""}",study,105,stimuli/105.jpg,7003.86,23,Guy laughing with a square nose wearing a hat,9,"Square
+"
+survey-text,5,1,2.0.0,70163,pcy878ovhss,gorilla,47766,NA,"{""image_description"":""a shape with sharp edges on the left side and relatively smoother edges on the right side""}",study,47,stimuli/47.jpg,6715.11,12,a shape with sharp edges on the left side and relatively smoother edges on the right side,17,a blank rectangle
+survey-text,6,2,2.0.0,104255,pcy878ovhss,gorilla,33584,NA,"{""image_description"":""a rough triangle with a deformed base""}",study,21,stimuli/21.jpg,6619.34,7,a rough triangle with a deformed base,7,a blank rectangle
+survey-text,7,3,2.0.0,122619,pcy878ovhss,gorilla,17856,NA,"{""image_description"":""a platypus-like outline""}",study,139,stimuli/139.jpg,7164.58,30,a platypus-like outline,3,a blank rectangle
+survey-text,8,4,2.0.0,216747,pcy878ovhss,gorilla,93618,NA,"{""image_description"":""an outline resembling the mouth of an alligator (open)""}",study,134,stimuli/134.jpg,7048.98,29,an outline resembling the mouth of an alligator (open),9,a blank rectangle
+survey-text,9,5,2.0.0,277947,pcy878ovhss,gorilla,60681,NA,"{""image_description"":""a random shape with many edges""}",study,99,stimuli/99.jpg,6861.47,22,a random shape with many edges,6,a blank rectangle
+survey-text,10,6,2.0.0,306970,pcy878ovhss,gorilla,28510,NA,"{""image_description"":""a rabbit like outline but the rabbit is bending backwards with its arm stretched out""}",study,88,stimuli/88.jpg,6908.86,20,a rabbit like outline but the rabbit is bending backwards with its arm stretched out,15,a blank rectangle
+survey-text,11,7,2.0.0,326628,pcy878ovhss,gorilla,19148,NA,"{""image_description"":""an irregular hexagon like shape""}",study,24,stimuli/24.jpg,6629.99,7,an irregular hexagon like shape,5,a blank rectangle
+survey-text,12,8,2.0.0,343058,pcy878ovhss,gorilla,15926,NA,"{""image_description"":""a shape with multiple pointy edges""}",study,69,stimuli/69.jpg,6809.38,16,a shape with multiple pointy edges,6,a blank rectangle
+survey-text,13,9,2.0.0,370923,pcy878ovhss,gorilla,27350,NA,"{""image_description"":""an outline of the face and neck of a dog""}",study,152,stimuli/152.jpg,7144.83,33,an outline of the face and neck of a dog,10,a blank rectangle
+survey-text,14,10,2.0.0,432043,pcy878ovhss,gorilla,60614,NA,"{""image_description"":""two triangle-like joined shapes that are inverted and the top of one is outstretched ""}",study,32,stimuli/32.jpg,6645.1,9,two triangle-like joined shapes that are inverted and the top of one is outstretched,15,a blank rectangle
+survey-text,15,11,2.0.0,478337,pcy878ovhss,gorilla,45789,NA,"{""image_description"":""a crumbled square-like shape with a sharp inwards triangle on the right arm""}",study,56,stimuli/56.jpg,6726.19,14,a crumbled square-like shape with a sharp inwards triangle on the right arm,13,a blank rectangle
+survey-text,16,12,2.0.0,508520,pcy878ovhss,gorilla,29675,NA,"{""image_description"":""a shape with pointy edges on the right and inwards-bent edges on the left""}",study,120,stimuli/120.jpg,7075.54,26,a shape with pointy edges on the right and inwards-bent edges on the left,14,a blank rectangle
+survey-text,17,13,2.0.0,571147,pcy878ovhss,gorilla,62102,NA,"{""image_description"":""an outline resembling a bird that is soaring upwards, facing left, wings outstretched. It's wings are drawn kinda rectangle-ish and the beak is triangular""}",study,75,stimuli/75.jpg,6817.48,17,"an outline resembling a bird that is soaring upwards, facing left, wings outstretched. It's wings are drawn kinda rectangle-ish and the beak is triangular",24,a blank rectangle
+survey-text,18,14,2.0.0,614347,pcy878ovhss,gorilla,42687,NA,"{""image_description"":""a shape resembling a bird opening its mouthm with a horn-like thing on its head""}",study,102,stimuli/102.jpg,6857.23,23,a shape resembling a bird opening its mouthm with a horn-like thing on its head,15,a blank rectangle
+survey-text,19,15,2.0.0,678241,pcy878ovhss,gorilla,63387,NA,"{""image_description"":""a jug-like shape but slightly inverted such that the handle of the jug (triangular) us on the left""}",study,70,stimuli/70.jpg,6790.01,16,a jug-like shape but slightly inverted such that the handle of the jug (triangular) us on the left,18,a blank rectangle
+survey-text,20,16,2.0.0,742271,pcy878ovhss,gorilla,63525,NA,"{""image_description"":""a shape with multiple pointy objects on the left side, 'three sharp points and four smooth edges on the right side""}",study,97,stimuli/97.jpg,7048.4,22,"a shape with multiple pointy objects on the left side, 'three sharp points and four smooth edges on the right side",21,a blank rectangle
+survey-text,21,17,2.0.0,812549,pcy878ovhss,gorilla,69772,NA,"{""image_description"":""an isosceles triangle like shape with its top pointing towards the left, the left arm being slightly bent outwards, and the base also being slightly bent outwards""}",study,17,stimuli/17.jpg,6592.16,6,"an isosceles triangle like shape with its top pointing towards the left, the left arm being slightly bent outwards, and the base also being slightly bent outwards",27,a blank rectangle
+survey-text,22,18,2.0.0,906576,pcy878ovhss,gorilla,93519,NA,"{""image_description"":""a shape with 4 edges, the top two edges are lines tht converge towards the right and the side edges are lines that converge downwards. The shape is closed""}",study,12,stimuli/12.jpg,6544.99,5,"a shape with 4 edges, the top two edges are lines tht converge towards the right and the side edges are lines that converge downwards. The shape is closed",29,a blank rectangle
+survey-text,23,19,2.0.0,917251,pcy878ovhss,gorilla,10167,NA,"{""image_description"":""a zig zag closed shape""}",study,123,stimuli/123.jpg,7035.3,27,a zig zag closed shape,5,a blank rectangle
+survey-text,24,20,2.0.0,958566,pcy878ovhss,gorilla,40802,NA,"{""image_description"":""a shape that looks like a cracker bursting towards the bottom left""}",study,157,stimuli/157.jpg,7214.07,34,a shape that looks like a cracker bursting towards the bottom left,12,a blank rectangle
+survey-text,5,1,2.0.0,61742,pegxl2s4hnd,Cheetah,14486,NA,"{""image_description"":""I see a 7 sided polygon.\n""}",study,23,stimuli/23.jpg,6577.38,7,"I see a 7 sided polygon.
+",6,I see a sqaure.
+survey-text,6,2,2.0.0,87011,pegxl2s4hnd,Cheetah,24765,NA,"{""image_description"":""I see a 15 sided polygon.\n""}",study,65,stimuli/65.jpg,6894.67,15,"I see a 15 sided polygon.
+",6,I see a sqaure.
+survey-text,7,3,2.0.0,124074,pegxl2s4hnd,Cheetah,36558,NA,"{""image_description"":""i see an 8 sided polygon, or a melting square if you will.""}",study,22,stimuli/22.jpg,6593.16,7,"i see an 8 sided polygon, or a melting square if you will.",13,I see a sqaure.
+survey-text,8,4,2.0.0,179001,pegxl2s4hnd,Cheetah,54421,NA,"{""image_description"":""I see a really intense polygon with lots of angles and sides.\n""}",study,134,stimuli/134.jpg,7048.98,29,"I see a really intense polygon with lots of angles and sides.
+",12,I see a sqaure.
+survey-text,9,5,2.0.0,224135,pegxl2s4hnd,Cheetah,44628,NA,"{""image_description"":""I see a greebled letter 'C'""}",study,85,stimuli/85.jpg,6831.41,19,I see a greebled letter 'C',6,I see a sqaure.
+survey-text,10,6,2.0.0,292367,pegxl2s4hnd,Cheetah,67727,NA,"{""image_description"":""I see a shape.\n""}",study,103,stimuli/103.jpg,6915.47,23,"I see a shape.
+",4,I see a sqaure.
+survey-text,11,7,2.0.0,338206,pegxl2s4hnd,Cheetah,45332,NA,"{""image_description"":""This one almost looks like a bird flying towards me. but very minimalistic rendition.""}",study,101,stimuli/101.jpg,6963.9,23,This one almost looks like a bird flying towards me. but very minimalistic rendition.,14,I see a sqaure.
+survey-text,12,8,2.0.0,376416,pegxl2s4hnd,Cheetah,37706,NA,"{""image_description"":""I see some something with a haircut like guille, a pointy nose, and a pointy chin.""}",study,123,stimuli/123.jpg,7035.3,27,"I see some something with a haircut like guille, a pointy nose, and a pointy chin.",16,I see a sqaure.
+survey-text,13,9,2.0.0,386142,pegxl2s4hnd,Cheetah,9221,NA,"{""image_description"":""I see a shape.""}",study,107,stimuli/107.jpg,6920.13,24,I see a shape.,4,I see a sqaure.
+survey-text,14,10,2.0.0,400498,pegxl2s4hnd,Cheetah,13852,NA,"{""image_description"":""I see an F1 track.""}",study,52,stimuli/52.jpg,6699.28,13,I see an F1 track.,5,I see a sqaure.
+survey-text,15,11,2.0.0,437750,pegxl2s4hnd,Cheetah,36747,NA,"{""image_description"":""I see a crazy shape.""}",study,158,stimuli/158.jpg,7134.9,34,I see a crazy shape.,5,I see a sqaure.
+survey-text,16,12,2.0.0,458985,pegxl2s4hnd,Cheetah,20731,NA,"{""image_description"":""I see a bad multi-tool design.""}",study,41,stimuli/41.jpg,6650,11,I see a bad multi-tool design.,6,I see a sqaure.
+survey-text,17,13,2.0.0,477210,pegxl2s4hnd,Cheetah,17720,NA,"{""image_description"":""I see a square that had some of its parts redacted.\n""}",study,31,stimuli/31.jpg,6687.71,9,"I see a square that had some of its parts redacted.
+",11,I see a sqaure.
+survey-text,18,14,2.0.0,506661,pegxl2s4hnd,Cheetah,28946,NA,"{""image_description"":""I see a 'whose that pokemon' for some ghost type pokemon. Legendary.""}",study,136,stimuli/136.jpg,7007.06,30,I see a 'whose that pokemon' for some ghost type pokemon. Legendary.,12,I see a sqaure.
+survey-text,19,15,2.0.0,545479,pegxl2s4hnd,Cheetah,38314,NA,"{""image_description"":""I see a minaret atop a ridge.""}",study,74,stimuli/74.jpg,6769.21,17,I see a minaret atop a ridge.,7,I see a sqaure.
+survey-text,20,16,2.0.0,562794,pegxl2s4hnd,Cheetah,16810,NA,"{""image_description"":""I am not sure, a shape.""}",study,66,stimuli/66.jpg,6801.34,16,"I am not sure, a shape.",6,I see a sqaure.
+survey-text,21,17,2.0.0,568915,pegxl2s4hnd,Cheetah,5616,NA,"{""image_description"":""Boring square.""}",study,35,stimuli/35.jpg,6698.42,9,Boring square.,2,I see a sqaure.
+survey-text,22,18,2.0.0,589754,pegxl2s4hnd,Cheetah,20334,NA,"{""image_description"":""I see a pointy object.""}",study,81,stimuli/81.jpg,6817.86,19,I see a pointy object.,5,I see a sqaure.
+survey-text,23,19,2.0.0,612146,pegxl2s4hnd,Cheetah,21887,NA,"{""image_description"":""I see a bone undergoing osteoporosis. ""}",study,154,stimuli/154.jpg,7155.07,33,I see a bone undergoing osteoporosis.,7,I see a sqaure.
+survey-text,24,20,2.0.0,657467,pegxl2s4hnd,Cheetah,44815,NA,"{""image_description"":""I see a poor rendition of baseball home plate that someone drew from memory.""}",study,15,stimuli/15.jpg,6585.63,5,I see a poor rendition of baseball home plate that someone drew from memory.,14,I see a sqaure.
+survey-text,5,1,2.0.0,112501,phts0u8cvs2,koala,58223,NA,"{""image_description"":""jagged quadrilateral shape with arrow-shaped dip in the center ""}",study,91,stimuli/91.jpg,6985.65,21,jagged quadrilateral shape with arrow-shaped dip in the center,10,rectangle
+survey-text,6,2,2.0.0,158749,phts0u8cvs2,koala,45743,NA,"{""image_description"":""pentagon with two adjacent really elongated sides""}",study,17,stimuli/17.jpg,6592.16,6,pentagon with two adjacent really elongated sides,7,rectangle
+survey-text,7,3,2.0.0,206886,phts0u8cvs2,koala,47627,NA,"{""image_description"":""rectangle with triangles coming out of it on all sides and on some corners""}",study,66,stimuli/66.jpg,6801.34,16,rectangle with triangles coming out of it on all sides and on some corners,14,rectangle
+survey-text,8,4,2.0.0,284869,phts0u8cvs2,koala,77468,NA,"{""image_description"":""jagged shape that caves in on the left and has a sharp triangle at the start of the cave, resembles a skull shape""}",study,132,stimuli/132.jpg,7051.12,29,"jagged shape that caves in on the left and has a sharp triangle at the start of the cave, resembles a skull shape",23,rectangle
+survey-text,9,5,2.0.0,358613,phts0u8cvs2,koala,73238,NA,"{""image_description"":""quadrilateral shape, 3 sharp spikes on the bottom, spike on top left, very long spike on the right, resembles a tree stump""}",study,77,stimuli/77.jpg,6870.06,18,"quadrilateral shape, 3 sharp spikes on the bottom, spike on top left, very long spike on the right, resembles a tree stump",22,rectangle
+survey-text,10,6,2.0.0,414587,phts0u8cvs2,koala,55469,NA,"{""image_description"":""two scalene triangles, they are connected by the longest side of one triangle and the second longest side of the other triangle""}",study,13,stimuli/13.jpg,6577.27,5,"two scalene triangles, they are connected by the longest side of one triangle and the second longest side of the other triangle",22,rectangle
+survey-text,11,7,2.0.0,448479,phts0u8cvs2,koala,33380,NA,"{""image_description"":""triangle with cut corners on top of a quadrilateral shape with a spike coming out the top""}",study,57,stimuli/57.jpg,6789.16,14,triangle with cut corners on top of a quadrilateral shape with a spike coming out the top,17,rectangle
+survey-text,12,8,2.0.0,460520,phts0u8cvs2,koala,11535,NA,"{""image_description"":""isosceles triangle""}",study,5,stimuli/5.jpg,6522.84,3,isosceles triangle,2,rectangle
+survey-text,13,9,2.0.0,534213,phts0u8cvs2,koala,73176,NA,"{""image_description"":""sort of looks like mexico with square shaped cave-in on the right""}",study,124,stimuli/124.jpg,6991.53,27,sort of looks like mexico with square shaped cave-in on the right,12,rectangle
+survey-text,14,10,2.0.0,541505,phts0u8cvs2,koala,6781,NA,"{""image_description"":""scalene triangle""}",study,2,stimuli/2.jpg,6550.44,3,scalene triangle,2,rectangle
+survey-text,15,11,2.0.0,585927,phts0u8cvs2,koala,43903,NA,"{""image_description"":""squarish shape with quadrilateral cave-in on top and spiky squarish cave-in on the bottom""}",study,100,stimuli/100.jpg,6897.69,22,squarish shape with quadrilateral cave-in on top and spiky squarish cave-in on the bottom,14,rectangle
+survey-text,16,12,2.0.0,653994,phts0u8cvs2,koala,67564,NA,"{""image_description"":""triangle with huge spike on top connected to reverse C shape and big spike on top, big spike inside the curve""}",study,127,stimuli/127.jpg,7055.1,28,"triangle with huge spike on top connected to reverse C shape and big spike on top, big spike inside the curve",21,rectangle
+survey-text,17,13,2.0.0,729740,phts0u8cvs2,koala,75239,NA,"{""image_description"":""square with quadrilateral cave-in on top and left side, cut corner on the right, cut corners on right side, spikes on the bottom and triangle cutout, ""}",study,118,stimuli/118.jpg,7003.15,26,"square with quadrilateral cave-in on top and left side, cut corner on the right, cut corners on right side, spikes on the bottom and triangle cutout,",27,rectangle
+survey-text,18,14,2.0.0,749340,phts0u8cvs2,koala,19096,NA,"{""image_description"":""square with spiky cave-ins on each side""}",study,147,stimuli/147.jpg,7182.98,32,square with spiky cave-ins on each side,7,rectangle
+survey-text,19,15,2.0.0,823569,phts0u8cvs2,koala,73727,NA,"{""image_description"":""square shape with bottom left corner cut, right top and bottom spiky cave-ins, left top spiky cave-in""}",study,128,stimuli/128.jpg,7090.6,28,"square shape with bottom left corner cut, right top and bottom spiky cave-ins, left top spiky cave-in",17,rectangle
+survey-text,20,16,2.0.0,875887,phts0u8cvs2,koala,51814,NA,"{""image_description"":""2 weird pentagons on top of each other, smaller triangle with spike on bottom attached to the bottom""}",study,52,stimuli/52.jpg,6699.28,13,"2 weird pentagons on top of each other, smaller triangle with spike on bottom attached to the bottom",18,rectangle
+survey-text,21,17,2.0.0,958928,phts0u8cvs2,koala,82536,NA,"{""image_description"":""squarish shape with cut parallel sides and triangle cut into bottom""}",study,22,stimuli/22.jpg,6593.16,7,squarish shape with cut parallel sides and triangle cut into bottom,11,rectangle
+survey-text,22,18,2.0.0,998906,phts0u8cvs2,koala,39463,NA,"{""image_description"":""looks like louisiana but short and stumpy""}",study,72,stimuli/72.jpg,6817.14,17,looks like louisiana but short and stumpy,7,rectangle
+survey-text,23,19,2.0.0,1043083,phts0u8cvs2,koala,43666,NA,"{""image_description"":""rock with triangle cutout at the bottom and long dinosaur looking head to the left""}",study,113,stimuli/113.jpg,6936.3,25,rock with triangle cutout at the bottom and long dinosaur looking head to the left,15,rectangle
+survey-text,24,20,2.0.0,1095353,phts0u8cvs2,koala,51751,NA,"{""image_description"":""first shape is rectangle with spiky cutouts and second shape is three quadrilaterals attached at different points""}",study,108,stimuli/108.jpg,7046.82,24,first shape is rectangle with spiky cutouts and second shape is three quadrilaterals attached at different points,17,rectangle
+survey-text,5,1,2.0.0,135232,pj73gzxllrw,parrot,33574,NA,"{""image_description"":""Kinda looks like a state with 14 edges or so, random jadged edges in some area.\n""}",study,68,stimuli/68.jpg,6783.11,16,"Kinda looks like a state with 14 edges or so, random jadged edges in some area.
+",16,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,6,2,2.0.0,186702,pj73gzxllrw,parrot,50964,NA,"{""image_description"":""Triangle with a flattened top, turned on a 250 degree angle.\n""}",study,12,stimuli/12.jpg,6544.99,5,"Triangle with a flattened top, turned on a 250 degree angle.
+",11,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,7,3,2.0.0,237719,pj73gzxllrw,parrot,50514,NA,"{""image_description"":""Jagged image again with lots of curves and edges, no real pattern just a shape with lots of curves and edges. ""}",study,157,stimuli/157.jpg,7214.07,34,"Jagged image again with lots of curves and edges, no real pattern just a shape with lots of curves and edges.",22,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,8,4,2.0.0,275824,pj73gzxllrw,parrot,37600,NA,"{""image_description"":""6 edges and a triangular shape that creates a shape that is like a mix of a triangle and trapezoid. ""}",study,18,stimuli/18.jpg,6619.38,6,6 edges and a triangular shape that creates a shape that is like a mix of a triangle and trapezoid.,21,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,9,5,2.0.0,298433,pj73gzxllrw,parrot,22104,NA,"{""image_description"":""Kinda looks like a dog pointing his nose up with no legs.""}",study,106,stimuli/106.jpg,6901.59,24,Kinda looks like a dog pointing his nose up with no legs.,12,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,10,6,2.0.0,316629,pj73gzxllrw,parrot,17693,NA,"{""image_description"":""Looks like an elephant with 2 legs pointing downward. ""}",study,59,stimuli/59.jpg,6820.36,14,Looks like an elephant with 2 legs pointing downward.,10,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,11,7,2.0.0,333017,pj73gzxllrw,parrot,15883,NA,"{""image_description"":""Kinda like the top of a flower with no definition in the petals. \n""}",study,30,stimuli/30.jpg,6632.49,8,"Kinda like the top of a flower with no definition in the petals. 
+",14,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,12,8,2.0.0,343901,pj73gzxllrw,parrot,10380,NA,"{""image_description"":""A fish with wings\n""}",study,111,stimuli/111.jpg,7024.76,25,"A fish with wings
+",4,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,13,9,2.0.0,360261,pj73gzxllrw,parrot,15858,NA,"{""image_description"":""A bee with no real definition in the face or legs""}",study,104,stimuli/104.jpg,6941.74,23,A bee with no real definition in the face or legs,11,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,14,10,2.0.0,373372,pj73gzxllrw,parrot,12606,NA,"{""image_description"":""Malgamation of shapes put together""}",study,153,stimuli/153.jpg,7262.77,33,Malgamation of shapes put together,5,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,15,11,2.0.0,397601,pj73gzxllrw,parrot,23722,NA,"{""image_description"":""Another malgamation of shapes put together to create a chomping animal maybe? ""}",study,118,stimuli/118.jpg,7003.15,26,Another malgamation of shapes put together to create a chomping animal maybe?,13,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,16,12,2.0.0,410972,pj73gzxllrw,parrot,12867,NA,"{""image_description"":""A bunch of zig zags but expanded\n""}",study,147,stimuli/147.jpg,7182.98,32,"A bunch of zig zags but expanded
+",7,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,17,13,2.0.0,420756,pj73gzxllrw,parrot,9280,NA,"{""image_description"":""Looks like the state of montana""}",study,27,stimuli/27.jpg,6627.84,8,Looks like the state of montana,6,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,18,14,2.0.0,440663,pj73gzxllrw,parrot,19401,NA,"{""image_description"":""Those plant chomping animals from mario ""}",study,134,stimuli/134.jpg,7048.98,29,Those plant chomping animals from mario,7,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,19,15,2.0.0,509229,pj73gzxllrw,parrot,68060,NA,"{""image_description"":""Long rectangle attached to a square which attaches to a curved area ""}",study,73,stimuli/73.jpg,6798.06,17,Long rectangle attached to a square which attaches to a curved area,13,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,20,16,2.0.0,519758,pj73gzxllrw,parrot,10026,NA,"{""image_description"":""A unicorn""}",study,44,stimuli/44.jpg,6692.06,11,A unicorn,2,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,21,17,2.0.0,535859,pj73gzxllrw,parrot,15597,NA,"{""image_description"":""Rayquaza the pokemon but less serpent like""}",study,90,stimuli/90.jpg,6873.09,20,Rayquaza the pokemon but less serpent like,7,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,22,18,2.0.0,548634,pj73gzxllrw,parrot,12272,NA,"{""image_description"":""Idaho but the corner is jagged""}",study,33,stimuli/33.jpg,6635.57,9,Idaho but the corner is jagged,6,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,23,19,2.0.0,556669,pj73gzxllrw,parrot,7529,NA,"{""image_description"":""A chicken""}",study,148,stimuli/148.jpg,7141.91,32,A chicken,2,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,24,20,2.0.0,566875,pj73gzxllrw,parrot,9700,NA,"{""image_description"":""A triceratops ""}",study,77,stimuli/77.jpg,6870.06,18,A triceratops,3,"A square with a black outline and nothing on the inside, so overall just a white square with a black outline. "
+survey-text,5,1,2.0.0,102118,pjq3ncgdq2t,flamingo,45890,NA,"{""image_description"":""A cat holding a knife up in both hands, head tilted slightly up.\n""}",study,91,stimuli/91.jpg,6985.65,21,"A cat holding a knife up in both hands, head tilted slightly up.
+",13,4 lines making a square
+survey-text,6,2,2.0.0,194699,pjq3ncgdq2t,flamingo,92076,NA,"{""image_description"":""a disfigured circle with 6 indentations that make it turn into a disfigured star ( 7 sharp edges).""}",study,158,stimuli/158.jpg,7134.9,34,a disfigured circle with 6 indentations that make it turn into a disfigured star ( 7 sharp edges).,18,4 lines making a square
+survey-text,7,3,2.0.0,365001,pjq3ncgdq2t,flamingo,169794,NA,"{""image_description"":""The outline of phineas' head mixed in with a bigger outline of his head.""}",study,107,stimuli/107.jpg,6920.13,24,The outline of phineas' head mixed in with a bigger outline of his head.,14,4 lines making a square
+survey-text,8,4,2.0.0,433449,pjq3ncgdq2t,flamingo,67943,NA,"{""image_description"":""Looks like two legs at the bottom with the rest beig two huge arms coming from it.""}",study,126,stimuli/126.jpg,7003.01,28,Looks like two legs at the bottom with the rest beig two huge arms coming from it.,17,4 lines making a square
+survey-text,9,5,2.0.0,485492,pjq3ncgdq2t,flamingo,51538,NA,"{""image_description"":""I see a christmas tree with small wings and a chimney. ""}",study,153,stimuli/153.jpg,7262.77,33,I see a christmas tree with small wings and a chimney.,12,4 lines making a square
+survey-text,10,6,2.0.0,501181,pjq3ncgdq2t,flamingo,15184,NA,"{""image_description"":""I see 3 lines that converge into a triangle""}",study,5,stimuli/5.jpg,6522.84,3,I see 3 lines that converge into a triangle,9,4 lines making a square
+survey-text,11,7,2.0.0,555406,pjq3ncgdq2t,flamingo,53719,NA,"{""image_description"":""Looks like a car door from an upper right side angle without the side mirror included.""}",study,48,stimuli/48.jpg,6690.71,12,Looks like a car door from an upper right side angle without the side mirror included.,16,4 lines making a square
+survey-text,12,8,2.0.0,588114,pjq3ncgdq2t,flamingo,32205,NA,"{""image_description"":""A triangle with two extra lines that make it look like a home plate.""}",study,15,stimuli/15.jpg,6585.63,5,A triangle with two extra lines that make it look like a home plate.,14,4 lines making a square
+survey-text,13,9,2.0.0,604014,pjq3ncgdq2t,flamingo,15397,NA,"{""image_description"":""Looks like a puffer fish blown up""}",study,26,stimuli/26.jpg,6669.01,8,Looks like a puffer fish blown up,7,4 lines making a square
+survey-text,14,10,2.0.0,625922,pjq3ncgdq2t,flamingo,21404,NA,"{""image_description"":""Looks like an origami swan""}",study,65,stimuli/65.jpg,6894.67,15,Looks like an origami swan,5,4 lines making a square
+survey-text,15,11,2.0.0,710509,pjq3ncgdq2t,flamingo,83976,NA,"{""image_description"":""This looks like a chicken that is leaning back and looking up with its tail forming some hind leg""}",study,133,stimuli/133.jpg,7027.21,29,This looks like a chicken that is leaning back and looking up with its tail forming some hind leg,19,4 lines making a square
+survey-text,16,12,2.0.0,730976,pjq3ncgdq2t,flamingo,19964,NA,"{""image_description"":""This looks like a US state, not sure which but...""}",study,68,stimuli/68.jpg,6783.11,16,"This looks like a US state, not sure which but...",10,4 lines making a square
+survey-text,17,13,2.0.0,791667,pjq3ncgdq2t,flamingo,60186,NA,"{""image_description"":""It looks like a car without wheels and a tail, like a shark shaped car flying""}",study,70,stimuli/70.jpg,6790.01,16,"It looks like a car without wheels and a tail, like a shark shaped car flying",16,4 lines making a square
+survey-text,18,14,2.0.0,841608,pjq3ncgdq2t,flamingo,49437,NA,"{""image_description"":""This looks like its up against a wall, some spilled milk perhaps.also looks like a praying mantis""}",study,52,stimuli/52.jpg,6699.28,13,"This looks like its up against a wall, some spilled milk perhaps.also looks like a praying mantis",17,4 lines making a square
+survey-text,19,15,2.0.0,855152,pjq3ncgdq2t,flamingo,13040,NA,"{""image_description"":""This looks like a witch riding a broom""}",study,155,stimuli/155.jpg,7171.51,33,This looks like a witch riding a broom,8,4 lines making a square
+survey-text,20,16,2.0.0,895668,pjq3ncgdq2t,flamingo,40011,NA,"{""image_description"":""This looks like a dog but as those candy toys where you put some pink pill into them and it deposits them.""}",study,110,stimuli/110.jpg,6951.51,24,This looks like a dog but as those candy toys where you put some pink pill into them and it deposits them.,22,4 lines making a square
+survey-text,21,17,2.0.0,944611,pjq3ncgdq2t,flamingo,48438,NA,"{""image_description"":""Looks like a fish horse hybrid, head of a horse body of a fish""}",study,93,stimuli/93.jpg,6903.36,21,"Looks like a fish horse hybrid, head of a horse body of a fish",14,4 lines making a square
+survey-text,22,18,2.0.0,995634,pjq3ncgdq2t,flamingo,50518,NA,"{""image_description"":""This looks like a floor plan of an oddly shaped house.""}",study,94,stimuli/94.jpg,6965.94,21,This looks like a floor plan of an oddly shaped house.,11,4 lines making a square
+survey-text,23,19,2.0.0,1012260,pjq3ncgdq2t,flamingo,16122,NA,"{""image_description"":""I see an oddly shaped pentagon.""}",study,14,stimuli/14.jpg,6580.15,5,I see an oddly shaped pentagon.,6,4 lines making a square
+survey-text,24,20,2.0.0,1026238,pjq3ncgdq2t,flamingo,13474,NA,"{""image_description"":""Another oddly shaped pentagon.""}",study,11,stimuli/11.jpg,6580.42,5,Another oddly shaped pentagon.,4,4 lines making a square
+survey-text,5,1,2.0.0,87685,pkjo9rgcja5,manatee,64756,NA,"{""image_description"":""mermaid with a triangle for a head, a fin at the back of its head, one wing pointing southwest, and the tail pointing northeast, with a trapezoidal shape""}",study,106,stimuli/106.jpg,6901.59,24,"mermaid with a triangle for a head, a fin at the back of its head, one wing pointing southwest, and the tail pointing northeast, with a trapezoidal shape",28,"square
+"
+survey-text,6,2,2.0.0,126299,pkjo9rgcja5,manatee,38106,NA,"{""image_description"":""Right angle triangle with the angle on the left, with a inverse trapezoid at the bottom of the lefthand corner""}",study,39,stimuli/39.jpg,6609.47,10,"Right angle triangle with the angle on the left, with a inverse trapezoid at the bottom of the lefthand corner",20,"square
+"
+survey-text,7,3,2.0.0,177078,pkjo9rgcja5,manatee,50271,NA,"{""image_description"":""the plague doctor walking upwards northwest carrying a large sack""}",study,157,stimuli/157.jpg,7214.07,34,the plague doctor walking upwards northwest carrying a large sack,10,"square
+"
+survey-text,8,4,2.0.0,222736,pkjo9rgcja5,manatee,45150,NA,"{""image_description"":""a really crappy boomerang that has a huge trapezoid attached to the middle of said boomerang""}",study,49,stimuli/49.jpg,6730.49,12,a really crappy boomerang that has a huge trapezoid attached to the middle of said boomerang,16,"square
+"
+survey-text,9,5,2.0.0,235133,pkjo9rgcja5,manatee,11880,NA,"{""image_description"":""anime hairstyle from the 90s""}",study,74,stimuli/74.jpg,6769.21,17,anime hairstyle from the 90s,5,"square
+"
+survey-text,10,6,2.0.0,255485,pkjo9rgcja5,manatee,19840,NA,"{""image_description"":""a pentagon that points left""}",study,14,stimuli/14.jpg,6580.15,5,a pentagon that points left,5,"square
+"
+survey-text,11,7,2.0.0,320386,pkjo9rgcja5,manatee,64390,NA,"{""image_description"":""trapezoidal base, 4 spikes protruding leftwards, 1 spike right, and a trapezoidal spike right as well""}",study,84,stimuli/84.jpg,6959.66,19,"trapezoidal base, 4 spikes protruding leftwards, 1 spike right, and a trapezoidal spike right as well",16,"square
+"
+survey-text,12,8,2.0.0,364381,pkjo9rgcja5,manatee,43489,NA,"{""image_description"":""now THIS is a crappy boomerang. trapezoidal base with two triangles at either end, and a triangular cavity in the middle""}",study,83,stimuli/83.jpg,6903.38,19,"now THIS is a crappy boomerang. trapezoidal base with two triangles at either end, and a triangular cavity in the middle",21,"square
+"
+survey-text,13,9,2.0.0,390374,pkjo9rgcja5,manatee,25483,NA,"{""image_description"":""rhombus with a flat end southside, connected to a triangle on the right""}",study,36,stimuli/36.jpg,6694.49,10,"rhombus with a flat end southside, connected to a triangle on the right",13,"square
+"
+survey-text,14,10,2.0.0,423691,pkjo9rgcja5,manatee,32805,NA,"{""image_description"":""what can only be described as a 4 year-olds drawing of marowak from pokemon""}",study,158,stimuli/158.jpg,7134.9,34,what can only be described as a 4 year-olds drawing of marowak from pokemon,14,"square
+"
+survey-text,15,11,2.0.0,448481,pkjo9rgcja5,manatee,24277,NA,"{""image_description"":""pacman but less circular, and with 2 spikes coming out the back of him""}",study,72,stimuli/72.jpg,6817.14,17,"pacman but less circular, and with 2 spikes coming out the back of him",14,"square
+"
+survey-text,16,12,2.0.0,504662,pkjo9rgcja5,manatee,55672,NA,"{""image_description"":""triangular base that connects to a rectangle, a triangle, another triangle, a rectangle that feeds into a pentagon, and a head with a triangular cavity at the top""}",study,145,stimuli/145.jpg,7185.33,31,"triangular base that connects to a rectangle, a triangle, another triangle, a rectangle that feeds into a pentagon, and a head with a triangular cavity at the top",28,"square
+"
+survey-text,17,13,2.0.0,524295,pkjo9rgcja5,manatee,19123,NA,"{""image_description"":""triangular base, connected to 3 triangles""}",study,45,stimuli/45.jpg,6703.14,11,"triangular base, connected to 3 triangles",6,"square
+"
+survey-text,18,14,2.0.0,537223,pkjo9rgcja5,manatee,12414,NA,"{""image_description"":""a simple equilateral triangle""}",study,5,stimuli/5.jpg,6522.84,3,a simple equilateral triangle,4,"square
+"
+survey-text,19,15,2.0.0,605459,pkjo9rgcja5,manatee,67721,NA,"{""image_description"":""looks kinda like a deer with the antlers being triangular shaped on the right, and the body looking like a star""}",study,121,stimuli/121.jpg,6999.52,27,"looks kinda like a deer with the antlers being triangular shaped on the right, and the body looking like a star",21,"square
+"
+survey-text,20,16,2.0.0,656833,pkjo9rgcja5,manatee,50866,NA,"{""image_description"":""really sharp face, kinda looks like fred from the flintstones, but on his chin he has a parallelogram attatched and triangular spikes on the top of his head and back of his neck""}",study,105,stimuli/105.jpg,7003.86,23,"really sharp face, kinda looks like fred from the flintstones, but on his chin he has a parallelogram attatched and triangular spikes on the top of his head and back of his neck",33,"square
+"
+survey-text,21,17,2.0.0,701819,pkjo9rgcja5,manatee,44465,NA,"{""image_description"":""an arrow pointing slightly southwest but the line is super thick and has a slight triangular cavity""}",study,54,stimuli/54.jpg,6708.13,13,an arrow pointing slightly southwest but the line is super thick and has a slight triangular cavity,17,"square
+"
+survey-text,22,18,2.0.0,747441,pkjo9rgcja5,manatee,45115,NA,"{""image_description"":""a turtle with a birds head wearing a baseball cap with wings and a platypus tail""}",study,156,stimuli/156.jpg,7199.99,34,a turtle with a birds head wearing a baseball cap with wings and a platypus tail,16,"square
+"
+survey-text,23,19,2.0.0,771924,pkjo9rgcja5,manatee,23970,NA,"{""image_description"":""a trapezoid with the smallest side on the right""}",study,12,stimuli/12.jpg,6544.99,5,a trapezoid with the smallest side on the right,9,"square
+"
+survey-text,24,20,2.0.0,824076,pkjo9rgcja5,manatee,51627,NA,"{""image_description"":""looks like a bird with its face on the right pointing slightly northeast, one sharp wing and one dull wing, with a trapezoid as its tail and attached to the dull wing is another trapezoid""}",study,114,stimuli/114.jpg,7105.53,25,"looks like a bird with its face on the right pointing slightly northeast, one sharp wing and one dull wing, with a trapezoid as its tail and attached to the dull wing is another trapezoid",35,"square
+"
+survey-text,5,1,2.0.0,270226,plpdv4q6fyy,eagle,160651,NA,"{""image_description"":""longer line from the top left to middle of the right. from the middle of the right, a shorter line going towards the lower left. another line connected to that one also going to the lower left. a longer line connected to that going towards the upper left. a last line connecting the whole shape together.""}",study,17,stimuli/17.jpg,6592.16,6,"longer line from the top left to middle of the right. from the middle of the right, a shorter line going towards the lower left. another line connected to that one also going to the lower left. a longer line connected to that going towards the upper left. a last line connecting the whole shape together.",56,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,6,2,2.0.0,595138,plpdv4q6fyy,eagle,324418,NA,"{""image_description"":""a line going from the left side up to the right. connected from the right is lines in the shape of a rhombus/parallelogram, but the top is missing. from there a line going towards the lower right. connected is a line going left that's at less than a 90 degree angle. a line then going towards the bottom right corner that's quite short connected to a line going almost straight down. a small line that creates two sides of a triangle, followed by a line going to the bottom left. another line going towards the top left corner. a line going towards the left side connected to two lines going back up towards the first line drawn.""}",study,68,stimuli/68.jpg,6783.11,16,"a line going from the left side up to the right. connected from the right is lines in the shape of a rhombus/parallelogram, but the top is missing. from there a line going towards the lower right. connected is a line going left that's at less than a 90 degree angle. a line then going towards the bottom right corner that's quite short connected to a line going almost straight down. a small line that creates two sides of a triangle, followed by a line going to the bottom left. another line going towards the top left corner. a line going towards the left side connected to two lines going back up towards the first line drawn.",117,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,7,3,2.0.0,714670,plpdv4q6fyy,eagle,119030,NA,"{""image_description"":""it kinda looks like a head, two arms, two feet, and a tail all very angular and like trapezoids or parallelograms.""}",study,116,stimuli/116.jpg,7061.19,26,"it kinda looks like a head, two arms, two feet, and a tail all very angular and like trapezoids or parallelograms.",21,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,8,4,2.0.0,762585,plpdv4q6fyy,eagle,47414,NA,"{""image_description"":""almost line a parallelogram with one one side, at the top, that's got a triangular bump on the right side.""}",study,35,stimuli/35.jpg,6698.42,9,"almost line a parallelogram with one one side, at the top, that's got a triangular bump on the right side.",20,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,9,5,2.0.0,811382,plpdv4q6fyy,eagle,48293,NA,"{""image_description"":""looks like a flat bird with a beak pointing towards the left and spiky hair on the right. two legs and a tail at the bottom.""}",study,131,stimuli/131.jpg,7030.26,29,looks like a flat bird with a beak pointing towards the left and spiky hair on the right. two legs and a tail at the bottom.,26,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,10,6,2.0.0,836054,plpdv4q6fyy,eagle,24168,NA,"{""image_description"":""extremely angular rattlesnake""}",study,91,stimuli/91.jpg,6985.65,21,extremely angular rattlesnake,3,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,11,7,2.0.0,876269,plpdv4q6fyy,eagle,39711,NA,"{""image_description"":""an ax on its side with the blade on the left and the handle pointed towards the right.""}",study,61,stimuli/61.jpg,6864.98,15,an ax on its side with the blade on the left and the handle pointed towards the right.,18,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,12,8,2.0.0,892833,plpdv4q6fyy,eagle,16061,NA,"{""image_description"":""an angular bird flying towards the bottom right.""}",study,75,stimuli/75.jpg,6817.48,17,an angular bird flying towards the bottom right.,8,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,13,9,2.0.0,938698,plpdv4q6fyy,eagle,45362,NA,"{""image_description"":""an angular dog on its hind legs looking towards the top left""}",study,97,stimuli/97.jpg,7048.4,22,an angular dog on its hind legs looking towards the top left,12,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,14,10,2.0.0,991052,plpdv4q6fyy,eagle,51849,NA,"{""image_description"":""origami boat with a little triangular tail on the bottom left corner of the boat bottom.""}",study,45,stimuli/45.jpg,6703.14,11,origami boat with a little triangular tail on the bottom left corner of the boat bottom.,16,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,15,11,2.0.0,1046154,plpdv4q6fyy,eagle,54597,NA,"{""image_description"":""an angular dog sitting on its butt with all its legs pointing towards the left and its triangular head looking up.""}",study,87,stimuli/87.jpg,6853.72,20,an angular dog sitting on its butt with all its legs pointing towards the left and its triangular head looking up.,21,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,16,12,2.0.0,1104380,plpdv4q6fyy,eagle,57724,NA,"{""image_description"":""a hunched over worm with feet and a spiky back. it's sniffing its feet.""}",study,140,stimuli/140.jpg,7121.36,30,a hunched over worm with feet and a spiky back. it's sniffing its feet.,14,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,17,13,2.0.0,1181961,plpdv4q6fyy,eagle,77080,NA,"{""image_description"":""an angular fish with its tail towards the bottom and its head pointing towards the top right. it has a fin that looks like a square with a triangle attached, kinda looking like an ax.""}",study,98,stimuli/98.jpg,6906.48,22,"an angular fish with its tail towards the bottom and its head pointing towards the top right. it has a fin that looks like a square with a triangle attached, kinda looking like an ax.",35,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,18,14,2.0.0,1194329,plpdv4q6fyy,eagle,11863,NA,"{""image_description"":""angular tulip""}",study,30,stimuli/30.jpg,6632.49,8,angular tulip,2,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,19,15,2.0.0,1214859,plpdv4q6fyy,eagle,20027,NA,"{""image_description"":""rhombus with the top right corner flattened""}",study,11,stimuli/11.jpg,6580.42,5,rhombus with the top right corner flattened,7,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,20,16,2.0.0,1270279,plpdv4q6fyy,eagle,54917,NA,"{""image_description"":""one of those desk toys that pecks at stuff all made of triangles""}",study,79,stimuli/79.jpg,6796.42,18,one of those desk toys that pecks at stuff all made of triangles,13,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,21,17,2.0.0,1355676,plpdv4q6fyy,eagle,84897,NA,"{""image_description"":""a sideways swan made of many triangles wearing cowboy boots with its head near its boots. the boots are pointed towards the left.""}",study,126,stimuli/126.jpg,7003.01,28,a sideways swan made of many triangles wearing cowboy boots with its head near its boots. the boots are pointed towards the left.,23,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,22,18,2.0.0,1409592,plpdv4q6fyy,eagle,53412,NA,"{""image_description"":""a rhombus with an M cut out of the bottom right. the top left has a triangle cut out too.""}",study,40,stimuli/40.jpg,6690.54,10,a rhombus with an M cut out of the bottom right. the top left has a triangle cut out too.,20,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,23,19,2.0.0,1489410,plpdv4q6fyy,eagle,79318,NA,"{""image_description"":""a triangular dog leaning on its bottom left arm with its other arm pointed towards the top right. bottom leg going towards the right and top leg angled towards the bottom leg.""}",study,138,stimuli/138.jpg,7120.54,30,a triangular dog leaning on its bottom left arm with its other arm pointed towards the top right. bottom leg going towards the right and top leg angled towards the bottom leg.,32,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,24,20,2.0.0,1535093,plpdv4q6fyy,eagle,45179,NA,"{""image_description"":""the headless horseman if he was riding a giant lizard. all very angular.""}",study,160,stimuli/160.jpg,7132.53,34,the headless horseman if he was riding a giant lizard. all very angular.,13,a square/rectangle. two sets of parallel lines connected with four 90 degree angles.
+survey-text,5,1,2.0.0,16034,pn63gq65fq3,axolotl,5385,NA,"{""image_description"":""knife.""}",study,39,stimuli/39.jpg,6609.47,10,knife.,1,square
+survey-text,6,2,2.0.0,23238,pn63gq65fq3,axolotl,6695,NA,"{""image_description"":""black board..? ""}",study,11,stimuli/11.jpg,6580.42,5,black board..?,3,square
+survey-text,7,3,2.0.0,27652,pn63gq65fq3,axolotl,3905,NA,"{""image_description"":""a map ""}",study,156,stimuli/156.jpg,7199.99,34,a map,3,square
+survey-text,8,4,2.0.0,33253,pn63gq65fq3,axolotl,5093,NA,"{""image_description"":""a airplane ""}",study,129,stimuli/129.jpg,7041.77,28,a airplane,3,square
+survey-text,9,5,2.0.0,38029,pn63gq65fq3,axolotl,4267,NA,"{""image_description"":""cannon ""}",study,87,stimuli/87.jpg,6853.72,20,cannon,2,square
+survey-text,10,6,2.0.0,41735,pn63gq65fq3,axolotl,3195,NA,"{""image_description"":""triangle""}",study,2,stimuli/2.jpg,6550.44,3,triangle,1,square
+survey-text,11,7,2.0.0,46614,pn63gq65fq3,axolotl,4375,NA,"{""image_description"":""another nap ""}",study,124,stimuli/124.jpg,6991.53,27,another nap,3,square
+survey-text,12,8,2.0.0,50137,pn63gq65fq3,axolotl,3018,NA,"{""image_description"":""man ""}",study,47,stimuli/47.jpg,6715.11,12,man,2,square
+survey-text,13,9,2.0.0,56627,pn63gq65fq3,axolotl,5979,NA,"{""image_description"":""weird shape ""}",study,12,stimuli/12.jpg,6544.99,5,weird shape,3,square
+survey-text,14,10,2.0.0,61749,pn63gq65fq3,axolotl,4613,NA,"{""image_description"":""tuba""}",study,90,stimuli/90.jpg,6873.09,20,tuba,1,square
+survey-text,15,11,2.0.0,66113,pn63gq65fq3,axolotl,3861,NA,"{""image_description"":""bird""}",study,77,stimuli/77.jpg,6870.06,18,bird,1,square
+survey-text,16,12,2.0.0,70618,pn63gq65fq3,axolotl,3998,NA,"{""image_description"":""state""}",study,14,stimuli/14.jpg,6580.15,5,state,1,square
+survey-text,17,13,2.0.0,75612,pn63gq65fq3,axolotl,4490,NA,"{""image_description"":""rabbit\n""}",study,63,stimuli/63.jpg,6749.45,15,"rabbit
+",1,square
+survey-text,18,14,2.0.0,79356,pn63gq65fq3,axolotl,3233,NA,"{""image_description"":""dog""}",study,53,stimuli/53.jpg,6758.52,13,dog,1,square
+survey-text,19,15,2.0.0,83639,pn63gq65fq3,axolotl,3779,NA,"{""image_description"":""dolphin""}",study,93,stimuli/93.jpg,6903.36,21,dolphin,1,square
+survey-text,20,16,2.0.0,88301,pn63gq65fq3,axolotl,4157,NA,"{""image_description"":""witch""}",study,117,stimuli/117.jpg,7067.33,26,witch,1,square
+survey-text,21,17,2.0.0,92269,pn63gq65fq3,axolotl,3463,NA,"{""image_description"":""witch ""}",study,114,stimuli/114.jpg,7105.53,25,witch,2,square
+survey-text,22,18,2.0.0,96758,pn63gq65fq3,axolotl,3981,NA,"{""image_description"":""toilet""}",study,125,stimuli/125.jpg,7031.31,27,toilet,1,square
+survey-text,23,19,2.0.0,100497,pn63gq65fq3,axolotl,3235,NA,"{""image_description"":""shoe ""}",study,41,stimuli/41.jpg,6650,11,shoe,2,square
+survey-text,24,20,2.0.0,103773,pn63gq65fq3,axolotl,2767,NA,"{""image_description"":""bird""}",study,128,stimuli/128.jpg,7090.6,28,bird,1,square
+survey-text,5,1,2.0.0,111416,pnbgzhu4k0l,falcon,56131,NA,"{""image_description"":""A bird with a lot of pointed sides everywhere. A box below its beak ""}",study,97,stimuli/97.jpg,7048.4,22,A bird with a lot of pointed sides everywhere. A box below its beak,15,square
+survey-text,6,2,2.0.0,141193,pnbgzhu4k0l,falcon,29264,NA,"{""image_description"":""the grinches face with every point on its face pointy""}",study,155,stimuli/155.jpg,7171.51,33,the grinches face with every point on its face pointy,10,square
+survey-text,7,3,2.0.0,249303,pnbgzhu4k0l,falcon,107593,NA,"{""image_description"":""a bird with the bottom a slanted box to the left, a neck connected straight to the beak. Then the bird has some boxy hair.""}",study,65,stimuli/65.jpg,6894.67,15,"a bird with the bottom a slanted box to the left, a neck connected straight to the beak. Then the bird has some boxy hair.",25,square
+survey-text,8,4,2.0.0,288660,pnbgzhu4k0l,falcon,38843,NA,"{""image_description"":""a bird drawn with a large square at the bottom, pointed wings, and a triangle at the end of his body (on the left)\n""}",study,37,stimuli/37.jpg,6725.55,10,"a bird drawn with a large square at the bottom, pointed wings, and a triangle at the end of his body (on the left)
+",24,square
+survey-text,9,5,2.0.0,330644,pnbgzhu4k0l,falcon,41473,NA,"{""image_description"":""a square slanted on both sides to the middle, sanding on the left side of the shape""}",study,9,stimuli/9.jpg,6544.29,4,"a square slanted on both sides to the middle, sanding on the left side of the shape",17,square
+survey-text,10,6,2.0.0,409498,pnbgzhu4k0l,falcon,78338,NA,"{""image_description"":""on the left side, there is a square slanted on both sides, a triangle on the opposite end, a long skinnish triangle at the middle and a diamond connected on the right and the other side a square""}",study,121,stimuli/121.jpg,6999.52,27,"on the left side, there is a square slanted on both sides, a triangle on the opposite end, a long skinnish triangle at the middle and a diamond connected on the right and the other side a square",38,square
+survey-text,11,7,2.0.0,531980,pnbgzhu4k0l,falcon,121965,NA,"{""image_description"":""Extended triangle on top, a box with a small triangle connected on the bottom. w Slanted boxes on the same side, separated by a space shaped of a square, located at opposite side of the small triangle and a open ""}",study,138,stimuli/138.jpg,7120.54,30,"Extended triangle on top, a box with a small triangle connected on the bottom. w Slanted boxes on the same side, separated by a space shaped of a square, located at opposite side of the small triangle and a open",41,square
+survey-text,12,8,2.0.0,595912,pnbgzhu4k0l,falcon,63416,NA,"{""image_description"":""A slanted square with a open triangle space on the bottom right side, with also another triangle on the top right""}",study,31,stimuli/31.jpg,6687.71,9,"A slanted square with a open triangle space on the bottom right side, with also another triangle on the top right",21,square
+survey-text,13,9,2.0.0,689931,pnbgzhu4k0l,falcon,93503,NA,"{""image_description"":""triangle at the top left, a slanted square connecting at the top of the traingle. Another extended square becoming thinner, another box connected long, with a small triangle at the left bottom side""}",study,100,stimuli/100.jpg,6897.69,22,"triangle at the top left, a slanted square connecting at the top of the traingle. Another extended square becoming thinner, another box connected long, with a small triangle at the left bottom side",33,square
+survey-text,14,10,2.0.0,805112,pnbgzhu4k0l,falcon,114664,NA,"{""image_description"":""trapezoid almost upside down cut in 2/3 with that last half of the trapezoid being a triangle connected from the bottom side. Another triangle connecting at the edge of the left side of the triangle. Lastly, another piece small triangle connected at the bottom right of the shape""}",study,45,stimuli/45.jpg,6703.14,11,"trapezoid almost upside down cut in 2/3 with that last half of the trapezoid being a triangle connected from the bottom side. Another triangle connecting at the edge of the left side of the triangle. Lastly, another piece small triangle connected at the bottom right of the shape",48,square
+survey-text,15,11,2.0.0,900863,pnbgzhu4k0l,falcon,95233,NA,"{""image_description"":""the sandmans head from Transylvania facing the left side (tilted up). The body is a long trapezoid on the right side. A triangle on the left side. Another squarish, slanted towards the shape on the bottom left""}",study,96,stimuli/96.jpg,6946.2,22,"the sandmans head from Transylvania facing the left side (tilted up). The body is a long trapezoid on the right side. A triangle on the left side. Another squarish, slanted towards the shape on the bottom left",37,square
+survey-text,16,12,2.0.0,934273,pnbgzhu4k0l,falcon,32897,NA,"{""image_description"":""trapezoid upside down but the bottom is a triangle connected slanted to the right""}",study,15,stimuli/15.jpg,6585.63,5,trapezoid upside down but the bottom is a triangle connected slanted to the right,14,square
+survey-text,17,13,2.0.0,977940,pnbgzhu4k0l,falcon,43154,NA,"{""image_description"":""a square slanted to the left, with only one side of the trapezoid (the left side) shown.""}",study,14,stimuli/14.jpg,6580.15,5,"a square slanted to the left, with only one side of the trapezoid (the left side) shown.",17,square
+survey-text,18,14,2.0.0,1071581,pnbgzhu4k0l,falcon,93125,NA,"{""image_description"":""a lot of triangles in each sides and a lot of open space. Imagine a box, in this box there will be no endges but an open space on the right top side. The top right side will be a pointed triangle with at the side, a triangle dip that isn't pointy. the rest is pointed triangles""}",study,159,stimuli/159.jpg,7148.24,34,"a lot of triangles in each sides and a lot of open space. Imagine a box, in this box there will be no endges but an open space on the right top side. The top right side will be a pointed triangle with at the side, a triangle dip that isn't pointy. the rest is pointed triangles",57,square
+survey-text,19,15,2.0.0,1157244,pnbgzhu4k0l,falcon,85145,NA,"{""image_description"":""a roof top of a house with a squared nose facing the left side and a cartoon mouth shaped as a triangle. A stretched trapezoid connected at the bottom of its mouth. A triangle on the bottom left slanted towards the right side""}",study,105,stimuli/105.jpg,7003.86,23,a roof top of a house with a squared nose facing the left side and a cartoon mouth shaped as a triangle. A stretched trapezoid connected at the bottom of its mouth. A triangle on the bottom left slanted towards the right side,43,square
+survey-text,20,16,2.0.0,1203908,pnbgzhu4k0l,falcon,46148,NA,"{""image_description"":""squares bunched up together. Imagine putting boxes on top of each other""}",study,95,stimuli/95.jpg,6926.4,21,squares bunched up together. Imagine putting boxes on top of each other,12,square
+survey-text,21,17,2.0.0,1252336,pnbgzhu4k0l,falcon,47917,NA,"{""image_description"":""a christmas tress turned to the left side with the pointed top detached and connected to the bottom side of the tree. This tress has no trunk""}",study,132,stimuli/132.jpg,7051.12,29,a christmas tress turned to the left side with the pointed top detached and connected to the bottom side of the tree. This tress has no trunk,27,square
+survey-text,22,18,2.0.0,1312526,pnbgzhu4k0l,falcon,59674,NA,"{""image_description"":""the outline of sonic the headstock with a pointy head as a triangle, and after the hair on the top right, the next will be 3 triangles on the left side""}",study,74,stimuli/74.jpg,6769.21,17,"the outline of sonic the headstock with a pointy head as a triangle, and after the hair on the top right, the next will be 3 triangles on the left side",31,square
+survey-text,23,19,2.0.0,1412175,pnbgzhu4k0l,falcon,99131,NA,"{""image_description"":""square slanted to the left. There is another square connecting to the first square to the left slanted side ways to the left with a long triangle (like a nose) with another small triangle towards the end. There will be another small triangle on the right side with the pointed side facing and slanting to the left side""}",study,76,stimuli/76.jpg,6844.06,18,square slanted to the left. There is another square connecting to the first square to the left slanted side ways to the left with a long triangle (like a nose) with another small triangle towards the end. There will be another small triangle on the right side with the pointed side facing and slanting to the left side,58,square
+survey-text,24,20,2.0.0,1499442,pnbgzhu4k0l,falcon,86749,NA,"{""image_description"":""a triangle on the left side, a square slanted on the right side. next to the triangle, on the left, there will be another small square without a corner will extend a little long with another small square attached to the bottom right""}",study,47,stimuli/47.jpg,6715.11,12,"a triangle on the left side, a square slanted on the right side. next to the triangle, on the left, there will be another small square without a corner will extend a little long with another small square attached to the bottom right",43,square
+survey-text,5,1,2.0.0,59194,pnlkyulorh5,Beaver,21442,NA,"{""image_description"":""I see a bird that is spreading its wings out. ""}",study,151,stimuli/151.jpg,7245.76,33,I see a bird that is spreading its wings out.,11,I see a square.
+survey-text,6,2,2.0.0,77849,pnlkyulorh5,Beaver,18144,NA,"{""image_description"":""I see a small creature that is on his knees. ""}",study,145,stimuli/145.jpg,7185.33,31,I see a small creature that is on his knees.,11,I see a square.
+survey-text,7,3,2.0.0,104907,pnlkyulorh5,Beaver,26552,NA,"{""image_description"":""I see a bird (mostly duck).""}",study,71,stimuli/71.jpg,6779.96,17,I see a bird (mostly duck).,6,I see a square.
+survey-text,8,4,2.0.0,142897,pnlkyulorh5,Beaver,37484,NA,"{""image_description"":""I see triangles that were put together in a spiky formation. ""}",study,144,stimuli/144.jpg,7102.03,31,I see triangles that were put together in a spiky formation.,12,I see a square.
+survey-text,9,5,2.0.0,168121,pnlkyulorh5,Beaver,24717,NA,"{""image_description"":""I see a boat shaped object. ""}",study,29,stimuli/29.jpg,6694.47,8,I see a boat shaped object.,7,I see a square.
+survey-text,10,6,2.0.0,179447,pnlkyulorh5,Beaver,10819,NA,"{""image_description"":""I see a parallelogram. ""}",study,8,stimuli/8.jpg,6564.91,4,I see a parallelogram.,5,I see a square.
+survey-text,11,7,2.0.0,215030,pnlkyulorh5,Beaver,35074,NA,"{""image_description"":""I see a dock that has the shape of bridge sticking out. ""}",study,27,stimuli/27.jpg,6627.84,8,I see a dock that has the shape of bridge sticking out.,13,I see a square.
+survey-text,12,8,2.0.0,233895,pnlkyulorh5,Beaver,18353,NA,"{""image_description"":""I see a character that seems to be tiptoeing. ""}",study,143,stimuli/143.jpg,6915.69,31,I see a character that seems to be tiptoeing.,10,I see a square.
+survey-text,13,9,2.0.0,249792,pnlkyulorh5,Beaver,15391,NA,"{""image_description"":""I see the resemblance of a lamp. ""}",study,42,stimuli/42.jpg,6766.43,11,I see the resemblance of a lamp.,8,I see a square.
+survey-text,14,10,2.0.0,271403,pnlkyulorh5,Beaver,21107,NA,"{""image_description"":""I see a baseball field shape. ""}",study,11,stimuli/11.jpg,6580.42,5,I see a baseball field shape.,7,I see a square.
+survey-text,15,11,2.0.0,294311,pnlkyulorh5,Beaver,22401,NA,"{""image_description"":""I see a puppet formation with a mouth and ears. ""}",study,152,stimuli/152.jpg,7144.83,33,I see a puppet formation with a mouth and ears.,11,I see a square.
+survey-text,16,12,2.0.0,327642,pnlkyulorh5,Beaver,32826,NA,"{""image_description"":""I see an airforce plane used in combat. ""}",study,40,stimuli/40.jpg,6690.54,10,I see an airforce plane used in combat.,9,I see a square.
+survey-text,17,13,2.0.0,387659,pnlkyulorh5,Beaver,59508,NA,"{""image_description"":""I see a needle sticking out of a combination between a triangle and rectangle put together. ""}",study,90,stimuli/90.jpg,6873.09,20,I see a needle sticking out of a combination between a triangle and rectangle put together.,17,I see a square.
+survey-text,18,14,2.0.0,401138,pnlkyulorh5,Beaver,12969,NA,"{""image_description"":""I see a bird flying. ""}",study,75,stimuli/75.jpg,6817.48,17,I see a bird flying.,6,I see a square.
+survey-text,19,15,2.0.0,421713,pnlkyulorh5,Beaver,20069,NA,"{""image_description"":""I see a combination of triangles put together. ""}",study,78,stimuli/78.jpg,6840.04,18,I see a combination of triangles put together.,9,I see a square.
+survey-text,20,16,2.0.0,458779,pnlkyulorh5,Beaver,36551,NA,"{""image_description"":""I see a type of swan figure. ""}",study,84,stimuli/84.jpg,6959.66,19,I see a type of swan figure.,8,I see a square.
+survey-text,21,17,2.0.0,485027,pnlkyulorh5,Beaver,25743,NA,"{""image_description"":""I see a mix between triangles attached to a square. ""}",study,104,stimuli/104.jpg,6941.74,23,I see a mix between triangles attached to a square.,11,I see a square.
+survey-text,22,18,2.0.0,546300,pnlkyulorh5,Beaver,60761,NA,"{""image_description"":""I see a mix between triangles and rectangles. ""}",study,112,stimuli/112.jpg,6989.4,25,I see a mix between triangles and rectangles.,9,I see a square.
+survey-text,23,19,2.0.0,582292,pnlkyulorh5,Beaver,35483,NA,"{""image_description"":""I see a formation of triangles and rectangles. ""}",study,55,stimuli/55.jpg,6800,13,I see a formation of triangles and rectangles.,9,I see a square.
+survey-text,24,20,2.0.0,596162,pnlkyulorh5,Beaver,13351,NA,"{""image_description"":""I see a paper that has been torn. ""}",study,111,stimuli/111.jpg,7024.76,25,I see a paper that has been torn.,9,I see a square.
+survey-text,5,1,2.0.0,217866,pnnvjwubprf,shark,181038,NA,"{""image_description"":""rectangle with 8 lines. Right side is longer than left. Bottom horizontal axis from right to left is, slight diagonal up, followed but a vertical line that goes straight up, then a straight horizontal line. It then continues by does a negative(back toward the right side) diagonal downward line before quickly going back to a straight horizontal line.""}",study,50,stimuli/50.jpg,6725.34,12,"rectangle with 8 lines. Right side is longer than left. Bottom horizontal axis from right to left is, slight diagonal up, followed but a vertical line that goes straight up, then a straight horizontal line. It then continues by does a negative(back toward the right side) diagonal downward line before quickly going back to a straight horizontal line.",58,It is a square
+survey-text,6,2,2.0.0,287222,pnnvjwubprf,shark,68837,NA,"{""image_description"":""X like shape but on the top and bottom open spaces of the X there are added triangles. The top on being short with a wide base, and the bottom being long with a narrower base""}",study,86,stimuli/86.jpg,6896.99,20,"X like shape but on the top and bottom open spaces of the X there are added triangles. The top on being short with a wide base, and the bottom being long with a narrower base",36,It is a square
+survey-text,7,3,2.0.0,512381,pnnvjwubprf,shark,224644,NA,"{""image_description"":""a square that you took chunks out of. top right, looks like a boot shape was taken out, bottom right a V shape is taken out. left side the not vertical lines of a k are taken out\n""}",study,107,stimuli/107.jpg,6920.13,24,"a square that you took chunks out of. top right, looks like a boot shape was taken out, bottom right a V shape is taken out. left side the not vertical lines of a k are taken out
+",38,It is a square
+survey-text,8,4,2.0.0,554018,pnnvjwubprf,shark,41123,NA,"{""image_description"":""square with non straight edges, right side has major triangular chunk taken out of it""}",study,56,stimuli/56.jpg,6726.19,14,"square with non straight edges, right side has major triangular chunk taken out of it",15,It is a square
+survey-text,9,5,2.0.0,733054,pnnvjwubprf,shark,178531,NA,"{""image_description"":""house with a chimney. has a boot shape sticking out the bottom. There is a shape extending to the right, which I would describe as drawing someone flexing there arm but you only have 10 lines""}",study,108,stimuli/108.jpg,7046.82,24,"house with a chimney. has a boot shape sticking out the bottom. There is a shape extending to the right, which I would describe as drawing someone flexing there arm but you only have 10 lines",36,It is a square
+survey-text,10,6,2.0.0,856442,pnnvjwubprf,shark,122882,NA,"{""image_description"":""Flying bird, but both of the wings are deformed. Triangular head shape. ""}",study,133,stimuli/133.jpg,7027.21,29,"Flying bird, but both of the wings are deformed. Triangular head shape.",13,It is a square
+survey-text,11,7,2.0.0,1142004,pnnvjwubprf,shark,285054,NA,"{""image_description"":""Two rectangular shapes with triangles sticking out""}",study,105,stimuli/105.jpg,7003.86,23,Two rectangular shapes with triangles sticking out,7,It is a square
+survey-text,12,8,2.0.0,1149171,pnnvjwubprf,shark,6659,NA,"{""image_description"":""triangle""}",study,3,stimuli/3.jpg,6526.68,3,triangle,1,It is a square
+survey-text,13,9,2.0.0,1237004,pnnvjwubprf,shark,87332,NA,"{""image_description"":""a very disformed rectangle connected to another shape that is a rectangle connected to a diamond""}",study,121,stimuli/121.jpg,6999.52,27,a very disformed rectangle connected to another shape that is a rectangle connected to a diamond,16,It is a square
+survey-text,14,10,2.0.0,1265008,pnnvjwubprf,shark,27487,NA,"{""image_description"":""rectangle with the right side removed and placed at the bottom of the left side""}",study,19,stimuli/19.jpg,6604.19,6,rectangle with the right side removed and placed at the bottom of the left side,15,It is a square
+survey-text,15,11,2.0.0,1283387,pnnvjwubprf,shark,17861,NA,"{""image_description"":""rectangle with right triangle removed from right side""}",study,13,stimuli/13.jpg,6577.27,5,rectangle with right triangle removed from right side,8,It is a square
+survey-text,16,12,2.0.0,1308371,pnnvjwubprf,shark,24482,NA,"{""image_description"":""vase shape with the left side being slightly higher than the right side""}",study,30,stimuli/30.jpg,6632.49,8,vase shape with the left side being slightly higher than the right side,13,It is a square
+survey-text,17,13,2.0.0,1318363,pnnvjwubprf,shark,9489,NA,"{""image_description"":""shield""}",study,51,stimuli/51.jpg,6793.84,13,shield,1,It is a square
+survey-text,18,14,2.0.0,1336803,pnnvjwubprf,shark,17932,NA,"{""image_description"":""rectangular shape attached to triangle shape""}",study,80,stimuli/80.jpg,6806.13,18,rectangular shape attached to triangle shape,6,It is a square
+survey-text,19,15,2.0.0,1344544,pnnvjwubprf,shark,7237,NA,"{""image_description"":""hand bunny""}",study,152,stimuli/152.jpg,7144.83,33,hand bunny,2,It is a square
+survey-text,20,16,2.0.0,1370548,pnnvjwubprf,shark,25499,NA,"{""image_description"":""cartoon bird sitting with a very long beak""}",study,88,stimuli/88.jpg,6908.86,20,cartoon bird sitting with a very long beak,8,It is a square
+survey-text,21,17,2.0.0,1389884,pnnvjwubprf,shark,18823,NA,"{""image_description"":""lapras from pokemon ""}",study,148,stimuli/148.jpg,7141.91,32,lapras from pokemon,4,It is a square
+survey-text,22,18,2.0.0,1428618,pnnvjwubprf,shark,38219,NA,"{""image_description"":""ghost halloween costume. but they are very skinny in the middle""}",study,151,stimuli/151.jpg,7245.76,33,ghost halloween costume. but they are very skinny in the middle,11,It is a square
+survey-text,23,19,2.0.0,1473761,pnnvjwubprf,shark,44628,NA,"{""image_description"":""two rectangles and two triangles connected together""}",study,75,stimuli/75.jpg,6817.48,17,two rectangles and two triangles connected together,7,It is a square
+survey-text,24,20,2.0.0,1483127,pnnvjwubprf,shark,8859,NA,"{""image_description"":""church""}",study,25,stimuli/25.jpg,6595.51,7,church,1,It is a square
+survey-text,5,1,2.0.0,95841,po26baes4xa,heron,77448,NA,"{""image_description"":""janky triangle on the top connected to a rectangle with another janky triangle on the left, then makes a sharp left to make another angle outward to form 1/2 a trapezoid.""}",study,109,stimuli/109.jpg,6984.61,24,"janky triangle on the top connected to a rectangle with another janky triangle on the left, then makes a sharp left to make another angle outward to form 1/2 a trapezoid.",31,"square
+"
+survey-text,6,2,2.0.0,152218,po26baes4xa,heron,55865,NA,"{""image_description"":""an \""n\"" shaped splatter with about 10 angles around it.""}",study,112,stimuli/112.jpg,6989.4,25,"an ""n"" shaped splatter with about 10 angles around it.",10,"square
+"
+survey-text,7,3,2.0.0,273133,po26baes4xa,heron,120408,NA,"{""image_description"":""a 'u' shaped splatter with two triangles on the bottom left, a long angle to the bottom right, a hook shape with a sharp angle to the top right & a skewed rectangle. ""}",study,148,stimuli/148.jpg,7141.91,32,"a 'u' shaped splatter with two triangles on the bottom left, a long angle to the bottom right, a hook shape with a sharp angle to the top right & a skewed rectangle.",34,"square
+"
+survey-text,8,4,2.0.0,293141,po26baes4xa,heron,19506,NA,"{""image_description"":""a fish pointing its nose to the bottom left of the screen""}",study,51,stimuli/51.jpg,6793.84,13,a fish pointing its nose to the bottom left of the screen,12,"square
+"
+survey-text,9,5,2.0.0,314142,po26baes4xa,heron,20487,NA,"{""image_description"":""a mouse curser facing the top right but stretched out. ""}",study,28,stimuli/28.jpg,6676.6,8,a mouse curser facing the top right but stretched out.,11,"square
+"
+survey-text,10,6,2.0.0,344814,po26baes4xa,heron,30171,NA,"{""image_description"":""hook with an angle pointing to the left.""}",study,43,stimuli/43.jpg,6685.72,11,hook with an angle pointing to the left.,8,"square
+"
+survey-text,11,7,2.0.0,373191,po26baes4xa,heron,27874,NA,"{""image_description"":""angler fish with little legs and a hat instead of an antenna. ""}",study,149,stimuli/149.jpg,7198.55,32,angler fish with little legs and a hat instead of an antenna.,13,"square
+"
+survey-text,12,8,2.0.0,405439,po26baes4xa,heron,31747,NA,"{""image_description"":""big arrow with a square shaped left bottom edge & and a point in the opposing direction.""}",study,39,stimuli/39.jpg,6609.47,10,big arrow with a square shaped left bottom edge & and a point in the opposing direction.,17,"square
+"
+survey-text,13,9,2.0.0,422224,po26baes4xa,heron,16270,NA,"{""image_description"":""mashed up squared and triangles ""}",study,150,stimuli/150.jpg,7209.25,32,mashed up squared and triangles,6,"square
+"
+survey-text,14,10,2.0.0,449576,po26baes4xa,heron,26845,NA,"{""image_description"":""square that has been kicked in on the right side enough to make the top right a sharp angle. ""}",study,22,stimuli/22.jpg,6593.16,7,square that has been kicked in on the right side enough to make the top right a sharp angle.,20,"square
+"
+survey-text,15,11,2.0.0,488537,po26baes4xa,heron,38450,NA,"{""image_description"":""like the outline of a pokemon""}",study,151,stimuli/151.jpg,7245.76,33,like the outline of a pokemon,6,"square
+"
+survey-text,16,12,2.0.0,513866,po26baes4xa,heron,24820,NA,"{""image_description"":""a square on the top left leading into four pointed triangles on each side""}",study,55,stimuli/55.jpg,6800,13,a square on the top left leading into four pointed triangles on each side,14,"square
+"
+survey-text,17,13,2.0.0,560019,po26baes4xa,heron,45637,NA,"{""image_description"":""a rectangle with many triangles feeding into eachother""}",study,110,stimuli/110.jpg,6951.51,24,a rectangle with many triangles feeding into eachother,8,"square
+"
+survey-text,18,14,2.0.0,604251,po26baes4xa,heron,43718,NA,"{""image_description"":""a splatter but its rectangles and triangles.""}",study,153,stimuli/153.jpg,7262.77,33,a splatter but its rectangles and triangles.,7,"square
+"
+survey-text,19,15,2.0.0,621100,po26baes4xa,heron,16342,NA,"{""image_description"":""a bird with a pointy bead headed to the bottom left of the screen""}",study,75,stimuli/75.jpg,6817.48,17,a bird with a pointy bead headed to the bottom left of the screen,14,"square
+"
+survey-text,20,16,2.0.0,630708,po26baes4xa,heron,9097,NA,"{""image_description"":""triangle, long""}",study,2,stimuli/2.jpg,6550.44,3,"triangle, long",2,"square
+"
+survey-text,21,17,2.0.0,643116,po26baes4xa,heron,11902,NA,"{""image_description"":""square box with the top ripped off""}",study,34,stimuli/34.jpg,6639.63,9,square box with the top ripped off,7,"square
+"
+survey-text,22,18,2.0.0,656988,po26baes4xa,heron,13358,NA,"{""image_description"":""splatter with rectangles""}",study,116,stimuli/116.jpg,7061.19,26,splatter with rectangles,3,"square
+"
+survey-text,23,19,2.0.0,689085,po26baes4xa,heron,31581,NA,"{""image_description"":""splatter with rectangles and triangles. ""}",study,115,stimuli/115.jpg,6963.36,25,splatter with rectangles and triangles.,6,"square
+"
+survey-text,24,20,2.0.0,705822,po26baes4xa,heron,16228,NA,"{""image_description"":""like a really fat and weird duck""}",study,71,stimuli/71.jpg,6779.96,17,like a really fat and weird duck,7,"square
+"
+survey-text,5,1,2.0.0,83773,ppnnqb3h1yb,otter,58163,NA,"{""image_description"":""Looks like an old lighter, the ones with the cover that you have to flip off and on.""}",study,84,stimuli/84.jpg,6959.66,19,"Looks like an old lighter, the ones with the cover that you have to flip off and on.",18,square
+survey-text,6,2,2.0.0,107209,ppnnqb3h1yb,otter,22931,NA,"{""image_description"":""Looks like a bird with the beak down and wings up""}",study,131,stimuli/131.jpg,7030.26,29,Looks like a bird with the beak down and wings up,11,square
+survey-text,7,3,2.0.0,139224,ppnnqb3h1yb,otter,31513,NA,"{""image_description"":""A heel????""}",study,48,stimuli/48.jpg,6690.71,12,A heel????,2,square
+survey-text,8,4,2.0.0,181839,ppnnqb3h1yb,otter,42113,NA,"{""image_description"":""An animal, maybe a bird but it is on the ground resting""}",study,148,stimuli/148.jpg,7141.91,32,"An animal, maybe a bird but it is on the ground resting",12,square
+survey-text,9,5,2.0.0,217405,ppnnqb3h1yb,otter,35063,NA,"{""image_description"":""Texas""}",study,33,stimuli/33.jpg,6635.57,9,Texas,1,square
+survey-text,10,6,2.0.0,259320,ppnnqb3h1yb,otter,41411,NA,"{""image_description"":""Shark head?""}",study,155,stimuli/155.jpg,7171.51,33,Shark head?,2,square
+survey-text,11,7,2.0.0,272086,ppnnqb3h1yb,otter,12262,NA,"{""image_description"":""Godzilla opening his mouth""}",study,60,stimuli/60.jpg,6764.54,14,Godzilla opening his mouth,4,square
+survey-text,12,8,2.0.0,319888,ppnnqb3h1yb,otter,47301,NA,"{""image_description"":""N/A""}",study,108,stimuli/108.jpg,7046.82,24,N/A,1,square
+survey-text,13,9,2.0.0,325339,ppnnqb3h1yb,otter,4949,NA,"{""image_description"":""Rectangle""}",study,7,stimuli/7.jpg,6558.43,4,Rectangle,1,square
+survey-text,14,10,2.0.0,337126,ppnnqb3h1yb,otter,11284,NA,"{""image_description"":""Deformed Square ""}",study,22,stimuli/22.jpg,6593.16,7,Deformed Square,3,square
+survey-text,15,11,2.0.0,342473,ppnnqb3h1yb,otter,4845,NA,"{""image_description"":""Star""}",study,81,stimuli/81.jpg,6817.86,19,Star,1,square
+survey-text,16,12,2.0.0,350806,ppnnqb3h1yb,otter,7831,NA,"{""image_description"":""Hammer and nail""}",study,106,stimuli/106.jpg,6901.59,24,Hammer and nail,3,square
+survey-text,17,13,2.0.0,354189,ppnnqb3h1yb,otter,2881,NA,"{""image_description"":""Bird""}",study,114,stimuli/114.jpg,7105.53,25,Bird,1,square
+survey-text,18,14,2.0.0,359871,ppnnqb3h1yb,otter,5179,NA,"{""image_description"":""Glass shard""}",study,17,stimuli/17.jpg,6592.16,6,Glass shard,2,square
+survey-text,19,15,2.0.0,367456,ppnnqb3h1yb,otter,7083,NA,"{""image_description"":""Deformed rectangle""}",study,54,stimuli/54.jpg,6708.13,13,Deformed rectangle,2,square
+survey-text,20,16,2.0.0,373920,ppnnqb3h1yb,otter,5959,NA,"{""image_description"":""Fish""}",study,64,stimuli/64.jpg,6822.22,15,Fish,1,square
+survey-text,21,17,2.0.0,381006,ppnnqb3h1yb,otter,6583,NA,"{""image_description"":""N/A""}",study,159,stimuli/159.jpg,7148.24,34,N/A,1,square
+survey-text,22,18,2.0.0,386504,ppnnqb3h1yb,otter,4997,NA,"{""image_description"":""Airplane""}",study,41,stimuli/41.jpg,6650,11,Airplane,1,square
+survey-text,23,19,2.0.0,391390,ppnnqb3h1yb,otter,4383,NA,"{""image_description"":""N/A""}",study,129,stimuli/129.jpg,7041.77,28,N/A,1,square
+survey-text,24,20,2.0.0,397403,ppnnqb3h1yb,otter,5510,NA,"{""image_description"":""N/A""}",study,38,stimuli/38.jpg,6702.45,10,N/A,1,square
+survey-text,5,1,2.0.0,15253,pq152dhc6gs,jaguar,5994,NA,"{""image_description"":""oven mitt""}",study,62,stimuli/62.jpg,6826.43,15,oven mitt,2,square
+survey-text,6,2,2.0.0,22935,pq152dhc6gs,jaguar,7175,NA,"{""image_description"":""upside down t""}",study,95,stimuli/95.jpg,6926.4,21,upside down t,3,square
+survey-text,7,3,2.0.0,30528,pq152dhc6gs,jaguar,7086,NA,"{""image_description"":""explosion""}",study,155,stimuli/155.jpg,7171.51,33,explosion,1,square
+survey-text,8,4,2.0.0,37407,pq152dhc6gs,jaguar,6370,NA,"{""image_description"":""waving pikachu""}",study,147,stimuli/147.jpg,7182.98,32,waving pikachu,2,square
+survey-text,9,5,2.0.0,45093,pq152dhc6gs,jaguar,7176,NA,"{""image_description"":""peace fingers""}",study,60,stimuli/60.jpg,6764.54,14,peace fingers,2,square
+survey-text,10,6,2.0.0,51293,pq152dhc6gs,jaguar,5692,NA,"{""image_description"":""kneeling fox""}",study,106,stimuli/106.jpg,6901.59,24,kneeling fox,2,square
+survey-text,11,7,2.0.0,55157,pq152dhc6gs,jaguar,3355,NA,"{""image_description"":""trapezoid""}",study,9,stimuli/9.jpg,6544.29,4,trapezoid,1,square
+survey-text,12,8,2.0.0,62050,pq152dhc6gs,jaguar,6386,NA,"{""image_description"":""bird""}",study,45,stimuli/45.jpg,6703.14,11,bird,1,square
+survey-text,13,9,2.0.0,68127,pq152dhc6gs,jaguar,5568,NA,"{""image_description"":""jagged shape""}",study,93,stimuli/93.jpg,6903.36,21,jagged shape,2,square
+survey-text,14,10,2.0.0,76285,pq152dhc6gs,jaguar,7650,NA,"{""image_description"":""arrow""}",study,39,stimuli/39.jpg,6609.47,10,arrow,1,square
+survey-text,15,11,2.0.0,82547,pq152dhc6gs,jaguar,5754,NA,"{""image_description"":""florida""}",study,99,stimuli/99.jpg,6861.47,22,florida,1,square
+survey-text,16,12,2.0.0,96530,pq152dhc6gs,jaguar,13476,NA,"{""image_description"":""trapezoid""}",study,6,stimuli/6.jpg,6547.97,4,trapezoid,1,square
+survey-text,17,13,2.0.0,105048,pq152dhc6gs,jaguar,8010,NA,"{""image_description"":""jagged capital c""}",study,140,stimuli/140.jpg,7121.36,30,jagged capital c,3,square
+survey-text,18,14,2.0.0,124122,pq152dhc6gs,jaguar,18565,NA,"{""image_description"":""shape with a rectangular cutout""}",study,80,stimuli/80.jpg,6806.13,18,shape with a rectangular cutout,5,square
+survey-text,19,15,2.0.0,135987,pq152dhc6gs,jaguar,11357,NA,"{""image_description"":""sheet of paper with the bottom right corner torn off""}",study,46,stimuli/46.jpg,6754.16,12,sheet of paper with the bottom right corner torn off,10,square
+survey-text,20,16,2.0.0,144027,pq152dhc6gs,jaguar,7531,NA,"{""image_description"":""fighter jet""}",study,40,stimuli/40.jpg,6690.54,10,fighter jet,2,square
+survey-text,21,17,2.0.0,151494,pq152dhc6gs,jaguar,6961,NA,"{""image_description"":""jagged shape""}",study,154,stimuli/154.jpg,7155.07,33,jagged shape,2,square
+survey-text,22,18,2.0.0,159140,pq152dhc6gs,jaguar,7138,NA,"{""image_description"":""guy standing on one leg""}",study,112,stimuli/112.jpg,6989.4,25,guy standing on one leg,5,square
+survey-text,23,19,2.0.0,165915,pq152dhc6gs,jaguar,6266,NA,"{""image_description"":""long thin arrowhead""}",study,28,stimuli/28.jpg,6676.6,8,long thin arrowhead,3,square
+survey-text,24,20,2.0.0,188874,pq152dhc6gs,jaguar,22452,NA,"{""image_description"":""feather crested bird""}",study,131,stimuli/131.jpg,7030.26,29,feather crested bird,3,square
+survey-text,5,1,2.0.0,467239,pr1kyzyb8v7,gazelle,385545,NA,"{""image_description"":""a reversed trapezoid at 12 to 1 on the clock, than a triangle without the angle on top at 1 to 2. Then a triangle pointing to 5. followed by another trapezoid at 6. then you have a rectangle with the bottom left angle pointing down.""}",study,79,stimuli/79.jpg,6796.42,18,"a reversed trapezoid at 12 to 1 on the clock, than a triangle without the angle on top at 1 to 2. Then a triangle pointing to 5. followed by another trapezoid at 6. then you have a rectangle with the bottom left angle pointing down.",46,"a square by black line, empty inside
+"
+survey-text,6,2,2.0.0,725075,pr1kyzyb8v7,gazelle,257327,NA,"{""image_description"":""one triangle pointing to the 1. then go straight down, turn left and go over to about 2/3 of the whole shape. Then draw a triangle with the top right length pointing back to the corner of straight and turn left corner. Then go to the top left and draw a triangle. Then draw another line that go all the way to the left and go up. you draw another triangle and go down and right a little bit. Finally, connect back to the original""}",study,127,stimuli/127.jpg,7055.1,28,"one triangle pointing to the 1. then go straight down, turn left and go over to about 2/3 of the whole shape. Then draw a triangle with the top right length pointing back to the corner of straight and turn left corner. Then go to the top left and draw a triangle. Then draw another line that go all the way to the left and go up. you draw another triangle and go down and right a little bit. Finally, connect back to the original",85,"a square by black line, empty inside
+"
+survey-text,7,3,2.0.0,834908,pr1kyzyb8v7,gazelle,109324,NA,"{""image_description"":""a rectangle on the top right. connect to a trapezoid  on the bottom. then a rectangle on the top left and a small trapezoid on the top right of that rectangle. Looks like a bird flying pointing to the left.""}",study,64,stimuli/64.jpg,6822.22,15,a rectangle on the top right. connect to a trapezoid  on the bottom. then a rectangle on the top left and a small trapezoid on the top right of that rectangle. Looks like a bird flying pointing to the left.,41,"a square by black line, empty inside
+"
+survey-text,8,4,2.0.0,945443,pr1kyzyb8v7,gazelle,110029,NA,"{""image_description"":""a rectangle on the top left, follow by a rectangle and a triangle on the right. then go down you have two triangle from right to left. Then you have another triangle to the left below the first rectangle we draw. Finally, connect back to the first rectangle""}",study,118,stimuli/118.jpg,7003.15,26,"a rectangle on the top left, follow by a rectangle and a triangle on the right. then go down you have two triangle from right to left. Then you have another triangle to the left below the first rectangle we draw. Finally, connect back to the first rectangle",48,"a square by black line, empty inside
+"
+survey-text,9,5,2.0.0,1032026,pr1kyzyb8v7,gazelle,86076,NA,"{""image_description"":""a rectangle on the top right follow by a triangle point to the bottom left below the rectangle. then you have a square on the bottom left follow by a triangle above it pointing to the top left.""}",study,75,stimuli/75.jpg,6817.48,17,a rectangle on the top right follow by a triangle point to the bottom left below the rectangle. then you have a square on the bottom left follow by a triangle above it pointing to the top left.,38,"a square by black line, empty inside
+"
+survey-text,10,6,2.0.0,1100493,pr1kyzyb8v7,gazelle,67961,NA,"{""image_description"":""a big rectangle without the bottom right corner.  ""}",study,58,stimuli/58.jpg,6794.84,14,a big rectangle without the bottom right corner.,10,"a square by black line, empty inside
+"
+survey-text,11,7,2.0.0,1260079,pr1kyzyb8v7,gazelle,159062,NA,"{""image_description"":""a reversed triangle on the middle top. a triangle on the right pointing to 1 on the clock. follow by a trapezoid on the bottom right. and a triangle pointing to the reversed triangle on the top. and a square on the left connect the bottom triangle with the reversed one on the top""}",study,104,stimuli/104.jpg,6941.74,23,a reversed triangle on the middle top. a triangle on the right pointing to 1 on the clock. follow by a trapezoid on the bottom right. and a triangle pointing to the reversed triangle on the top. and a square on the left connect the bottom triangle with the reversed one on the top,54,"a square by black line, empty inside
+"
+survey-text,12,8,2.0.0,1403363,pr1kyzyb8v7,gazelle,142775,NA,"{""image_description"":""a triangle pointing to the top left at top right. and a rectangle on the top right. follow by a trapezoid on the bottom right. and you draw a rectangle on the left with the bottom line on the left.""}",study,157,stimuli/157.jpg,7214.07,34,a triangle pointing to the top left at top right. and a rectangle on the top right. follow by a trapezoid on the bottom right. and you draw a rectangle on the left with the bottom line on the left.,40,"a square by black line, empty inside
+"
+survey-text,13,9,2.0.0,1482079,pr1kyzyb8v7,gazelle,78210,NA,"{""image_description"":""a square on the top left. a rectangle on the top right pointing to the 2. and a hook on the bottom left. connect back to the top right square""}",study,70,stimuli/70.jpg,6790.01,16,a square on the top left. a rectangle on the top right pointing to the 2. and a hook on the bottom left. connect back to the top right square,30,"a square by black line, empty inside
+"
+survey-text,14,10,2.0.0,1541532,pr1kyzyb8v7,gazelle,58948,NA,"{""image_description"":""3 triangles, on on the top right pointing down. 2 on the left side with one on top of each other. both pointing to the left outside.""}",study,32,stimuli/32.jpg,6645.1,9,"3 triangles, on on the top right pointing down. 2 on the left side with one on top of each other. both pointing to the left outside.",27,"a square by black line, empty inside
+"
+survey-text,15,11,2.0.0,1563148,pr1kyzyb8v7,gazelle,21112,NA,"{""image_description"":""a rectangle with top right corner got cut off""}",study,11,stimuli/11.jpg,6580.42,5,a rectangle with top right corner got cut off,9,"a square by black line, empty inside
+"
+survey-text,16,12,2.0.0,1593915,pr1kyzyb8v7,gazelle,30261,NA,"{""image_description"":""a rectangle with a triangle cutting from the right""}",study,13,stimuli/13.jpg,6577.27,5,a rectangle with a triangle cutting from the right,9,"a square by black line, empty inside
+"
+survey-text,17,13,2.0.0,1636467,pr1kyzyb8v7,gazelle,42046,NA,"{""image_description"":""the shape of United States with Florida getting wider""}",study,124,stimuli/124.jpg,6991.53,27,the shape of United States with Florida getting wider,9,"a square by black line, empty inside
+"
+survey-text,18,14,2.0.0,1735168,pr1kyzyb8v7,gazelle,98195,NA,"{""image_description"":""a dog with two legs pointing to the right. a rectangle on the top (head) and two square follow by a rectangle on the bottom (legs). another big rectangle on the left (body)""}",study,143,stimuli/143.jpg,6915.69,31,a dog with two legs pointing to the right. a rectangle on the top (head) and two square follow by a rectangle on the bottom (legs). another big rectangle on the left (body),33,"a square by black line, empty inside
+"
+survey-text,19,15,2.0.0,1761717,pr1kyzyb8v7,gazelle,26045,NA,"{""image_description"":""a triangle point down with left bigger than the right""}",study,17,stimuli/17.jpg,6592.16,6,a triangle point down with left bigger than the right,10,"a square by black line, empty inside
+"
+survey-text,20,16,2.0.0,1805653,pr1kyzyb8v7,gazelle,43429,NA,"{""image_description"":""a square with a arrow cut from top left to the bottom""}",study,91,stimuli/91.jpg,6985.65,21,a square with a arrow cut from top left to the bottom,12,"a square by black line, empty inside
+"
+survey-text,21,17,2.0.0,1900387,pr1kyzyb8v7,gazelle,94227,NA,"{""image_description"":""two triangles on the top right. one rectangle on the bottom right. One triangle on the bottom left. One triangle on the middle left and a rectangle on the top left.""}",study,86,stimuli/86.jpg,6896.99,20,two triangles on the top right. one rectangle on the bottom right. One triangle on the bottom left. One triangle on the middle left and a rectangle on the top left.,31,"a square by black line, empty inside
+"
+survey-text,22,18,2.0.0,1961354,pr1kyzyb8v7,gazelle,60461,NA,"{""image_description"":""a square on the top right follow by a triangle on the middle right point to the right. a rectangle on the bottom left and a reversed triangle on the top left.""}",study,125,stimuli/125.jpg,7031.31,27,a square on the top right follow by a triangle on the middle right point to the right. a rectangle on the bottom left and a reversed triangle on the top left.,32,"a square by black line, empty inside
+"
+survey-text,23,19,2.0.0,2011003,pr1kyzyb8v7,gazelle,49144,NA,"{""image_description"":""a reversed triangle on the top. a rectangle on the bottom right. a square on the bottom left""}",study,94,stimuli/94.jpg,6965.94,21,a reversed triangle on the top. a rectangle on the bottom right. a square on the bottom left,18,"a square by black line, empty inside
+"
+survey-text,24,20,2.0.0,2072022,pr1kyzyb8v7,gazelle,60515,NA,"{""image_description"":""a triangle on the top left, a rectangle on the bottom. a small triangle on the top left and a trapezoid on the middle top""}",study,34,stimuli/34.jpg,6639.63,9,"a triangle on the top left, a rectangle on the bottom. a small triangle on the top left and a trapezoid on the middle top",25,"a square by black line, empty inside
+"
+survey-text,5,1,2.0.0,157795,psb4tdcw9gs,p73,101063,NA,"{""image_description"":""weird shape that looks kind of like a bubbled x but its dimensions are super weird the axes facing top left and bottom right are pointy and the others are more square; overall it kind of resembles a bird or the flying dinosaur\n""}",study,75,stimuli/75.jpg,6817.48,17,"weird shape that looks kind of like a bubbled x but its dimensions are super weird the axes facing top left and bottom right are pointy and the others are more square; overall it kind of resembles a bird or the flying dinosaur
+",43,square with horizontal lines slightly longer than its vertical lines
+survey-text,6,2,2.0.0,175787,psb4tdcw9gs,p73,17487,NA,"{""image_description"":""quadrilateral with smooth top right corner\n""}",study,11,stimuli/11.jpg,6580.42,5,"quadrilateral with smooth top right corner
+",6,square with horizontal lines slightly longer than its vertical lines
+survey-text,7,3,2.0.0,199630,psb4tdcw9gs,p73,23337,NA,"{""image_description"":""its giving american state with peninsula at the bottom right\n""}",study,50,stimuli/50.jpg,6725.34,12,"its giving american state with peninsula at the bottom right
+",10,square with horizontal lines slightly longer than its vertical lines
+survey-text,8,4,2.0.0,252312,psb4tdcw9gs,p73,52174,NA,"{""image_description"":""like the top left piece of a puzzle as in it is square on the left but has three subcomponents on the right\n\n""}",study,31,stimuli/31.jpg,6687.71,9,"like the top left piece of a puzzle as in it is square on the left but has three subcomponents on the right
+
+",23,square with horizontal lines slightly longer than its vertical lines
+survey-text,9,5,2.0.0,293198,psb4tdcw9gs,p73,40380,NA,"{""image_description"":""crazy breaks on this one kind of looks like a devil figure pumping its fist in the air (also stanky leg)""}",study,147,stimuli/147.jpg,7182.98,32,crazy breaks on this one kind of looks like a devil figure pumping its fist in the air (also stanky leg),21,square with horizontal lines slightly longer than its vertical lines
+survey-text,10,6,2.0.0,318056,psb4tdcw9gs,p73,24352,NA,"{""image_description"":""two flags at the top and has a foot\n""}",study,85,stimuli/85.jpg,6831.41,19,"two flags at the top and has a foot
+",9,square with horizontal lines slightly longer than its vertical lines
+survey-text,11,7,2.0.0,337855,psb4tdcw9gs,p73,19292,NA,"{""image_description"":""bird\n""}",study,119,stimuli/119.jpg,7073.52,26,"bird
+",1,square with horizontal lines slightly longer than its vertical lines
+survey-text,12,8,2.0.0,344320,psb4tdcw9gs,p73,5960,NA,"{""image_description"":""crown""}",study,34,stimuli/34.jpg,6639.63,9,crown,1,square with horizontal lines slightly longer than its vertical lines
+survey-text,13,9,2.0.0,379861,psb4tdcw9gs,p73,35036,NA,"{""image_description"":""cat with neck and square sticking out\n""}",study,53,stimuli/53.jpg,6758.52,13,"cat with neck and square sticking out
+",7,square with horizontal lines slightly longer than its vertical lines
+survey-text,14,10,2.0.0,452728,psb4tdcw9gs,p73,72363,NA,"{""image_description"":""dog with head down on the right and human legs like a centaur with thick quads and triangular feet(one pointing slightly diagonally down, one facing forward)""}",study,143,stimuli/143.jpg,6915.69,31,"dog with head down on the right and human legs like a centaur with thick quads and triangular feet(one pointing slightly diagonally down, one facing forward)",26,square with horizontal lines slightly longer than its vertical lines
+survey-text,15,11,2.0.0,488997,psb4tdcw9gs,p73,35765,NA,"{""image_description"":""triangle that is kind of right with a light/small stump on its left side""}",study,39,stimuli/39.jpg,6609.47,10,triangle that is kind of right with a light/small stump on its left side,14,square with horizontal lines slightly longer than its vertical lines
+survey-text,16,12,2.0.0,494986,psb4tdcw9gs,p73,5483,NA,"{""image_description"":""idk\n""}",study,124,stimuli/124.jpg,6991.53,27,"idk
+",1,square with horizontal lines slightly longer than its vertical lines
+survey-text,17,13,2.0.0,503879,psb4tdcw9gs,p73,8389,NA,"{""image_description"":""star""}",study,115,stimuli/115.jpg,6963.36,25,star,1,square with horizontal lines slightly longer than its vertical lines
+survey-text,18,14,2.0.0,13438095,psb4tdcw9gs,p73,1974363,NA,"{""image_description"":""sideways batman logo with elongated square head facing the right top extremity is more bulky""}",study,61,stimuli/61.jpg,6864.98,15,sideways batman logo with elongated square head facing the right top extremity is more bulky,15,square with horizontal lines slightly longer than its vertical lines
+survey-text,19,15,2.0.0,13499086,psb4tdcw9gs,p73,60471,NA,"{""image_description"":""frog with a fish tail and a tray almost as if he were a waitor offering snacks facing my right\n""}",study,139,stimuli/139.jpg,7164.58,30,"frog with a fish tail and a tray almost as if he were a waitor offering snacks facing my right
+",20,square with horizontal lines slightly longer than its vertical lines
+survey-text,20,16,2.0.0,13577858,psb4tdcw9gs,p73,78268,NA,"{""image_description"":""could be a square but missing chuunk in the left middle portion two pointy ends on opposite corners top right bottom left""}",study,90,stimuli/90.jpg,6873.09,20,could be a square but missing chuunk in the left middle portion two pointy ends on opposite corners top right bottom left,22,square with horizontal lines slightly longer than its vertical lines
+survey-text,21,17,2.0.0,13662003,psb4tdcw9gs,p73,83638,NA,"{""image_description"":""squirrel head vibes on top left corner with a little arm below it (middle left of frame)bushy tail on top right slighthump in between  two humanish legs on bottom""}",study,160,stimuli/160.jpg,7132.53,34,squirrel head vibes on top left corner with a little arm below it (middle left of frame)bushy tail on top right slighthump in between  two humanish legs on bottom,30,square with horizontal lines slightly longer than its vertical lines
+survey-text,22,18,2.0.0,13730486,psb4tdcw9gs,p73,67974,NA,"{""image_description"":""american state with larger height than width long triandgle base end on bottom right corner triangle with base parallel to state on top right corner""}",study,38,stimuli/38.jpg,6702.45,10,american state with larger height than width long triandgle base end on bottom right corner triangle with base parallel to state on top right corner,25,square with horizontal lines slightly longer than its vertical lines
+survey-text,23,19,2.0.0,13783298,psb4tdcw9gs,p73,52305,NA,"{""image_description"":""square portions on top midlle and both bottom two corners overall giving the sign for independence in math/probability""}",study,95,stimuli/95.jpg,6926.4,21,square portions on top midlle and both bottom two corners overall giving the sign for independence in math/probability,18,square with horizontal lines slightly longer than its vertical lines
+survey-text,24,20,2.0.0,13824420,psb4tdcw9gs,p73,40615,NA,"{""image_description"":""square with skinny arm pointing up on the left and fat arm pointing towards top right corner""}",study,70,stimuli/70.jpg,6790.01,16,square with skinny arm pointing up on the left and fat arm pointing towards top right corner,17,square with horizontal lines slightly longer than its vertical lines
+survey-text,5,1,2.0.0,144320,pscsu9tl1a3,moose,110471,NA,"{""image_description"":""A star-like object with a triangular head, close to a triangle on the right point. It has two \""legs\"" with the right leg being bent slightly, and on the top left corner there are two edges perpendicular to one another.""}",study,153,stimuli/153.jpg,7262.77,33,"A star-like object with a triangular head, close to a triangle on the right point. It has two ""legs"" with the right leg being bent slightly, and on the top left corner there are two edges perpendicular to one another.",40,a rectangle close to a perfect square
+survey-text,6,2,2.0.0,208142,pscsu9tl1a3,moose,63316,NA,"{""image_description"":""A pentagon that is flat at the top, and the bottom two sides are elongated and leaning towards the bottom right.""}",study,15,stimuli/15.jpg,6585.63,5,"A pentagon that is flat at the top, and the bottom two sides are elongated and leaning towards the bottom right.",21,a rectangle close to a perfect square
+survey-text,7,3,2.0.0,280578,pscsu9tl1a3,moose,71931,NA,"{""image_description"":""What looks like an animal with a tail on the top left made of a dented triangle, and a head made up of two triangles joined together with the bottom triangle facing downwards. The bottom edges are more flat, with two edges pointing away from each other.""}",study,148,stimuli/148.jpg,7141.91,32,"What looks like an animal with a tail on the top left made of a dented triangle, and a head made up of two triangles joined together with the bottom triangle facing downwards. The bottom edges are more flat, with two edges pointing away from each other.",47,a rectangle close to a perfect square
+survey-text,8,4,2.0.0,327090,pscsu9tl1a3,moose,45991,NA,"{""image_description"":""A bowtie-like shape with a wider right side, and a similar \""triangle\"" shape on the left but with one edge that points further away to the top left.""}",study,23,stimuli/23.jpg,6577.38,7,"A bowtie-like shape with a wider right side, and a similar ""triangle"" shape on the left but with one edge that points further away to the top left.",28,a rectangle close to a perfect square
+survey-text,9,5,2.0.0,347838,pscsu9tl1a3,moose,20236,NA,"{""image_description"":""A trapezoid slightly rotated to the left""}",study,9,stimuli/9.jpg,6544.29,4,A trapezoid slightly rotated to the left,7,a rectangle close to a perfect square
+survey-text,10,6,2.0.0,398578,pscsu9tl1a3,moose,50233,NA,"{""image_description"":""A fish-like shape pointed downwards to the left with a triangular head. Its tail is near the top right and is made up of a trapezoid-like shape""}",study,51,stimuli/51.jpg,6793.84,13,A fish-like shape pointed downwards to the left with a triangular head. Its tail is near the top right and is made up of a trapezoid-like shape,27,a rectangle close to a perfect square
+survey-text,11,7,2.0.0,471126,pscsu9tl1a3,moose,72030,NA,"{""image_description"":""A squared shape with a center in the top middle that is slightly distorted. It has two connecting shapes beneath it with the one on the left being slightly longer and higher than the one on the right""}",study,95,stimuli/95.jpg,6926.4,21,A squared shape with a center in the top middle that is slightly distorted. It has two connecting shapes beneath it with the one on the left being slightly longer and higher than the one on the right,38,a rectangle close to a perfect square
+survey-text,12,8,2.0.0,556862,pscsu9tl1a3,moose,85229,NA,"{""image_description"":""a shape with a long, flat head with two \""ears\"" made up of a triangular shape and a trapezoid like shape with two branch like shapes beneath it, both pointing slightly up as if they were limbs""}",study,135,stimuli/135.jpg,7034.4,29,"a shape with a long, flat head with two ""ears"" made up of a triangular shape and a trapezoid like shape with two branch like shapes beneath it, both pointing slightly up as if they were limbs",37,a rectangle close to a perfect square
+survey-text,13,9,2.0.0,595143,pscsu9tl1a3,moose,37771,NA,"{""image_description"":""A square-like shape with a dent in the top left and another one in the bottom left that is much smaller. on the top right is a triangular dent pointing outwards""}",study,60,stimuli/60.jpg,6764.54,14,A square-like shape with a dent in the top left and another one in the bottom left that is much smaller. on the top right is a triangular dent pointing outwards,31,a rectangle close to a perfect square
+survey-text,14,10,2.0.0,634188,pscsu9tl1a3,moose,38537,NA,"{""image_description"":""A distorted zig-zag like shape that almost looks like a bird pointing downwards, with a right wing that is much larger and more distorted than the left""}",study,147,stimuli/147.jpg,7182.98,32,"A distorted zig-zag like shape that almost looks like a bird pointing downwards, with a right wing that is much larger and more distorted than the left",27,a rectangle close to a perfect square
+survey-text,15,11,2.0.0,688941,pscsu9tl1a3,moose,54246,NA,"{""image_description"":""A square-like shape with a near 90 degree angle on the bottom left, but has a large dent on the right with one triangular edge pointing towards the right and a flat triangle near the top right""}",study,38,stimuli/38.jpg,6702.45,10,"A square-like shape with a near 90 degree angle on the bottom left, but has a large dent on the right with one triangular edge pointing towards the right and a flat triangle near the top right",37,a rectangle close to a perfect square
+survey-text,16,12,2.0.0,756843,pscsu9tl1a3,moose,67387,NA,"{""image_description"":""a distorted shape that almost looks like a bird  with a triangular head pointing downwards to the right. it has a larger \""wing\"" near the top that has several dents while the bottom \""wing\"" is a near perfect triangle""}",study,114,stimuli/114.jpg,7105.53,25,"a distorted shape that almost looks like a bird  with a triangular head pointing downwards to the right. it has a larger ""wing"" near the top that has several dents while the bottom ""wing"" is a near perfect triangle",40,a rectangle close to a perfect square
+survey-text,17,13,2.0.0,820618,pscsu9tl1a3,moose,63272,NA,"{""image_description"":""a shape with a near rectangular base with a trianglular shape branching off it from the middle right. on top of that are two big shapes, one that looks like a triangle and another resembling a dented trapezoid""}",study,125,stimuli/125.jpg,7031.31,27,"a shape with a near rectangular base with a trianglular shape branching off it from the middle right. on top of that are two big shapes, one that looks like a triangle and another resembling a dented trapezoid",38,a rectangle close to a perfect square
+survey-text,18,14,2.0.0,890789,pscsu9tl1a3,moose,69662,NA,"{""image_description"":""a star-like shape with a wider bottom right point and a small bottom left triangular point. the top three points are slanted with the top left one resembling a trapezoid while the other two branch out towards the right""}",study,88,stimuli/88.jpg,6908.86,20,a star-like shape with a wider bottom right point and a small bottom left triangular point. the top three points are slanted with the top left one resembling a trapezoid while the other two branch out towards the right,39,a rectangle close to a perfect square
+survey-text,19,15,2.0.0,943338,pscsu9tl1a3,moose,52037,NA,"{""image_description"":""a slanted star-like shape with a squared top middle edge. the bottom middle shape is a near perfect triangle and the top right point is a pointed trapezoid""}",study,115,stimuli/115.jpg,6963.36,25,a slanted star-like shape with a squared top middle edge. the bottom middle shape is a near perfect triangle and the top right point is a pointed trapezoid,28,a rectangle close to a perfect square
+survey-text,20,16,2.0.0,999097,pscsu9tl1a3,moose,55254,NA,"{""image_description"":""a shape with many angled edges with a near flat base at the bottom. it has two triangular edges on the right and a triangular point on the top right""}",study,92,stimuli/92.jpg,6886.05,21,a shape with many angled edges with a near flat base at the bottom. it has two triangular edges on the right and a triangular point on the top right,30,a rectangle close to a perfect square
+survey-text,21,17,2.0.0,1044985,pscsu9tl1a3,moose,45371,NA,"{""image_description"":""a shape with a large pentagon-like head that is connected to a triangular shape like a \""neck\"" and a small triangle at its base""}",study,42,stimuli/42.jpg,6766.43,11,"a shape with a large pentagon-like head that is connected to a triangular shape like a ""neck"" and a small triangle at its base",24,a rectangle close to a perfect square
+survey-text,22,18,2.0.0,1073443,pscsu9tl1a3,moose,27948,NA,"{""image_description"":""a pentagon that is closer to an isoceles triangle angled to the top left""}",study,17,stimuli/17.jpg,6592.16,6,a pentagon that is closer to an isoceles triangle angled to the top left,14,a rectangle close to a perfect square
+survey-text,23,19,2.0.0,1118605,pscsu9tl1a3,moose,44657,NA,"{""image_description"":""a squared image with a flat top half with a small triangle pointing out of it at the top left. it is connected to another large shape similar to a pentagon but has more angles.""}",study,72,stimuli/72.jpg,6817.14,17,a squared image with a flat top half with a small triangle pointing out of it at the top left. it is connected to another large shape similar to a pentagon but has more angles.,35,a rectangle close to a perfect square
+survey-text,24,20,2.0.0,1162627,pscsu9tl1a3,moose,43494,NA,"{""image_description"":""an image that is more flat towards the left with a small triangle pointing outwards in the bottom left and a larger triangle pointing away from it in the middle right almost like a tail or a wing""}",study,77,stimuli/77.jpg,6870.06,18,an image that is more flat towards the left with a small triangle pointing outwards in the bottom left and a larger triangle pointing away from it in the middle right almost like a tail or a wing,38,a rectangle close to a perfect square
+survey-text,5,1,2.0.0,81036,psdwcey1m4n,kangaroo,49382,NA,"{""image_description"":""The outline of a a creature from the side view with a triangular tail. ""}",study,139,stimuli/139.jpg,7164.58,30,The outline of a a creature from the side view with a triangular tail.,15,"A large rectangle 
+"
+survey-text,6,2,2.0.0,134607,psdwcey1m4n,kangaroo,53065,NA,"{""image_description"":""An almost square shape where the right side has 3 parts that stick out and the left side is almost a square. ""}",study,68,stimuli/68.jpg,6783.11,16,An almost square shape where the right side has 3 parts that stick out and the left side is almost a square.,23,"A large rectangle 
+"
+survey-text,7,3,2.0.0,170866,psdwcey1m4n,kangaroo,35755,NA,"{""image_description"":""Top has three spikes and is connected to a triangular shape on the bottom. \n""}",study,88,stimuli/88.jpg,6908.86,20,"Top has three spikes and is connected to a triangular shape on the bottom. 
+",15,"A large rectangle 
+"
+survey-text,8,4,2.0.0,203848,psdwcey1m4n,kangaroo,32477,NA,"{""image_description"":""Shape of a wrench except the handle is not a stick but spikey. \n""}",study,118,stimuli/118.jpg,7003.15,26,"Shape of a wrench except the handle is not a stick but spikey. 
+",14,"A large rectangle 
+"
+survey-text,9,5,2.0.0,245492,psdwcey1m4n,kangaroo,41139,NA,"{""image_description"":""An quadrilateral shape and each side is a different length. ""}",study,7,stimuli/7.jpg,6558.43,4,An quadrilateral shape and each side is a different length.,11,"A large rectangle 
+"
+survey-text,10,6,2.0.0,277051,psdwcey1m4n,kangaroo,31053,NA,"{""image_description"":""Left side has two things that stick out and one thing that sticks out on the bottom right. ""}",study,47,stimuli/47.jpg,6715.11,12,Left side has two things that stick out and one thing that sticks out on the bottom right.,19,"A large rectangle 
+"
+survey-text,11,7,2.0.0,292904,psdwcey1m4n,kangaroo,15350,NA,"{""image_description"":""A square but the right side has three spikes.""}",study,40,stimuli/40.jpg,6690.54,10,A square but the right side has three spikes.,9,"A large rectangle 
+"
+survey-text,12,8,2.0.0,368896,psdwcey1m4n,kangaroo,75487,NA,"{""image_description"":""The shape of an hourglass but without the curves and has sharp edges. The hourglass is tilted to the left and has a triangle sticking out of it on the bottom right. \n""}",study,57,stimuli/57.jpg,6789.16,14,"The shape of an hourglass but without the curves and has sharp edges. The hourglass is tilted to the left and has a triangle sticking out of it on the bottom right. 
+",33,"A large rectangle 
+"
+survey-text,13,9,2.0.0,386521,psdwcey1m4n,kangaroo,17121,NA,"{""image_description"":""A bird that is upside down and has a fat tail. ""}",study,70,stimuli/70.jpg,6790.01,16,A bird that is upside down and has a fat tail.,12,"A large rectangle 
+"
+survey-text,14,10,2.0.0,447036,psdwcey1m4n,kangaroo,60009,NA,"{""image_description"":""The outline of the letter G but it is deformed and has a bunch of triangles sticking out of it. ""}",study,85,stimuli/85.jpg,6831.41,19,The outline of the letter G but it is deformed and has a bunch of triangles sticking out of it.,21,"A large rectangle 
+"
+survey-text,15,11,2.0.0,461677,psdwcey1m4n,kangaroo,14137,NA,"{""image_description"":""A rectangle but the right side has two triangles jutted out. ""}",study,38,stimuli/38.jpg,6702.45,10,A rectangle but the right side has two triangles jutted out.,12,"A large rectangle 
+"
+survey-text,16,12,2.0.0,473654,psdwcey1m4n,kangaroo,11473,NA,"{""image_description"":""A rigid shape with many triangles jutting out. ""}",study,123,stimuli/123.jpg,7035.3,27,A rigid shape with many triangles jutting out.,9,"A large rectangle 
+"
+survey-text,17,13,2.0.0,500188,psdwcey1m4n,kangaroo,26029,NA,"{""image_description"":""A rigid shape with three main sections and several mini sections of triangles that jut out. ""}",study,141,stimuli/141.jpg,7037.04,31,A rigid shape with three main sections and several mini sections of triangles that jut out.,17,"A large rectangle 
+"
+survey-text,18,14,2.0.0,521416,psdwcey1m4n,kangaroo,20725,NA,"{""image_description"":""Almost hour glass shape but has no curves""}",study,151,stimuli/151.jpg,7245.76,33,Almost hour glass shape but has no curves,8,"A large rectangle 
+"
+survey-text,19,15,2.0.0,537781,psdwcey1m4n,kangaroo,15859,NA,"{""image_description"":""Almost the shape of an oval but there are no curved lines. ""}",study,29,stimuli/29.jpg,6694.47,8,Almost the shape of an oval but there are no curved lines.,13,"A large rectangle 
+"
+survey-text,20,16,2.0.0,553385,psdwcey1m4n,kangaroo,15099,NA,"{""image_description"":""Shape of a bird with one fat leg. ""}",study,128,stimuli/128.jpg,7090.6,28,Shape of a bird with one fat leg.,9,"A large rectangle 
+"
+survey-text,21,17,2.0.0,620725,psdwcey1m4n,kangaroo,66835,NA,"{""image_description"":""Shape with mini hook looking triangles ""}",study,94,stimuli/94.jpg,6965.94,21,Shape with mini hook looking triangles,7,"A large rectangle 
+"
+survey-text,22,18,2.0.0,710506,psdwcey1m4n,kangaroo,89278,NA,"{""image_description"":""A rectangular shape with a bunch of divots. ""}",study,95,stimuli/95.jpg,6926.4,21,A rectangular shape with a bunch of divots.,9,"A large rectangle 
+"
+survey-text,23,19,2.0.0,727233,psdwcey1m4n,kangaroo,16223,NA,"{""image_description"":""Pentagon with a random spike in one of the corners. ""}",study,24,stimuli/24.jpg,6629.99,7,Pentagon with a random spike in one of the corners.,11,"A large rectangle 
+"
+survey-text,24,20,2.0.0,739507,psdwcey1m4n,kangaroo,11768,NA,"{""image_description"":""Basic outline of duck with no curves. ""}",study,71,stimuli/71.jpg,6779.96,17,Basic outline of duck with no curves.,8,"A large rectangle 
+"
+survey-text,5,1,2.0.0,44696,ptwavfsfbfk,dolphin,27858,NA,"{""image_description"":""upside bird with sharper corners\n""}",study,64,stimuli/64.jpg,6822.22,15,"upside bird with sharper corners
+",5,"Square
+"
+survey-text,6,2,2.0.0,48214,ptwavfsfbfk,dolphin,3014,NA,"{""image_description"":""triangle""}",study,4,stimuli/4.jpg,6515.23,3,triangle,1,"Square
+"
+survey-text,7,3,2.0.0,71824,ptwavfsfbfk,dolphin,23106,NA,"{""image_description"":""minnnoseta looking shape with a triangle added to the top and a triangler indent at the bottom\n""}",study,104,stimuli/104.jpg,6941.74,23,"minnnoseta looking shape with a triangle added to the top and a triangler indent at the bottom
+",17,"Square
+"
+survey-text,8,4,2.0.0,111039,ptwavfsfbfk,dolphin,38711,NA,"{""image_description"":""bird like figure with a triangle wing and a rhombus wing, both the front end and back end are triangles\n""}",study,75,stimuli/75.jpg,6817.48,17,"bird like figure with a triangle wing and a rhombus wing, both the front end and back end are triangles
+",20,"Square
+"
+survey-text,9,5,2.0.0,152864,ptwavfsfbfk,dolphin,41321,NA,"{""image_description"":""big whole mess, abstract drawing ""}",study,114,stimuli/114.jpg,7105.53,25,"big whole mess, abstract drawing",6,"Square
+"
+survey-text,10,6,2.0.0,193514,ptwavfsfbfk,dolphin,40144,NA,"{""image_description"":""bare bones witches head with a pointy cap, pointy chin and point nose. at the back of her head is a broomstick like figure stuck in her\n""}",study,155,stimuli/155.jpg,7171.51,33,"bare bones witches head with a pointy cap, pointy chin and point nose. at the back of her head is a broomstick like figure stuck in her
+",27,"Square
+"
+survey-text,11,7,2.0.0,199967,ptwavfsfbfk,dolphin,5949,NA,"{""image_description"":""spearhead tip\n""}",study,28,stimuli/28.jpg,6676.6,8,"spearhead tip
+",2,"Square
+"
+survey-text,12,8,2.0.0,220929,ptwavfsfbfk,dolphin,20458,NA,"{""image_description"":""rotated dinosaur bird with a flat top""}",study,136,stimuli/136.jpg,7007.06,30,rotated dinosaur bird with a flat top,7,"Square
+"
+survey-text,13,9,2.0.0,233523,ptwavfsfbfk,dolphin,12090,NA,"{""image_description"":""really fucked up half moon""}",study,124,stimuli/124.jpg,6991.53,27,really fucked up half moon,5,"Square
+"
+survey-text,14,10,2.0.0,253365,ptwavfsfbfk,dolphin,19338,NA,"{""image_description"":""witch arched like shes on a broomstick excpet she has a triangle tail at the end""}",study,142,stimuli/142.jpg,7115.27,31,witch arched like shes on a broomstick excpet she has a triangle tail at the end,16,"Square
+"
+survey-text,15,11,2.0.0,310897,ptwavfsfbfk,dolphin,57029,NA,"{""image_description"":""abstract piece\n""}",study,127,stimuli/127.jpg,7055.1,28,"abstract piece
+",2,"Square
+"
+survey-text,16,12,2.0.0,374699,ptwavfsfbfk,dolphin,63298,NA,"{""image_description"":""on the left side is some russian general with a pointed nose and hate, on the right side is popeye with a big fat trapezoid chin that faces down. Nothing in the middle\n""}",study,116,stimuli/116.jpg,7061.19,26,"on the left side is some russian general with a pointed nose and hate, on the right side is popeye with a big fat trapezoid chin that faces down. Nothing in the middle
+",33,"Square
+"
+survey-text,17,13,2.0.0,393461,ptwavfsfbfk,dolphin,18257,NA,"{""image_description"":""Cool looking C with the roof of it's house on the back""}",study,93,stimuli/93.jpg,6903.36,21,Cool looking C with the roof of it's house on the back,12,"Square
+"
+survey-text,18,14,2.0.0,416665,ptwavfsfbfk,dolphin,22701,NA,"{""image_description"":""hexagon except the top most tip is pointed""}",study,24,stimuli/24.jpg,6629.99,7,hexagon except the top most tip is pointed,8,"Square
+"
+survey-text,19,15,2.0.0,435377,ptwavfsfbfk,dolphin,18208,NA,"{""image_description"":""big boot with a pointed forward edge""}",study,23,stimuli/23.jpg,6577.38,7,big boot with a pointed forward edge,7,"Square
+"
+survey-text,20,16,2.0.0,441110,ptwavfsfbfk,dolphin,5229,NA,"{""image_description"":""abstract art""}",study,48,stimuli/48.jpg,6690.71,12,abstract art,2,"Square
+"
+survey-text,21,17,2.0.0,476461,ptwavfsfbfk,dolphin,34847,NA,"{""image_description"":""aphex twin album cover except rotated 180 degrees""}",study,46,stimuli/46.jpg,6754.16,12,aphex twin album cover except rotated 180 degrees,8,"Square
+"
+survey-text,22,18,2.0.0,569128,ptwavfsfbfk,dolphin,92164,NA,"{""image_description"":""red flag you see at a golf course without the pole part, include the square-part where the flag and the pole intersect""}",study,39,stimuli/39.jpg,6609.47,10,"red flag you see at a golf course without the pole part, include the square-part where the flag and the pole intersect",22,"Square
+"
+survey-text,23,19,2.0.0,596341,ptwavfsfbfk,dolphin,26709,NA,"{""image_description"":""genuie bottle with the tube connecting to a penguin with only one pointed foot""}",study,119,stimuli/119.jpg,7073.52,26,genuie bottle with the tube connecting to a penguin with only one pointed foot,14,"Square
+"
+survey-text,24,20,2.0.0,669594,ptwavfsfbfk,dolphin,72749,NA,"{""image_description"":""triangler creature with a one big rhombus foot, one big triangler hand pointed towards and a flag head with its butt arched in-an alabame like state""}",study,78,stimuli/78.jpg,6840.04,18,"triangler creature with a one big rhombus foot, one big triangler hand pointed towards and a flag head with its butt arched in-an alabame like state",26,"Square
+"
+survey-text,5,1,2.0.0,72381,pvvs8tb5l8c,turtle,40679,NA,"{""image_description"":""a deformed rectangle with three deformed triangles coming from the top right corner""}",study,104,stimuli/104.jpg,6941.74,23,a deformed rectangle with three deformed triangles coming from the top right corner,13,"a rectangle 
+"
+survey-text,6,2,2.0.0,201773,pvvs8tb5l8c,turtle,128773,NA,"{""image_description"":""a slanted down straight line at the top with a straight positive slope line coming down from the right with a straight slanted line coming down to the middle of the shape and then a curved line from there connecting to the top left ""}",study,20,stimuli/20.jpg,6629.9,6,a slanted down straight line at the top with a straight positive slope line coming down from the right with a straight slanted line coming down to the middle of the shape and then a curved line from there connecting to the top left,45,"a rectangle 
+"
+survey-text,7,3,2.0.0,224492,pvvs8tb5l8c,turtle,22211,NA,"{""image_description"":""an arrow shape pointing up and right ""}",study,28,stimuli/28.jpg,6676.6,8,an arrow shape pointing up and right,8,"a rectangle 
+"
+survey-text,8,4,2.0.0,303111,pvvs8tb5l8c,turtle,78109,NA,"{""image_description"":""a larger rectangle type of shape that has spaces cut out because the bottom line is kind of zig zag and then at the top a wonky triangle connected""}",study,109,stimuli/109.jpg,6984.61,24,a larger rectangle type of shape that has spaces cut out because the bottom line is kind of zig zag and then at the top a wonky triangle connected,29,"a rectangle 
+"
+survey-text,9,5,2.0.0,364604,pvvs8tb5l8c,turtle,60984,NA,"{""image_description"":""to triangles pointing up and left at the top and a rectangle on the right top pointing up and right and at the bottom a slanted rectangle ""}",study,53,stimuli/53.jpg,6758.52,13,to triangles pointing up and left at the top and a rectangle on the right top pointing up and right and at the bottom a slanted rectangle,28,"a rectangle 
+"
+survey-text,10,6,2.0.0,435551,pvvs8tb5l8c,turtle,70433,NA,"{""image_description"":""a square with a triangle taken out at the top left and a short straight line connecting a rectangle at the top right both connected to a triangle pointing down and right""}",study,64,stimuli/64.jpg,6822.22,15,a square with a triangle taken out at the top left and a short straight line connecting a rectangle at the top right both connected to a triangle pointing down and right,32,"a rectangle 
+"
+survey-text,11,7,2.0.0,564415,pvvs8tb5l8c,turtle,128354,NA,"{""image_description"":""a triangle at the top pointing down with a tiny rectangle coming out of the bottom left then on the right connected to a small rectangle and a stright line pointing from the left side of the triangle down with a deformed line across the bottom connected to a square with two points  ""}",study,138,stimuli/138.jpg,7120.54,30,a triangle at the top pointing down with a tiny rectangle coming out of the bottom left then on the right connected to a small rectangle and a stright line pointing from the left side of the triangle down with a deformed line across the bottom connected to a square with two points,55,"a rectangle 
+"
+survey-text,12,8,2.0.0,655558,pvvs8tb5l8c,turtle,90633,NA,"{""image_description"":""a rectangle with the top angled left and slightly bigger than the bottom line and a practically straight line connecting the top and bottom on the left and a slightly curved line connecting top and bottom on the other side and the uppere right corner is cut off""}",study,35,stimuli/35.jpg,6698.42,9,a rectangle with the top angled left and slightly bigger than the bottom line and a practically straight line connecting the top and bottom on the left and a slightly curved line connecting top and bottom on the other side and the uppere right corner is cut off,48,"a rectangle 
+"
+survey-text,13,9,2.0.0,742335,pvvs8tb5l8c,turtle,86266,NA,"{""image_description"":""a zig zag along the left with all points facing down then a not straight line across the bottom with zig zags connecting the right top and bottom with points going up""}",study,147,stimuli/147.jpg,7182.98,32,a zig zag along the left with all points facing down then a not straight line across the bottom with zig zags connecting the right top and bottom with points going up,32,"a rectangle 
+"
+survey-text,14,10,2.0.0,832146,pvvs8tb5l8c,turtle,89303,NA,"{""image_description"":""a triangle at the top left that points right and a straight line down on the left of it to a straight line at the bottom with a triangle at the end pointing down and right then a line from the triangle going up and right that connects to a rectangle at the top right""}",study,63,stimuli/63.jpg,6749.45,15,a triangle at the top left that points right and a straight line down on the left of it to a straight line at the bottom with a triangle at the end pointing down and right then a line from the triangle going up and right that connects to a rectangle at the top right,55,"a rectangle 
+"
+survey-text,15,11,2.0.0,890724,pvvs8tb5l8c,turtle,58073,NA,"{""image_description"":""a boat shape at the bottom with a square and a thin rectangle pointing up and right in the middle of the top with a curved line connecting to the left side and a line down""}",study,73,stimuli/73.jpg,6798.06,17,a boat shape at the bottom with a square and a thin rectangle pointing up and right in the middle of the top with a curved line connecting to the left side and a line down,36,"a rectangle 
+"
+survey-text,16,12,2.0.0,942224,pvvs8tb5l8c,turtle,50992,NA,"{""image_description"":""a square missing a rectangle in the top right corner and bottom right with an extra square shape on the bottom line""}",study,68,stimuli/68.jpg,6783.11,16,a square missing a rectangle in the top right corner and bottom right with an extra square shape on the bottom line,22,"a rectangle 
+"
+survey-text,17,13,2.0.0,1006254,pvvs8tb5l8c,turtle,63522,NA,"{""image_description"":""a triangle on both bottom sides connected to a square at the bottom with cut outs and then at the top a not straight line connect to triangles""}",study,101,stimuli/101.jpg,6963.9,23,a triangle on both bottom sides connected to a square at the bottom with cut outs and then at the top a not straight line connect to triangles,28,"a rectangle 
+"
+survey-text,18,14,2.0.0,1065038,pvvs8tb5l8c,turtle,58274,NA,"{""image_description"":""two triangles on the left upper corner and a normal corner on the bottom right with a curved shape missing from the bottom left corner and the top right""}",study,159,stimuli/159.jpg,7148.24,34,two triangles on the left upper corner and a normal corner on the bottom right with a curved shape missing from the bottom left corner and the top right,29,"a rectangle 
+"
+survey-text,19,15,2.0.0,1108019,pvvs8tb5l8c,turtle,42477,NA,"{""image_description"":""a rectangle with a triangle cut out from the whole top and whole bottom with the points by each other in the middle to the left  ""}",study,23,stimuli/23.jpg,6577.38,7,a rectangle with a triangle cut out from the whole top and whole bottom with the points by each other in the middle to the left,28,"a rectangle 
+"
+survey-text,20,16,2.0.0,1133179,pvvs8tb5l8c,turtle,24652,NA,"{""image_description"":""sort of square with rigid cut outs all alone the sides""}",study,154,stimuli/154.jpg,7155.07,33,sort of square with rigid cut outs all alone the sides,11,"a rectangle 
+"
+survey-text,21,17,2.0.0,1185480,pvvs8tb5l8c,turtle,51792,NA,"{""image_description"":""zig zag at the top to a point on the left that zig zags down to the left bottom corner where theres a triangle then curved to the top""}",study,132,stimuli/132.jpg,7051.12,29,zig zag at the top to a point on the left that zig zags down to the left bottom corner where theres a triangle then curved to the top,29,"a rectangle 
+"
+survey-text,22,18,2.0.0,1236795,pvvs8tb5l8c,turtle,50806,NA,"{""image_description"":""positive slanted left sight to a triangle cut out at top and at bottom a triangle facing down on the right side ""}",study,89,stimuli/89.jpg,6850.88,20,positive slanted left sight to a triangle cut out at top and at bottom a triangle facing down on the right side,23,"a rectangle 
+"
+survey-text,23,19,2.0.0,1250813,pvvs8tb5l8c,turtle,13510,NA,"{""image_description"":""a square with a triangle on the top right""}",study,22,stimuli/22.jpg,6593.16,7,a square with a triangle on the top right,9,"a rectangle 
+"
+survey-text,24,20,2.0.0,1289875,pvvs8tb5l8c,turtle,38554,NA,"{""image_description"":""a crayon shape on the right pointing down zig zag on boittom and piece missing in top middle  ""}",study,106,stimuli/106.jpg,6901.59,24,a crayon shape on the right pointing down zig zag on boittom and piece missing in top middle,20,"a rectangle 
+"
+survey-text,5,1,2.0.0,205885,pwpxx0x6u0n,antelope,24248,NA,"{""image_description"":""I see a weird shape\n""}",study,71,stimuli/71.jpg,6779.96,17,"I see a weird shape
+",5,"a hollow, empty square
+"
+survey-text,6,2,2.0.0,217532,pwpxx0x6u0n,antelope,11142,NA,"{""image_description"":""a weird shape""}",study,88,stimuli/88.jpg,6908.86,20,a weird shape,3,"a hollow, empty square
+"
+survey-text,7,3,2.0.0,222444,pwpxx0x6u0n,antelope,4406,NA,"{""image_description"":""a pine tree""}",study,142,stimuli/142.jpg,7115.27,31,a pine tree,3,"a hollow, empty square
+"
+survey-text,8,4,2.0.0,235635,pwpxx0x6u0n,antelope,12687,NA,"{""image_description"":""weird shape""}",study,57,stimuli/57.jpg,6789.16,14,weird shape,2,"a hollow, empty square
+"
+survey-text,9,5,2.0.0,243164,pwpxx0x6u0n,antelope,7027,NA,"{""image_description"":""A triangle""}",study,2,stimuli/2.jpg,6550.44,3,A triangle,2,"a hollow, empty square
+"
+survey-text,10,6,2.0.0,245493,pwpxx0x6u0n,antelope,1823,NA,"{""image_description"":""weird shape""}",study,134,stimuli/134.jpg,7048.98,29,weird shape,2,"a hollow, empty square
+"
+survey-text,11,7,2.0.0,247515,pwpxx0x6u0n,antelope,1520,NA,"{""image_description"":""weird shape""}",study,132,stimuli/132.jpg,7051.12,29,weird shape,2,"a hollow, empty square
+"
+survey-text,12,8,2.0.0,251216,pwpxx0x6u0n,antelope,3196,NA,"{""image_description"":""weird shape""}",study,108,stimuli/108.jpg,7046.82,24,weird shape,2,"a hollow, empty square
+"
+survey-text,13,9,2.0.0,266948,pwpxx0x6u0n,antelope,15228,NA,"{""image_description"":""a weird shaped square ""}",study,38,stimuli/38.jpg,6702.45,10,a weird shaped square,5,"a hollow, empty square
+"
+survey-text,14,10,2.0.0,269637,pwpxx0x6u0n,antelope,2183,NA,"{""image_description"":""weird shape""}",study,53,stimuli/53.jpg,6758.52,13,weird shape,2,"a hollow, empty square
+"
+survey-text,15,11,2.0.0,271930,pwpxx0x6u0n,antelope,1790,NA,"{""image_description"":""weird shape""}",study,141,stimuli/141.jpg,7037.04,31,weird shape,2,"a hollow, empty square
+"
+survey-text,16,12,2.0.0,275551,pwpxx0x6u0n,antelope,3116,NA,"{""image_description"":""weird shape""}",study,153,stimuli/153.jpg,7262.77,33,weird shape,2,"a hollow, empty square
+"
+survey-text,17,13,2.0.0,278643,pwpxx0x6u0n,antelope,2587,NA,"{""image_description"":""weird shape""}",study,87,stimuli/87.jpg,6853.72,20,weird shape,2,"a hollow, empty square
+"
+survey-text,18,14,2.0.0,287447,pwpxx0x6u0n,antelope,8299,NA,"{""image_description"":""weird shape""}",study,21,stimuli/21.jpg,6619.34,7,weird shape,2,"a hollow, empty square
+"
+survey-text,19,15,2.0.0,304161,pwpxx0x6u0n,antelope,16210,NA,"{""image_description"":""weird shape""}",study,12,stimuli/12.jpg,6544.99,5,weird shape,2,"a hollow, empty square
+"
+survey-text,20,16,2.0.0,306377,pwpxx0x6u0n,antelope,1713,NA,"{""image_description"":""weird shape""}",study,70,stimuli/70.jpg,6790.01,16,weird shape,2,"a hollow, empty square
+"
+survey-text,21,17,2.0.0,308801,pwpxx0x6u0n,antelope,1922,NA,"{""image_description"":""weird shape""}",study,43,stimuli/43.jpg,6685.72,11,weird shape,2,"a hollow, empty square
+"
+survey-text,22,18,2.0.0,310510,pwpxx0x6u0n,antelope,1206,NA,"{""image_description"":""weird shape""}",study,103,stimuli/103.jpg,6915.47,23,weird shape,2,"a hollow, empty square
+"
+survey-text,23,19,2.0.0,312138,pwpxx0x6u0n,antelope,1126,NA,"{""image_description"":""weird shape""}",study,17,stimuli/17.jpg,6592.16,6,weird shape,2,"a hollow, empty square
+"
+survey-text,24,20,2.0.0,313785,pwpxx0x6u0n,antelope,1143,NA,"{""image_description"":""weird shape""}",study,90,stimuli/90.jpg,6873.09,20,weird shape,2,"a hollow, empty square
+"
+survey-text,5,1,2.0.0,41004,px150jqg8mk,A17689315,15153,NA,"{""image_description"":""A spartan helmet""}",study,140,stimuli/140.jpg,7121.36,30,A spartan helmet,3,"A box
+"
+survey-text,6,2,2.0.0,55556,px150jqg8mk,A17689315,14037,NA,"{""image_description"":""A country?""}",study,122,stimuli/122.jpg,6982.77,27,A country?,2,"A box
+"
+survey-text,7,3,2.0.0,73772,px150jqg8mk,A17689315,17706,NA,"{""image_description"":""The sonic food chain background (I think thats the chain)""}",study,23,stimuli/23.jpg,6577.38,7,The sonic food chain background (I think thats the chain),10,"A box
+"
+survey-text,8,4,2.0.0,82472,px150jqg8mk,A17689315,8185,NA,"{""image_description"":""no idea""}",study,130,stimuli/130.jpg,7037.09,28,no idea,2,"A box
+"
+survey-text,9,5,2.0.0,86631,px150jqg8mk,A17689315,3654,NA,"{""image_description"":""A leaf""}",study,45,stimuli/45.jpg,6703.14,11,A leaf,2,"A box
+"
+survey-text,10,6,2.0.0,94979,px150jqg8mk,A17689315,7845,NA,"{""image_description"":""A pail""}",study,84,stimuli/84.jpg,6959.66,19,A pail,2,"A box
+"
+survey-text,11,7,2.0.0,104188,px150jqg8mk,A17689315,8707,NA,"{""image_description"":""Tapu Koko""}",study,86,stimuli/86.jpg,6896.99,20,Tapu Koko,2,"A box
+"
+survey-text,12,8,2.0.0,110731,px150jqg8mk,A17689315,6027,NA,"{""image_description"":""A bat""}",study,59,stimuli/59.jpg,6820.36,14,A bat,2,"A box
+"
+survey-text,13,9,2.0.0,133112,px150jqg8mk,A17689315,21877,NA,"{""image_description"":""A bust of a person wearing a witch hat""}",study,117,stimuli/117.jpg,7067.33,26,A bust of a person wearing a witch hat,9,"A box
+"
+survey-text,14,10,2.0.0,145490,px150jqg8mk,A17689315,11876,NA,"{""image_description"":""the red shoe art piece on campus""}",study,48,stimuli/48.jpg,6690.71,12,the red shoe art piece on campus,7,"A box
+"
+survey-text,15,11,2.0.0,149474,px150jqg8mk,A17689315,3468,NA,"{""image_description"":""no idea""}",study,120,stimuli/120.jpg,7075.54,26,no idea,2,"A box
+"
+survey-text,16,12,2.0.0,155167,px150jqg8mk,A17689315,5181,NA,"{""image_description"":""A cleaver""}",study,26,stimuli/26.jpg,6669.01,8,A cleaver,2,"A box
+"
+survey-text,17,13,2.0.0,160500,px150jqg8mk,A17689315,4830,NA,"{""image_description"":""Mohawk""}",study,55,stimuli/55.jpg,6800,13,Mohawk,1,"A box
+"
+survey-text,18,14,2.0.0,172407,px150jqg8mk,A17689315,11404,NA,"{""image_description"":""Deformed dragon""}",study,94,stimuli/94.jpg,6965.94,21,Deformed dragon,2,"A box
+"
+survey-text,19,15,2.0.0,177532,px150jqg8mk,A17689315,4621,NA,"{""image_description"":""Arrow""}",study,31,stimuli/31.jpg,6687.71,9,Arrow,1,"A box
+"
+survey-text,20,16,2.0.0,187822,px150jqg8mk,A17689315,9788,NA,"{""image_description"":""no idea""}",study,137,stimuli/137.jpg,7099.3,30,no idea,2,"A box
+"
+survey-text,21,17,2.0.0,193940,px150jqg8mk,A17689315,5613,NA,"{""image_description"":""deformed triangle""}",study,16,stimuli/16.jpg,6566.56,6,deformed triangle,2,"A box
+"
+survey-text,22,18,2.0.0,203985,px150jqg8mk,A17689315,9534,NA,"{""image_description"":""A country outline""}",study,66,stimuli/66.jpg,6801.34,16,A country outline,3,"A box
+"
+survey-text,23,19,2.0.0,208270,px150jqg8mk,A17689315,3782,NA,"{""image_description"":""A kite""}",study,39,stimuli/39.jpg,6609.47,10,A kite,2,"A box
+"
+survey-text,24,20,2.0.0,216651,px150jqg8mk,A17689315,7877,NA,"{""image_description"":""torn up piece of paper""}",study,153,stimuli/153.jpg,7262.77,33,torn up piece of paper,5,"A box
+"
