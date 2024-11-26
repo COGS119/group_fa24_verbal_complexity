@@ -6,12 +6,15 @@ processed_data_directory <- here("..","data","processed_data")
 file_name <- "verbal_complexity"
 
 #read experiment data
-exp_data <- read_csv(here(processed_data_directory,paste0(file_name,"-alldata.csv")))
+exp_data <- read_csv(here(processed_data_directory,paste0(file_name,"-alldata.csv"))) %>%
+  rename(participant_id=participant)
 
 #double check that participant ids are unique
 counts_by_random_id <- exp_data %>%
-  group_by(random_id) %>%
+  group_by(random_id,participant_id) %>%
   count()
+#output to track participants
+write_csv(counts_by_random_id,here(processed_data_directory,paste0(file_name,"-participant-list.csv")))
 
 #extract practice response
 practice <- exp_data %>% 
@@ -29,7 +32,7 @@ exp_data <- exp_data %>%
 processed_data <- exp_data %>%
   filter(condition=="study") %>%
   select(-c(success:failed_video),-file_name) %>%
-  group_by(participant) %>%
+  group_by(participant_id) %>%
   mutate(
     trial_number=seq(n())
   ) %>%
@@ -39,8 +42,3 @@ processed_data <- exp_data %>%
 
 #store processed and prepped data
 write_csv(processed_data,here(processed_data_directory,paste0(file_name,"-processed-data.csv")))
-
-#quick look
-# ggplot(filter(processed_data,word_count<60),aes(surprisal,word_count))+
-#   geom_point()+
-#   geom_smooth(method="loess")
